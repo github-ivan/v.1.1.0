@@ -1,0 +1,211 @@
+X-Account-Key: account2
+Return-path: <errors-ms1@e.locafilm.com>
+Envelope-to: pablof@uvigo.es
+Delivery-date: Tue, 15 Jun 2010 09:33:52 +0200
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1OOQee-0002fI-9k
+	for pablof@uvigo.es; Tue, 15 Jun 2010 09:33:52 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5F7XlbV025513
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@uvigo.es>; Tue, 15 Jun 2010 09:33:51 +0200
+Received: from smtp26.e.locafilm.com ([82.138.105.226])
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1OOQeX-000546-K7
+	for pablof@uvigo.es; Tue, 15 Jun 2010 09:33:47 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=default;
+	d=e.locafilm.com;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:list-unsubscribe:content-type;
+	bh=jUFCxA6VaPe4Eu5oJVK/9FxEqZ3+qj/1zUhc+ypqiSc=;
+	b=Sy6ksEQpLU8jZfKjKK+aYxYvzNs36tWKZ7AtGNWgthEW9/nKHRQ7eucEWg0Fie3ZZZCImvsrkDcrPr35QdI05AJRATQBLqvn2roUhzQsG3mnxIT4OvHT3yq1lr+RWCKfrHGJnodCFz8oGRiKSOpNJ+BmhI95zM1AlyGcqhzyxgQ=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=default;
+	d=e.locafilm.com;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:List-Unsubscribe:Content-Type;
+	b=hjhzvdZRkrJ66ni424lzQwwXh15lLBuKHWkSFqw34O4rB9pyzv1MaOV7nCxTh5q0uWARYaYEKQ+vYrcwMppSUnlULIjQNnlltKVwFIyUaBUWWonar15AZm5+P4nQHckIKSwfGoqXUsagLTgKSagZYPeUAW0sEqadcIdToo7m1N4=
+From: "Jazztel" <pedritoelfisgon@e.locafilm.com>
+Date: Tue, 15 Jun 2010 09:33:38 +0200
+To: <pablof@uvigo.es>
+Reply-To: =?windows-1252?Q?Ne_pas_R=E9pondre?= <pedritoelfisgon@e.locafilm.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 5.10.5642
+Message-ID: <NMID-104-294403607-21573031-AA==@ms1_locafilm>
+List-Unsubscribe: <http://w.e.locafilm.com/webApp/locUnsub?id=j2toRq6RXlDfBUio
+	foy9otJt0HNpqWA04BJCVCACAA%3D%3D&lang=es>, <mailto:feedback@e.locafilm.com>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_312_15EB78AC.15EB78AC"
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=-2.6 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	SPF_PASS autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=-2.6 required=5.0 tests=BAYES_00=-2.599,
+	HTML_MESSAGE=0.001,SPF_PASS=-0.001 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: 
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: =?windows-1252?Q?Aprovecha_esta_nueva_oferta_de_adsl_y_ahorra_200_euros_al_a=F1o?=
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: errors-ms1@e.locafilm.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_312_15EB78AC.15EB78AC
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Si no puede leer este mensaje, consulte la versión en línea Gracias.  
+
+Para asegurarse de que recibe correctamente nuestros correos,
+añada la dirección pedritoelfisgon@e.locafilm.com en su agenda de direcciones. Gracias.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra,
+basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página.
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+JazztelAdsl mas llamadas a fijos nacionales 14.98 euros al mesAhorro de mas de 200 euros al añoRouter wifi gratisSer cliente de JAZZTEL  es todo ventajas    * Ahorro de más de 200 € al año    * Sin periodo de permanencia    * Si no quedas satisfecho te devolvemos el dinero    * Servicio técnico gratuito y muy profesional    * Internet de gran velocidad gracias a la tecnología ADSL 2+ y Anexo M¿Conoces un mejor momento para contratar el ADSL de JAZZTEL? Más información Promociones válidas sólo para nuevas altas online desde el 01/06/10 hasta el 30/06/10. Promoción 14.98 €/mes hasta el 31/12/10: para los productos 20Mb, 6 Mb y 3 Mb ADSL (para clientes sin línea previa o portabilidades desde otro operador distinto a Telefónica) con línea Jazztel. Llamadas a fijos nacionales GRATIS. Cuota de Alta prepago no incluida en promoción 43,10 € con dto 50% para altas online. Promoción 14,98 €/mes hasta el 31/10/10: para los productos 20Mb y 6 Mb con línea Jazztel, para 
+portabilidades desde Telefónica. Llamadas a fijos nacionales GRATIS. Sin cuota de alta. Condiciones de ambas promos. Cuota de línea no incluida en las promociones 13.95 €/mes.Sujeto a disponibilidad geográfica. Precios cuota ADSL con línea Jazztel tras promociones: ADSL hasta 20 Mb 29,95 €/mes. ADSL hasta 6 Mb 25,95 €/mes. ADSL hasta 3 Mb 21,95 €/mes. Todos los precios del legal con IVA no incluido en precios. Comparativa ahorro con otros operadores en productos 6 Mb frente al ADSL 6 megas con línea de Jazztel. Sin promos (IVA incluido). Devolución sólo de las cuotas de ADSL y Línea JAZZTEL pagadas. Válido para bajas solicitadas en los 75 días posteriores a la activación del servicio previa solicitud.Servicio técnico gratuito y muy profesional: Fuente: Brain Trust Consulting Services - Mayo 2009.JAZZTEL sorteará un Smart FORTWO COUP�� MHD 61 CV EDITION 10 entre los nuevos clientes que se hayan dado de alta en algún servicio de ADSL o Acceso Internet de 
+JAZZTEL, del catálogo de hogar, a través del canal online (cualquier página comercial web que esté dentro del dominio /jazztel.com o directamente en el proceso de alta que se encuentra en www.jazztel.com) entre el 4 de Mayo y el 5 de Julio y que se encuentre activos y al corriente de pago en el momento de la entrega del premio.Más información sobre el sorteo en Bases Legales.Datos obtenidos por comparativa realizada con productos similares de ADSL residencial de otros operadores con cobertura nacional de ADSL y con fecha del 6/10/09.http://www.tkqlhce.com/click-3082561-10778828?url=http%3A%2F%2Faltas.jazztel.com%2Fl2fstats%2Fppc%3Fl2fid%3D1002546
+
+De acuerdo con la ley sobre informática y libertades, puede darse de baja en cualquier momento.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra, basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página. 
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+------=_NextPart_312_15EB78AC.15EB78AC
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+</HEAD>
+<BODY>
+  <center>
+  <table width=3D'600' align=3D"center">
+    <tr>
+    <td bgcolor=3D"#A6A6A6" height=3D'40'>
+        <center>
+        <FONT COLOR=3D'#FFFFFF' STYLE=3D'font-family: Verdana;font-size: 10=
+px;'>
+    <FONT COLOR=3D'#5A5A5A' STYLE=3D'font-family: Verdana;font-size: 11px; =
+'>Si no puede leer este mensaje, 
+       <a href=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3bdabbc4,1bb37a75,1c43=
+2352&p1=3D54a9d2a0502c419a94" _label=3D"Page miroir" _type=3D"mirrorPage" s=
+tyle=3D"color:#333;"><span style=3D"color:#333;">consulte la versi=C3=B3n e=
+n l=C3=ADnea Gracias</span></a><br/></FONT><br/>Pedrito el Fisgon le propon=
+e descubrir la oferta m=C3=A1s abajo</b></font><br>
+    <font style=3D"font-family: Verdana; font-size: 11px;" color=3D"#d6346d=
+"><b> Ahorra llamando y navegando por internet, </b><a href=3D"http://t.e.l=
+ocafilm.com/r/=3Fid=3Dh3bdabbc4,1bb37a75,1c432353">sigue este enlace</a><br=
+><div align=3Dcenter><FONT face=3DArial color=3D#000000 size=3D2>Si ya no d=
+esea recibir ofertas comerciales de nuestra parte, por favor entre aqu=C3=
+=AD,<BR/><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3bdabbc4,1bb37a75,1c=
+432354&p1=3Dj2toRq6RXlDfBUiofoy9otJt0HNpqWA04BJCVCACAA%3D%3D" _type=3D"opto=
+ut" _label=3D"Lien de d=C3=A9sinscription">Entre en esta p=C3=A1gina.</A></=
+FONT></div>
+</font>
+    </center></td></tr></table>
+    </center>
+
+
+
+
+
+<P><center><table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D=
+"550">      <tr>      <td><a target=3D"_blank" href=3D"http://t.e.locafilm.=
+com/r/=3Fid=3Do3bdabbc4,1bb37a75,1c432353"><img src=3D"http://img.potejack.=
+com/ES/jazztel_junio_semana/550x650.gif" alt=3D" ahorro de mas de 200 euros=
+" border=3D"0" height=3D"350" width=3D"550" /></a></td>    </tr>    <tr>   =
+   <td>      <table border=3D"0" cellpadding=3D"10" cellspacing=3D"0" width=
+=3D"550">                  <tr>            <td align=3D"left" bgcolor=3D"#e=
+fa424" valign=3D"middle"><font style=3D"font-size: 14px;" color=3D"#000000"=
+ face=3D"Trebuchet MS, Arial">Ser cliente de <strong>JAZZTEL</strong> es to=
+do ventajas</font></td>           </tr>          <tr>            <td align=
+=3D"left" bgcolor=3D"#efa424" valign=3D"middle"><font style=3D"font-size: 1=
+4px;" color=3D"#000000" face=3D"Trebuchet MS, Arial">            <ul>      =
+        <li><strong>Ahorro</strong> de m&aacute;s de<strong> 200 &euro; al =
+a&ntilde;o</strong></li>               <li><strong>Sin periodo de permanenc=
+ia</strong></li>               <li>Si no quedas satisfecho <strong>te devol=
+vemos el dinero</strong></li>               <li><strong>Servicio t&eacute;c=
+nico gratuito</strong> y muy <strong>profesional</strong></li>             =
+  <li>Internet de<strong> gran velocidad</strong> gracias a la tecnolog&iac=
+ute;a <strong>ADSL 2+</strong> y <strong>Anexo M</strong></li>             =
+</ul>            </font></td>          </tr>          <tr>            <td a=
+lign=3D"left" bgcolor=3D"#efa424" valign=3D"middle"><font style=3D"font-siz=
+e: 14px;" color=3D"#000000" face=3D"Trebuchet MS, Arial">&iquest;Conoces un=
+ mejor momento para contratar el <strong>ADSL</strong> de <strong>JAZZTEL</=
+strong>=3F <a style=3D"color: rgb(255, 255, 255);" target=3D"_blank" href=
+=3D"http://t.e.locafilm.com/r/=3Fid=3Do3bdabbc4,1bb37a75,1c432356">M&aacute=
+;s informaci&oacute;n</a></font></td>           </tr>          <tr>        =
+    <td align=3D"left" bgcolor=3D"#efa424" valign=3D"middle">&nbsp;</td>   =
+       </tr>          <tr>            <td align=3D"left" bgcolor=3D"#efa424=
+" valign=3D"middle"><font style=3D"font-size: 11px;" color=3D"#ffffff" face=
+=3D"Trebuchet MS, Arial">            <p> Promociones v&aacute;lidas s&oacut=
+e;lo para nuevas altas online desde el 01/06/10 hasta el 30/06/10. Promoci&=
+oacute;n 14.98 &euro;/mes hasta el 31/12/10: para los productos 20Mb, 6 Mb =
+y 3 Mb ADSL (para clientes sin l&iacute;nea previa o portabilidades desde o=
+tro operador distinto a Telef&oacute;nica) con l&iacute;nea Jazztel. Llamad=
+as a fijos nacionales GRATIS. Cuota de Alta prepago no incluida en promoci&=
+oacute;n 43,10 &euro; con dto 50% para altas online. Promoci&oacute;n 14,98=
+ &euro;/mes hasta el 31/10/10: para los productos 20Mb y 6 Mb con l&iacute;=
+nea Jazztel, para portabilidades desde Telef&oacute;nica. Llamadas a fijos =
+nacionales GRATIS. Sin cuota de alta. Condiciones de ambas promos. Cuota de=
+ l&iacute;nea no incluida en las promociones 13.95 &euro;/mes.Sujeto a  dis=
+ponibilidad geogr&aacute;fica. Precios cuota ADSL con l&iacute;nea Jazztel =
+tras promociones: ADSL hasta 20 Mb 29,95 &euro;/mes. ADSL hasta 6 Mb 25,95 =
+&euro;/mes. ADSL hasta 3 Mb 21,95 &euro;/mes. Todos los precios del legal c=
+on IVA no incluido en precios. Comparativa ahorro con otros operadores en p=
+roductos 6 Mb frente al ADSL 6 megas con l&iacute;nea de Jazztel. Sin promo=
+s (IVA incluido). Devoluci&oacute;n s&oacute;lo de las cuotas de ADSL y L&i=
+acute;nea JAZZTEL pagadas. V&aacute;lido para bajas solicitadas en los 75 d=
+&iacute;as posteriores a la activaci&oacute;n del servicio previa solicitud=
+=2E Servicio t&eacute;cnico gratuito y muy profesional: Fuente: Brain Trus=
+t Consulting Services - Mayo 2009.</p>             <p>JAZZTEL sortear&aacut=
+e; un Smart FORTWO COUP&eacute; MHD 61 CV EDITION 10 entre los nuevos clien=
+tes que se hayan dado de alta en alg&uacute;n servicio de ADSL o Acceso Int=
+ernet de JAZZTEL, del cat&aacute;logo de hogar, a trav&eacute;s del canal o=
+nline (cualquier p&aacute;gina comercial web que est&eacute; dentro del dom=
+inio /jazztel.com o directamente en el proceso de alta que se encuentra en =
+www.jazztel.com) entre el 4 de Mayo y el 5 de Julio y que se encuentre acti=
+vos y al corriente de pago en el momento de la entrega del premio. M&aacute=
+;s informaci&oacute;n sobre el sorteo en <a style=3D"color: rgb(0, 0, 0);" =
+target=3D"_blank" href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3bdabbc4,1bb37=
+a75,1c432357">Bases Legales</a>.</p> <p>Datos obtenidos por comparativa rea=
+lizada con productos similares de ADSL residencial de otros operadores con =
+cobertura nacional de ADSL y con fecha del 6/10/09.</p>            </font><=
+/td>          </tr>              </table>      </td>    </tr>  </table></ce=
+nter><img src=3D"http://www.ftjcfx.com/image-3082561-10778828" alt=3D"image=
+n de tracking" border=3D"0" height=3D"1" width=3D"1" /></P>
+<P><FONT face=3D"Courier New" color=3D#008080 size=3D2><br/><DIV align=3Dce=
+nter><FONT face=3DArial color=3D#000000 size=3D2>De acuerdo con nuestros da=
+tos, usted registr=C3=B3 la direcci=C3=B3n &nbsp;<FONT face=3D"Courier New"=
+ color=3D#008080 size=3D2>pablof@uvigo.es</FONT> cuando se dio de alta en n=
+uestro sitio web.</FONT><BR/><br/><FONT face=3D"Courier New" color=3D#00808=
+0 size=3D2><div align=3Dcenter><FONT face=3DArial color=3D#000000 size=3D2>=
+Si ya no desea recibir ofertas comerciales de nuestra parte, por favor entr=
+e aqu=C3=AD,<BR/><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3bdabbc4,1bb=
+37a75,1c432358&p1=3Dj2toRq6RXlDfBUiofoy9otJt0HNpqWA04BJCVCACAA%3D%3D" _type=
+=3D"optout" _label=3D"Lien de d=C3=A9sinscription">Entre en esta p=C3=A1gin=
+a.</A></FONT></div>
+</FONT></DIV></FONT></P><img height=3D'0' width=3D'0' alt=3D'' src=3D'http:=
+//t.e.locafilm.com/r/=3Fid=3Do3bdabbc4,1bb37a75,1'/></BODY></HTML>
+
+------=_NextPart_312_15EB78AC.15EB78AC--
+
+

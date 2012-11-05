@@ -1,0 +1,758 @@
+###########################################################################
+#     POSIX REGULAR EXPRESIONS                                            #
+###########################################################################
+#     SPAM REGULAR EXPRESIONS        #
+######################################
+#     BODY                 #
+############################
+
+body HAS_VIAGRA_ON_BODY		eval("[vV][iI?1!][aA][gG][rR][aA]")
+describe HAS_VIAGRA_ON_BODY     Contains references to viagra in content
+score HAS_VIAGRA_ON_BODY        2
+
+body HAS_CIALLIS_ON_BODY         eval("[cC][iI?1!][aA][Ll]+[iI?1!][Ss5]")
+describe HAS_CIALLIS_ON_BODY    Contains references to ciallis in content
+score HAS_CIALLIS_ON_BODY       2
+
+body HAS_LEVITRA_ON_BODY        eval("[lL][eE][vV][iI?1!][tT][rR][aA]")
+describe HAS_LEVITRA_ON_BODY    Contains references to levitra in content
+score HAS_LEVITRA_ON_BODY       2
+
+body HAS_GESDAI_ON_BODY		eval("[gG][eE][sS][dD][aA][iI?1!]")
+describe HAS_GESDAI_ON_BODY     Contains references to GesDAI in content
+score HAS_GESDAI_ON_BODY        2
+
+body HAS_DRUGS_ON_BODY		eval("[dD][rR][uU][gG][sS]{0,1}")
+describe HAS_DRUGS_ON_BODY      Contains references to DRUGS in content
+score HAS_DRUGS_ON_BODY         1.37
+
+body HAS_NORMAL_ON_BODY		eval("[nN][oO][rR][mM][aA][lL][.]{0,1}")
+describe HAS_NORMAL_ON_BODY     Contains references to NORMAL in content
+score HAS_NORMAL_ON_BODY        1.36
+
+body HAS_AGE_ON_BODY		eval("[aA][gG][eE][.]{0,1}")
+describe HAS_AGE_ON_BODY        Contains references to AGE in content
+score HAS_AGE_ON_BODY           1.35
+
+body HAS_COMERCIALES_ON_BODY        eval("[cC][oO][mM][eE][rR][cC][iI][aA][lL][eE]{0,1}[sS]{0,1}[.]{0,1}")
+describe HAS_COMERCIALES_ON_BODY    Contains references to COMERCIALES in content
+score HAS_COMERCIALES_ON_BODY       1.28
+
+body HAS_WITH_ON_BODY        eval("[wW][iI][tT][hH][.]{0,1}")
+describe HAS_WITH_ON_BODY    Contains references to WITH in content
+score HAS_WITH_ON_BODY       1.29
+
+body HAS_NUESTR_ON_BODY        eval("[nN][uU][eE][sS][tT][rR][aAoO][sS]{0,1}[.]{0,1}")
+describe HAS_NUESTR_ON_BODY    Contains references to NUESTR in content
+score HAS_NUESTR_ON_BODY       1.35
+
+body HAS_HEALTHCARE_ON_BODY        eval("[hH][eE][aA][lL][tT][hH][cC][aA][rR][eE][.]{0,1}")
+describe HAS_HEALTHCARE_ON_BODY    Contains references to HEALTHCARE in content
+score HAS_HEALTHCARE_ON_BODY       1.30
+
+body HAS_HAVE_ON_BODY        eval("[hH][aA][vV][eE][.]{0,1}")
+describe HAS_HAVE_ON_BODY    Contains references to HAVE in content
+score HAS_HAVE_ON_BODY       1.27
+
+body HAS_DESEA_ON_BODY        eval("[dD][eE][sS][eE][aA][.]{0,1}")
+describe HAS_DESEA_ON_BODY    Contains references to HEALTHCARE in content
+score HAS_DESEA_ON_BODY       1.25
+
+body HAS_WINDOWTEXT_ON_BODY        eval("[wW][iI][nN][dD][oO][wW][tT][eE][xX][tT][.]{0,1}")
+describe HAS_WINDOWTEXT_ON_BODY    Contains references to WINDOWTEXT in content
+score HAS_WINDOWTEXT_ON_BODY       1.24
+
+body HAS_PRICING_ON_BODY        eval("[pP][rR][iI][cC][iI][nN][gG][.]{0,1}")
+describe HAS_PRICING_ON_BODY    Contains references to PRICING in content
+score HAS_PRICING_ON_BODY       1.30
+
+body HAS_HEALTH_ON_BODY        eval("[hH][eE][aA][lL][tT][hH][.]{0,1}")
+describe HAS_HEALTH_ON_BODY    Contains references to HEALTH in content
+score HAS_HEALTH_ON_BODY       1.24
+
+body HAS_USTED_ON_BODY        eval("[uU][sS][tT][eE][dD][.]{0,1}")
+describe HAS_USTED_ON_BODY    Contains references to USTED in content
+score HAS_USTED_ON_BODY       1.27
+
+body HAS_OFERTA_ON_BODY        eval("[oO][fF][eE][rR][tT][aA][sS]{0,1}[.]{0,1}")
+describe HAS_OFERTA_ON_BODY    Contains references to OFERTA in content
+score HAS_OFERTA_ON_BODY       1.06
+
+body HAS_MARCA_ON_BODY        eval("[mM][aA][rR][cC][aA][sS]{0,1}[.]{0,1}")
+describe HAS_MARCA_ON_BODY    Contains references to MARCA in content
+score HAS_MARCA_ON_BODY       1.02
+
+body HAS_EMAIL_ON_BODY        eval("[eE]{0,1}[-]{0,1}[mM][aA][iI][lL][sS?][.]{0,1}")
+describe HAS_EMAIL_ON_BODY    Contains references to EMAIL in content
+score HAS_EMAIL_ON_BODY       1.19
+
+body HAS_REIMBURSEMENT_ON_BODY        eval("[rR][eE][iI][mM][bB][uU][rR][sS][eE][mM][eE][nN][tT][.]{0,1}")
+describe HAS_REIMBURSEMENT_ON_BODY    Contains references to REIMBURSEMENT in content
+score HAS_REIMBURSEMENT_ON_BODY       1.23
+
+body HAS_PHARMA_ON_BODY        eval("[pP][rR][aA][rR][mM][aA](ceutical|cy){0,1}")
+describe HAS_PHARMA_ON_BODY    Contains references to PHARMA in content
+score HAS_PHARMA_ON_BODY       1.21
+
+body HAS_INTERNET_ON_BODY        eval("[iI][nN][tT][eE][rR][nN][eE][tT][.]{0,1}")
+describe HAS_INTERNET_ON_BODY    Contains references to INTERNET in content
+score HAS_INTERNET_ON_BODY       1.20
+
+body HAS_DATO_ON_BODY        eval("[dD][aA][tT][oO][sS]{0,1}[.]{0,1}")
+describe HAS_DATO_ON_BODY    Contains references to DATO in content
+score HAS_DATO_ON_BODY       1.17
+
+body HAS_MENSAJE_ON_BODY        eval("[mM][eE][nN][sS][aA][jJ][eE][sS]{0,1}[.]{0,1}")
+describe HAS_MENSAJE_ON_BODY    Contains references to MENSAJE in content
+score HAS_MENSAJE_ON_BODY       1.29
+
+body HAS_ADSL_ON_BODY        eval("[aA][dD][sS][lL][.]{0,1}")
+describe HAS_ADSL_ON_BODY    Contains references to ADSL in content
+score HAS_ADSL_ON_BODY       1.14
+
+body HAS_PRICE_ON_BODY        eval("[pP][rR][iI][cC][eE][sS]{0,1}[.]{0,1}")
+describe HAS_PRICE_ON_BODY    Contains references to PRICE in content
+score HAS_PRICE_ON_BODY       1.14
+
+body HAS_WHICH_ON_BODY        eval("[wW][hH][iI][cC][hH][.]{0,1}")
+describe HAS_WHICH_ON_BODY    Contains references to WHICH in content
+score HAS_WHICH_ON_BODY       1.12
+
+body HAS_TRABAJO_ON_BODY        eval("[tT][rR][aA][bB][aA][jJ][oO][.]{0,1}")
+describe HAS_TRABAJO_ON_BODY    Contains references to TRABAJO in content
+score HAS_TRABAJO_ON_BODY       1.22
+
+body HAS_CUALQUIER_ON_BODY        eval("[cC][uU][aA][lL][qQ][uU][iI][eE][rR][aA]{0,1}[.]{0,1}")
+describe HAS_CUALQUIER_ON_BODY    Contains references to CUALQUIER in content
+score HAS_CUALQUIER_ON_BODY       1.11
+
+body HAS_COPYRIGHT_ON_BODY        eval("[cC][oO][pP][iI][rR][iI][gG][hH][tT]{0,1}[.]{0,1}")
+describe HAS_COPYRIGHT_ON_BODY    Contains references to COPYRIGHT in content
+score HAS_COPYRIGHT_ON_BODY       1.11
+
+body HAS_FAVOR_ON_BODY        eval("[fF][aA][vV][oO][rR][.]{0,1}")
+describe HAS_FAVOR_ON_BODY    Contains references to FAVOR in content
+score HAS_FAVOR_ON_BODY       1.29
+
+body HAS_MORE_ON_BODY        eval("[mM][oO][rR][eE][.]{0,1}")
+describe HAS_MORE_ON_BODY    Contains references to MORE in content
+score HAS_MORE_ON_BODY       1.14
+
+body HAS_CUENTA_ON_BODY        eval("[cC][uU][eE][nN][tT][aA][.]{0,1}")
+describe HAS_CUENTA_ON_BODY    Contains references to CUENTA in content
+score HAS_CUENTA_ON_BODY       1.13
+
+body HAS_DERECHOS_ON_BODY        eval("[dD][eE][oO][rR][eE][cC][hH][oO][sS]{0,1}[.]{0,1}")
+describe HAS_DERECHOS_ON_BODY    Contains references to DERECHOS in content
+score HAS_DERECHOS_ON_BODY       1.10
+
+body HAS_GENERIC_ON_BODY        eval("[gG][eE][nN][eE][rR][iI][cC][.]{0,1}")
+describe HAS_GENERIC_ON_BODY    Contains references to GENERIC in content
+score HAS_GENERIC_ON_BODY       1.11
+
+body HAS_PARTE_ON_BODY        eval("[pP][aA][rR][tT][eE][sS]{0,1}[.]{0,1}")
+describe HAS_PARTE_ON_BODY    Contains references to PARTE in content
+score HAS_PARTE_ON_BODY       1.30
+
+body HAS_NUEV_ON_BODY        eval("[nN][uU][eE][vV][aAoO][sS]{0,1}[.]{0,1}")
+describe HAS_NUEV_ON_BODY    Contains references to NUEV in content
+score HAS_NUEV_ON_BODY       1.23
+
+body HAS_ACUERDO_ON_BODY        eval("[aA][cC][uU][eE][rR][dD][oO][.]{0,1}")
+describe HAS_ACUERDO_ON_BODY    Contains references to ACUERDO in content
+score HAS_ACUERDO_ON_BODY       1.09
+
+body HAS_MADRID_ON_BODY        eval("[mM][aA][dD][rR][iI][dD][.]{0,1}")
+describe HAS_MADRID_ON_BODY    Contains references to MADRID in content
+score HAS_MADRID_ON_BODY       1.10
+
+body HAS_ONLY_ON_BODY        eval("[oO][nN][lL][yY][.]{0,1}")
+describe HAS_ONLY_ON_BODY    Contains references to ONLY in content
+score HAS_ONLY_ON_BODY       1.09
+
+body HAS_INSURANCE_ON_BODY        eval("[iI][nN][sS][uU][rR][aA][nN][cC][eE][.]{0,1}")
+describe HAS_INSURANCE_ON_BODY    Contains references to INSURANCE in content
+score HAS_INSURANCE_ON_BODY       1.10
+
+body HAS_PROPIETARI_ON_BODY        eval("[pP][rR][oO][pP][iI][eE][tT][aA][rR][iI][aAoO][sS]{0,1}[.]{0,1}")
+describe HAS_PROPIETARI_ON_BODY    Contains references to PROPIETARI in content
+score HAS_PROPIETARI_ON_BODY       1.09
+
+body HAS_MENCIONADA_ON_BODY        eval("[mM][eE][nN][cC][iI][oO][nN][aA][dD][aAoO][sS]{0,1}[.]{0,1}")
+describe HAS_MENCIONADA_ON_BODY    Contains references to MENCIONADA in content
+score HAS_MENCIONADA_ON_BODY       1.09
+
+body HAS_SITIO_ON_BODY        eval("[sS][iI][tT][iI][oO][sS]{0,1}[.]{0,1}")
+describe HAS_SITIO_ON_BODY    Contains references to MENCIONADA in content
+score HAS_SITIO_ON_BODY       1.09
+
+body HAS_REPORT_ON_BODY        eval("[rR][eE][pP][oO][rR][tT][.]{0,1}")
+describe HAS_REPORT_ON_BODY    Contains references to REPORT in content
+score HAS_REPORT_ON_BODY       1.10
+
+body HAS_PERTENECEN_ON_BODY        eval("[pP][eE][rR][tT][eE][nN][eE][cC][eE][nN][.]{0,1}")
+describe HAS_PERTENECEN_ON_BODY    Contains references to PERTENECEN in content
+score HAS_PERTENECEN_ON_BODY       1.09
+
+body HAS_AUTOCAD_ON_BODY        eval("[aA][uU][tT][oO][cC][aA][dD][.]{0,1}")
+describe HAS_AUTOCAD_ON_BODY    Contains references to AUTOCAD in content
+score HAS_AUTOCAD_ON_BODY       1.09
+
+body HAS_RESPECTIVO_ON_BODY        eval("[rR][eE][sS][pP][eE][cC][tT][iI][vV][oO][sS]{0,1}[.]{0,1}")
+describe HAS_RESPECTIVO_ON_BODY    Contains references to RESPECTIVO in content
+score HAS_RESPECTIVO_ON_BODY       1.09
+
+body HAS_RESERVADO_ON_BODY        eval("[rR][eE][sS][eE][rR][vV][aA][dD][oO][sS]{0,1}[.]{0,1}")
+describe HAS_RESERVADO_ON_BODY    Contains references to RESERVADO in content
+score HAS_RESERVADO_ON_BODY       1.08
+
+body HAS_CURSO_ON_BODY        eval("[cC][uU][rR][sS][oO][sS]\{0,1}[.]{0,1}")
+describe HAS_CURSO_ON_BODY    Contains references to CURSO in content
+score HAS_CURSO_ON_BODY       1.11
+
+body HAS_ALTA_ON_BODY        eval("[aA][lL][tT][aA][sS]\{0,1}[.]{0,1}")
+describe HAS_ALTA_ON_BODY    Contains references to ALTA in content
+score HAS_ALTA_ON_BODY       1.10
+
+body HAS_COMPANIA_ON_BODY        eval("[cC][oO][mM][pP][aA][nNñÑ][iI][aA][sS]\{0,1}[.]{0,1}")
+describe HAS_COMPANIA_ON_BODY    Contains references to COMPANIA in content
+score HAS_COMPANIA_ON_BODY       1.10
+
+body HAS_PLEASE_ON_BODY        eval("[pP][lL][eE][aA][sS][eE][.]{0,1}")
+describe HAS_PLEASE_ON_BODY    Contains references to PLEASE in content
+score HAS_PLEASE_ON_BODY       1.13
+
+body HAS_INFORMACION_ON_BODY        eval("[i][nN][fF][oR][mM][aA][tT][iI][oO][nN][.]{0,1}")
+describe HAS_INFORMACION_ON_BODY    Contains references to INFORMACION in content
+score HAS_INFORMACION_ON_BODY       1.08
+
+body HAS_DURANTE_ON_BODY        eval("[dD][uU][rR][aA][nN][tT][eE][.]{0,1}")
+describe HAS_DURANTE_ON_BODY    Contains references to DURANTE in content
+score HAS_DURANTE_ON_BODY       1.14
+
+body HAS_SEMINARIO_ON_BODY        eval("[sS][eE][mM][iI][nN][aA][rR][iI][oO][.]{0,1}")
+describe HAS_SEMINARIO_ON_BODY    Contains references to SEMINARIO in content
+score HAS_SEMINARIO_ON_BODY       1.08
+
+body HAS_LABORATORIES_ON_BODY        eval("[lL][aA][bB][oO][rR][aA][tT][oO][rR][iI][eE][sS][.]{0,1}")
+describe HAS_LABORATORIES_ON_BODY    Contains references to LABORATORIES in content
+score HAS_LABORATORIES_ON_BODY       1.07
+
+body HAS_TIEMPO_ON_BODY        eval("[tT][iI][eE][mM][pP][oO][.]{0,1}")
+describe HAS_TIEMPO_ON_BODY    Contains references to TIEMPO in content
+score HAS_TIEMPO_ON_BODY       1.08
+
+body HAS_GANAR_ON_BODY        eval("[gG][aA][nN][aA][rR][.]{0,1}")
+describe HAS_GANAR_ON_BODY    Contains references to GANAR in content
+score HAS_GANAR_ON_BODY       1.08
+
+body HAS_ORIGINAL_ON_BODY        eval("[oO][rR][iI][gG][iI][nN][aA][lL][.]{0,1}")
+describe HAS_ORIGINAL_ON_BODY    Contains references to ORIGINAL in content
+score HAS_ORIGINAL_ON_BODY       1.07
+
+body HAS_SYSTEM_ON_BODY        eval("[sS][yY][sS][tT][eE][mM][.]{0,1}")
+describe HAS_SYSTEM_ON_BODY    Contains references to SYSTEM in content
+score HAS_SYSTEM_ON_BODY       1.10
+
+body HAS_RECEIVE_ON_BODY        eval("[rR][eE][cC][eE][iI][vV][eE][.]{0,1}")
+describe HAS_RECEIVE_ON_BODY    Contains references to RECEIVE in content
+score HAS_RECEIVE_ON_BODY       1.07
+
+body HAS_CAJA_ON_BODY        eval("[cC][aA][jJ][aA][.]{0,1}")
+describe HAS_CAJA_ON_BODY    Contains references to CAJA in content
+score HAS_CAJA_ON_BODY       1.07
+
+body HAS_YEARS_ON_BODY        eval("[yY][eE][aA][rR][sS]{0,1}[.]{0,1}")
+describe HAS_YEARS_ON_BODY    Contains references to CAJA in content
+score HAS_YEARS_ON_BODY       1.07
+
+body HAS_LATE_ON_BODY        eval("[lL][aA][tT][eE][.]{0,1}")
+describe HAS_LATE_ON_BODY    Contains references to LATE in content
+score HAS_LATE_ON_BODY       1.06
+
+body HAS_EMPRESA_ON_BODY        eval("[eE][mM][pP][rR][eE][sS][aA][sS]{0,1}[.]{0,1}")
+describe HAS_EMPRESA_ON_BODY    Contains references to EMPRESA in content
+score HAS_EMPRESA_ON_BODY       1.08
+
+body HAS_EUROPEAN_ON_BODY        eval("[eE][uU][rR][oO][pP][eE][aA][nN]{0,1}[.]{0,1}")
+describe HAS_EUROPEAN_ON_BODY    Contains references to EUROPEAN in content
+score HAS_EUROPEAN_ON_BODY       1.06
+
+body HAS_NUEVA_ON_BODY        eval("[nN][uU][eE][vV][aA][sS]{0,1}[.]{0,1}")
+describe HAS_NUEVA_ON_BODY    Contains references to NUEVA in content
+score HAS_NUEVA_ON_BODY       1.10
+
+body HAS_CONTACT_ON_BODY        eval("[cC][oO][nN][tT][aA][cC][tT][.]{0,1}")
+describe HAS_CONTACT_ON_BODY    Contains references to CONTACT in content
+score HAS_CONTACT_ON_BODY       1.08
+
+body HAS_MARKET_ON_BODY        eval("[mM][aA][rR][kK][eE][tT][.]{0,1}")
+describe HAS_MARKET_ON_BODY    Contains references to MARKET in content
+score HAS_MARKET_ON_BODY       1.09
+
+body HAS_DEATH_ON_BODY        eval("[dD][eE][aA][tT][hH][.]{0,1}")
+describe HAS_DEATH_ON_BODY    Contains references to DEATH in content
+score HAS_DEATH_ON_BODY       1.06
+
+body HAS_MOMENTO_ON_BODY        eval("[mM][oO][mM][eE][nN][tT][oO][.]{0,1}")
+describe HAS_MOMENTO_ON_BODY    Contains references to MOMENTO in content
+score HAS_MOMENTO_ON_BODY       1.10
+
+body HAS_BUSINESS_ON_BODY        eval("[bB][uU][sS][iI][nN][eE][sS][sS][.]{0,1}")
+describe HAS_BUSINESS_ON_BODY    Contains references to BUSINESS in content
+score HAS_BUSINESS_ON_BODY       1.07
+
+body HAS_NUESTRA_ON_BODY        eval("[nN][uU][eE][sS][tT][rR][aA][sS][.]{0,1}")
+describe HAS_NUESTRA_ON_BODY    Contains references to NUESTRA in content
+score HAS_NUESTRA_ON_BODY       1.45
+
+body HAS_EUROS_ON_BODY        eval("[eE][uU][rR][oO][sS][.]{0,1}")
+describe HAS_EUROS_ON_BODY    Contains references to EUROS in content
+score HAS_EUROS_ON_BODY       1.10
+
+body HAS_SISTEMA_ON_BODY        eval("[sS][iI][sS][tT][eE][mM][aA][.]{0,1}")
+describe HAS_SISTEMA_ON_BODY    Contains references to EUROS in content
+score HAS_SISTEMA_ON_BODY       1.05
+
+body HAS_ACCOUNT_ON_BODY        eval("[aA][cC][oO][uU][nN][tT][.]{0,1}")
+describe HAS_ACCOUNT_ON_BODY    Contains references to ACCOUNT in content
+score HAS_ACCOUNT_ON_BODY       1.07
+
+body HAS_ASEGURARSE_ON_BODY        eval("[aA][sS][eE][gG][uU][rR][aA][rR][sS][eE][.]{0,1}")
+describe HAS_ASEGURARSE_ON_BODY    Contains references to ASEGURARSE in content
+score HAS_ASEGURARSE_ON_BODY       1.04
+
+body HAS_DIRECCION_ON_BODY        eval("[dD][iI][rR][eE][cC][iI][oO][nN][.]{0,1}")
+describe HAS_DIRECCION_ON_BODY    Contains references to DIRECCION in content
+score HAS_DIRECCION_ON_BODY       1.07
+
+body HAS_MEDICAL_ON_BODY        eval("[mM][eE][dD][iI][cC][aA][lL][.]{0,1}")
+describe HAS_MEDICAL_ON_BODY    Contains references to MEDICAL in content
+score HAS_MEDICAL_ON_BODY       1.04
+
+body HAS_RESIDENTES_ON_BODY        eval("[rR][eE][sS][iI][dD][eE][nN][tT][eE][sS]{0,1}[.]{0,1}")
+describe HAS_RESIDENTES_ON_BODY    Contains references to RESIDENTES in content
+score HAS_RESIDENTES_ON_BODY       1.04
+
+body HAS_VUESTRO_ON_BODY        eval("[vV][uU][eE][sS][tT][rR][oO][.]{0,1}")
+describe HAS_VUESTRO_ON_BODY    Contains references to VUESTRO in content
+score HAS_VUESTRO_ON_BODY       1.06
+
+body HAS_GRATUITO_ON_BODY        eval("[gG][rR][aA][tT][uU][iI][tT][oO][.]{0,1}")
+describe HAS_GRATUITO_ON_BODY    Contains references to GRATUITO in content
+score HAS_GRATUITO_ON_BODY       1.05
+
+body HAS_WEBCAST_ON_BODY        eval("[wW][eE][bB][cC][aA][sS][tT][.]{0,1}")
+describe HAS_WEBCAST_ON_BODY    Contains references to WEBVAST in content
+score HAS_WEBCAST_ON_BODY       1.04
+
+body HAS_PERSONA_ON_BODY        eval("[pP][eE][rR][sS][oO][nN][aA][sS]{0,1}[.]{0,1}")
+describe HAS_PERSONA_ON_BODY    Contains references to PERSONAS in content
+score HAS_PERSONA_ON_BODY       1.03
+
+body HAS_SEGURIDAD_ON_BODY        eval("[sS][eE][gG][uU][rR][iI][dD][aA][.]{0,1}")
+describe HAS_SEGURIDAD_ON_BODY    Contains references to SEGURIDAD in content
+score HAS_SEGURIDAD_ON_BODY       1.05
+
+body HAS_DETALLE_ON_BODY        eval("[dD][eE][tT][aA][lL][lL][eE][sS]{0,1}[.]{0,1}")
+describe HAS_DETALLE_ON_BODY    Contains references to DETALLE in content
+score HAS_DETALLE_ON_BODY       1.05
+
+body HAS_APROVAL_ON_BODY        eval("[aA][pP][rR][oO][vV][aA][lL][.]{0,1}")
+describe HAS_APROVAL_ON_BODY    Contains references to APROVAL in content
+score HAS_APROVAL_ON_BODY       1
+
+body HAS_SALARIO_ON_BODY        eval("[sS][aA][lL][aA][rR][iI][oO][.]{0,1}")
+describe HAS_SALARIO_ON_BODY    Contains references to SALARIO in content
+score HAS_SALARIO_ON_BODY       1.05
+
+body HAS_INSTITUTE_ON_BODY        eval("[iI][nN][sS][tT][iI][tT][uU][tT][eE][.]{0,1}")
+describe HAS_INSTITUTE_ON_BODY    Contains references to INSTITUTE in content
+score HAS_INSTITUTE_ON_BODY       1.03
+
+body HAS_CONFIDENTIAL_ON_BODY        eval("[cC][nN][fF][iI][dD][eE][nN][tT][iI][aA][lL][.]{0,1}")
+describe HAS_CONFIDENTIAL_ON_BODY    Contains references to CONFIDENTIAL in content
+score HAS_CONFIDENTIAL_ON_BODY       1.04
+
+body HAS_CONTRATAR_ON_BODY        eval("[cC][oO][nN][tT][rR][aA][tT][aA][rR][.]{0,1}")
+describe HAS_CONTRATAR_ON_BODY    Contains references to CONTRATAR in content
+score HAS_CONTRATAR_ON_BODY       1.03
+
+body HAS_REGIONAL_ON_BODY        eval("[rR][eE][gG][iI][oO][nN][aA][lL][.]{0,1}")
+describe HAS_REGIONAL_ON_BODY    Contains references to REGIONAL in content
+score HAS_REGIONAL_ON_BODY       1.03
+
+body HAS_PUEDEN_ON_BODY        eval("[pP][uU][eE][dD][eE][nN][.]{0,1}")
+describe HAS_PUEDEN_ON_BODY    Contains references to PUEDEN in content
+score HAS_PUEDEN_ON_BODY       1.03
+
+body HAS_MONEY_ON_BODY        eval("[mM][oO][nN][yY][.]{0,1}")
+describe HAS_MONEY_ON_BODY    Contains references to MONEY in content
+score HAS_MONEY_ON_BODY       1.03
+
+body HAS_QUIERE_ON_BODY        eval("[qQ][uU][iI][eE][rR][eE][.]{0,1}")
+describe HAS_QUIERE_ON_BODY    Contains references to QUIERE in content
+score HAS_QUIERE_ON_BODY       1.03
+
+body HAS_AVOID_ON_BODY        eval("[aA][vV][oO][iI][dD]([iI][nN][gG]){0,1}[.]{0,1}")
+describe HAS_AVOID_ON_BODY    Contains references to AVOID in content
+score HAS_AVOID_ON_BODY       1.03
+
+body HAS_ACEPTAR_ON_BODY        eval("[aA][cC][eE][pP][tT][aA][rR]{0,1}[.]{0,1}")
+describe HAS_ACEPTAR_ON_BODY    Contains references to ACEPTAR in content
+score HAS_ACEPTAR_ON_BODY       1.01
+
+body HAS_FINANCIERAS_ON_BODY        eval("[fF][iI][nN][aA][nN][cC][iI][eE][rR][aA][sS]{0,1}[.]{0,1}")
+describe HAS_FINANCIERAS_ON_BODY    Contains references to FINANCIERAS in content
+score HAS_FINANCIERAS_ON_BODY       1.01
+
+body HAS_PENAS_ON_BODY        eval("[pP][eE][nN][aA][sS]{0,1}[.]{0,1}")
+describe HAS_PENAS_ON_BODY    Contains references to PENAS in content
+score HAS_PENAS_ON_BODY       1.01
+
+body HAS_DESCUENTO_ON_BODY        eval("[dD][eE][sS][cC][uU][eE][nN][tT][oO][sS]{0,1}[.]{0,1}")
+describe HAS_DESCUENTO_ON_BODY    Contains references to DESCUENTOS in content
+score HAS_DESCUENTO_ON_BODY       1.01
+
+body HAS_PENE_ON_BODY        eval("[pP][eE][nN][eE][sS]{0,1}[.]{0,1}")
+describe HAS_PENE_ON_BODY    Contains references to PENE in content
+score HAS_PENE_ON_BODY       2.5
+
+body HAS_MAXGENTLEMAN_ON_BODY        eval("[mM][aA][xX][gG][eE][nN][tT][lL][eE][mM][aA][nN]{0,1}[.]{0,1}")
+describe HAS_MAXGENTLEMAN_ON_BODY    Contains references to MAXGENTLEMAN in content
+score HAS_MAXGENTLEMAN_ON_BODY       2.5
+
+#txt HAS_MAXGENTLEMAN_ON_TXT        eval("[mM][aA][xX][gG][eE][nN][tT][lL][eE][mM][aA][nN]{0,1}[.]{0,1}")
+#describe HAS_MAXGENTLEMAN_ON_TXT    Contains references to MAXGENTLEMAN in content
+#score HAS_MAXGENTLEMAN_ON_TXT       2.5
+
+############################
+#     HEADER               #
+############################
+
+header HAS_VIAGRA_ON_SUBJECT	eval_header("Subject", "[vV][iI?1!][aA][gG][rR][aA]")
+describe HAS_VIAGRA_ON_SUBJECT  Contains references to viagra in Subject
+score HAS_VIAGRA_ON_SUBJECT     2
+
+header HAS_CIALLIS_ON_SUBJECT   eval_header( "Subject" ,"[cC][iI?1!][aA][Ll]+[iI?1!][Ss5]")
+describe HAS_CIALLIS_ON_SUBJECT Contains references to ciallis in Subject
+score HAS_CIALLIS_ON_SUBJECT    2
+
+header HAS_LEVITRA_ON_SUBJECT   eval_header("Subject" , "[lL][eE][vV][iI?1!][tT][rR][aA]")
+describe HAS_LEVITRA_ON_SUBJECT Contains references to levitra in Subject
+score HAS_LEVITRA_ON_SUBJECT    2
+
+header HAS_GESDAI_ON_SUBJECT	eval_header("Subject","[gG][eE][sS][dD][aA][iI]")
+describe HAS_GESDAI_ON_SUBJECT  Contains references to GesDAI in Subject
+score HAS_GESDAI_ON_SUBJECT     2
+
+#header HAS_DRUGS_ON_SUBJECT     eval_header("Subject","[dD][rR][uU][gG][sS]")
+#describe HAS_DRUGS_ON_SUBJECT   Contains references to DRUGS in Subject
+#score HAS_DRUGS_ON_SUBJECT      2
+
+######################################
+#     HAM REGULAR EXPRESIONS         #
+######################################
+#     BODY                 #
+############################
+
+body HAS_DEIXAR_ON_BODY        eval("[dD][eE][iI][xX][aA][rR][.]{0,1}")
+describe HAS_DEIXAR_ON_BODY    Contains references to DEIXAR in content
+score HAS_DEIXAR_ON_BODY       -0.3
+
+body HAS_LISTA_ON_BODY        eval("[lL][iI][sS][tT][aA][sS]{0,1}[.]{0,1}")
+describe HAS_LISTA_ON_BODY    Contains references to LISTA in content
+score HAS_LISTA_ON_BODY       -2
+
+body HAS_PROL_ON_BODY        eval("[pP][rR][oO][lL][.]{0,1}")
+describe HAS_PROL_ON_BODY    Contains references to PROL in content
+score HAS_PROL_ON_BODY       -0.8
+
+body HAS_ADMINISTRADOR_ON_BODY        eval("[aA][dD][mM][iI][nN][iI][sS][tT][rR][aA][dD][oO][rR][.]{0,1}")
+describe HAS_ADMINISTRADOR_ON_BODY    Contains references to ADMINISTRADOR in content
+score HAS_ADMINISTRADOR_ON_BODY       -0.3
+
+body HAS_SERVICIO_ON_BODY        eval("[sS][eE][rR][vV][iI][cC][iI][oO][sS]{0,1}[.]{0,1}")
+describe HAS_SERVICIO_ON_BODY    Contains references to SERVICIO in content
+score HAS_SERVICIO_ON_BODY       -0.25
+
+body HAS_INDICADO_ON_BODY        eval("[iI][nN][dD][iI][cC][aA][dD][oO][sS]{0,1}[.]{0,1}")
+describe HAS_INDICADO_ON_BODY    Contains references to INDICADO in content
+score HAS_INDICADO_ON_BODY       -0.3
+
+body HAS_MENSAXE_ON_BODY        eval("[mM][eE][nN][sS][aA][xX][eE][sS]{0,1}[.]{0,1}")
+describe HAS_MENSAXE_ON_BODY    Contains references to MENSAXE in content
+score HAS_MENSAXE_ON_BODY       -0.7
+
+body HAS_DISTRIBUCION_ON_BODY        eval("[dD][iI][sS][tT][rR][iI][bB][uU][cC][iI][oO][nN][.]{0,1}")
+describe HAS_DISTRIBUCION_ON_BODY    Contains references to DISTRIBUCION in content
+score HAS_DISTRIBUCION_ON_BODY       -0.3
+
+body HAS_COMUNIDADE_ON_BODY        eval("[cC][oO][mM][uU][nN][iI][dD][aA][dD][eE][sS]{0,1}[.]{0,1}")
+describe HAS_COMUNIDADE_ON_BODY    Contains references to COMUNIDADE in content
+score HAS_COMUNIDADE_ON_BODY       -0.4
+
+body HAS_CORREO:_ON_BODY        eval("[cC][oO][rR][eE][oO][:][.]{0,1}")
+describe HAS_CORREO:_ON_BODY    Contains references to CORREO: in content
+score HAS_CORREO:_ON_BODY       -0.3
+
+body HAS_ORTOGRAFIA_ON_BODY        eval("[oO][rR][tT][oO][gG][rR][aA][fF][iI][aA][.]{0,1}")
+describe HAS_ORTOGRAFIA_ON_BODY    Contains references to ORTOGRAFIA in content
+score HAS_ORTOGRAFIA_ON_BODY       -0.08
+
+body HAS_SERGIO_ON_BODY        eval("[sS][eE][rR][gG][iI][oO][.]{0,1}")
+describe HAS_SERGIO_ON_BODY    Contains references to SERGIO in content
+score HAS_SERGIO_ON_BODY       -0.08
+
+body HAS_MIGUEL_ON_BODY        eval("[mM][iI][gG][uU][eE][lL][.]{0,1}")
+describe HAS_MIGUEL_ON_BODY    Contains references to MIGUEL in content
+score HAS_MIGUEL_ON_BODY       -0.3
+
+body HAS_WEINBERG_ON_BODY        eval("[wW][eE][iI][nN][bB][eE][rR][gG][.]{0,1}")
+describe HAS_WEINBERG_ON_BODY    Contains references to WEINBERG in content
+score HAS_WEINBERG_ON_BODY       -0.08
+
+body HAS_DAWKINS_ON_BODY        eval("[dD][aA][wW][kK][iI][nN][sS][.]{0,1}")
+describe HAS_DAWKINS_ON_BODY    Contains references to DAWKINS in content
+score HAS_DAWKINS_ON_BODY       -0.08
+
+body HAS_AMIGO_ON_BODY        eval("[aA][mM][iI][gG][oO][sS]{0,1}[.]{0,1}")
+describe HAS_AMIGO_ON_BODY    Contains references to AMIGO in content
+score HAS_AMIGO_ON_BODY       -0.06
+
+body HAS_PAJARES_ON_BODY        eval("[pP][aA][jJ][aA][rR][eE][sS][.]{0,1}")
+describe HAS_PAJARES_ON_BODY    Contains references to PAJARES in content
+score HAS_PAJARES_ON_BODY       -0.08
+
+body HAS_DAVID_ON_BODY        eval("[dD][aA][vV][iI][dD][.]{0,1}")
+describe HAS_DAVID_ON_BODY    Contains references to HABLAR in content
+score HAS_DAVID_ON_BODY       -0.09
+
+body HAS_HABLAR_ON_BODY        eval("[hH][aA][bB][lL][aA][rR][.]{0,1}")
+describe HAS_HABLAR_ON_BODY    Contains references to HABLAR in content
+score HAS_HABLAR_ON_BODY       -0.07
+
+body HAS_DATABASE_ON_BODY        eval("[dD][aA][tT][aA][bB][aA][sS][eE][.]{0,1}")
+describe HAS_DATABASE_ON_BODY    Contains references to DATABASE in content
+score HAS_DATABASE_ON_BODY       -0.06
+
+body HAS_TERRORISMO_ON_BODY        eval("[tT][eE][rR][rR][oO][rR][iI][sS][mM][oO][.]{0,1}")
+describe HAS_TERRORISMO_ON_BODY    Contains references to TERRORISMO in content
+score HAS_TERRORISMO_ON_BODY       -0.07
+
+body HAS_AMBIENTAL_ON_BODY        eval("[aA][mM][bB][iI][eE][nN][tT][aA][lL][.]{0,1}")
+describe HAS_AMBIENTAL_ON_BODY    Contains references to AMBIENTAL in content
+score HAS_AMBIENTAL_ON_BODY       -0.04
+
+body HAS_MOTU_ON_BODY        eval("[mM][oO][tT][uU][.]{0,1}")
+describe HAS_MOTU_ON_BODY    Contains references to MOTU in content
+score HAS_MOTU_ON_BODY       -0.06
+
+body HAS_UVIGO_ON_BODY        eval("[.][uU][vV][iI][gG][oO][.]{0,1}")
+describe HAS_UVIGO_ON_BODY    Contains references to UVIGO in content
+score HAS_UVIGO_ON_BODY       -0.08
+
+body HAS_GALEGO_ON_BODY        eval("[gG][aA][lL][eE][gG][oO][sS]{0,1}[.]{0,1}")
+describe HAS_GALEGO_ON_BODY    Contains references to GALEGO in content
+score HAS_GALEGO_ON_BODY       -1.1
+
+body HAS_CRIMINE_ON_BODY        eval("[cC][rR][iI][mM][iI][nN][eE]{0,1}[.]{0,1}")
+describe HAS_CRIMINE_ON_BODY    Contains references to CRIMINE in content
+score HAS_CRIMINE_ON_BODY       -0.06
+
+body HAS_SIGNATURE_ON_BODY        eval("[sS][iI][gG][nN][aA][tT][uU][rR][eE]{0,1}[.]{0,1}")
+describe HAS_SIGNATURE_ON_BODY    Contains references to SIGNATURE in content
+score HAS_SIGNATURE_ON_BODY       -0.06
+
+body HAS_ESPECIES_ON_BODY        eval("[eE][sS][pP][eE][cC][iI][eE][sS]{0,1}[.]{0,1}")
+describe HAS_ESPECIES_ON_BODY    Contains references to SIGNATURE in content
+score HAS_ESPECIES_ON_BODY       -0.06
+
+body HAS_APOIANDO_ON_BODY        eval("[aA][pP][oO][iI][aA][nN][dD][oO][.]{0,1}")
+describe HAS_APOIANDO_ON_BODY    Contains references to APOIANDO in content
+score HAS_APOIANDO_ON_BODY       -0.05
+
+body HAS_STEVEN_ON_BODY        eval("[sS][tT][eE][vV][eE][nN][.]{0,1}")
+describe HAS_STEVEN_ON_BODY    Contains references to STEVEN in content
+score HAS_STEVEN_ON_BODY       -0.05
+
+body HAS_PODO_ON_BODY        eval("[pP][oO][dD][oO][.]{0,1}")
+describe HAS_PODO_ON_BODY    Contains references to PODO in content
+score HAS_PODO_ON_BODY       -0.05
+
+body HAS_INFILTRADO_ON_BODY        eval("[iI][nN][fF][iI][lL][tT][rR][aA][dD][oO][.]{0,1}")
+describe HAS_INFILTRADO_ON_BODY    Contains references to INFILTRADO in content
+score HAS_INFILTRADO_ON_BODY       -0.05
+
+body HAS_XUNTA_ON_BODY        eval("[xX][uU][nN][tT][aA][.]{0,1}")
+describe HAS_XUNTA_ON_BODY    Contains references to XUNTA in content
+score HAS_XUNTA_ON_BODY       -0.05
+
+body HAS_ESPEJISMO_ON_BODY        eval("[eE][sS][pP][eE][jJ][iI][sS][mM][oO][.]{0,1}")
+describe HAS_ESPEJISMO_ON_BODY    Contains references to ESPEJISMO in content
+score HAS_ESPEJISMO_ON_BODY       -0.05
+
+body HAS_ADVERSARIO_ON_BODY        eval("[aA][dD][vV][eE][rR][sS][aA][rR][iI][oO][sS]{0,1}[.]{0,1}")
+describe HAS_ADVERSARIO_ON_BODY    Contains references to ADVERSARIO in content
+score HAS_ADVERSARIO_ON_BODY       -0.05
+
+body HAS_FUNCIONARIO_ON_BODY        eval("[fF][uU][nN][cC][iI][oO][nN][aA][rR][iI][oO][sS]{0,1}[.]{0,1}")
+describe HAS_FUNCIONARIO_ON_BODY    Contains references to FUNCIONARIO in content
+score HAS_FUNCIONARIO_ON_BODY       -0.02
+
+body HAS_COMPLETO_ON_BODY        eval("[cC][oO][mM][pP][lL][eE][tT][oO][sS]{0,1}[.]{0,1}")
+describe HAS_COMPLETO_ON_BODY    Contains references to COMPLETO in content
+score HAS_COMPLETO_ON_BODY       -0.02
+
+body HAS_ESCOLA_ON_BODY        eval("[eE][sS][cC][oO][lL][aA][sS]{0,1}[.]{0,1}")
+describe HAS_ESCOLA_ON_BODY    Contains references to ESCOLA in content
+score HAS_ESCOLA_ON_BODY       -0.02
+
+body HAS_OBJETIVO_ON_BODY        eval("[oO][bB][jJ][eE][tT][iI][vV][oO]{0,1}[.]{0,1}")
+describe HAS_OBJETIVO_ON_BODY    Contains references to OBJETIVO in content
+score HAS_OBJETIVO_ON_BODY       -0.02
+
+body HAS_TEJER_ON_BODY        eval("[oO][bB][jJ][eE][tT][iI][vV][oO]{0,1}[.]{0,1}")
+describe HAS_TEJER_ON_BODY    Contains references to OBJETIVO in content
+score HAS_TEJER_ON_BODY       -0.02
+
+#body HAS_DEFINITIVE_+	      eval("[pP][oO][sS][iI][tT][iI][vV][eE][.]{0,1}")
+#describe HAS_DEFINITIVE_+     Testing if positive definitive rule work
+#score HAS_DEFINITIVE_+		+
+
+#body HAS_DEFINITIVE_-         eval("[nN][eE][gG][aA][tT][iI][vV][eE]{0,1}")
+#describe HAS_DEFINITIVE_-     Testing if negative definitive rule work
+#score HAS_DEFINITIVE_-        -
+
+
+############################
+#     HEADER               #
+############################
+
+###########################################################################
+#     SENDER POLICY FRAMEWORK                                             #
+###########################################################################
+#     FIRST RECEIVED                 #
+######################################
+
+header SPF_PASS_1   spf_pass()
+describe SPF_PASS_1 If message pass the spf
+score SPF_PASS_1    -2
+
+header SPF_NONE_1   spf_none()
+describe SPF_NONE_1 If message has not spf entry
+score SPF_NONE_1    0.5
+
+header SPF_NEUTRAL_1    spf_neutral()
+describe SPF_NEUTRAL_1  If message is spf neutral
+score SPF_NEUTRAL_1     0
+
+header SPF_SOFTFAIL_1   spf_softfail()
+describe SPF_SOFTFAIL_1 If message softfails the spf
+score SPF_SOFTFAIL_1    1
+
+header SPF_FAIL_1   spf_fail()
+describe SPF_FAIL_1 If message fails the spf
+score SPF_FAIL_1    2
+
+######################################
+#     SECOND RECEIVED                #
+######################################
+
+header SPF_PASS_3   spf_pass(3)
+describe SPF_PASS_3 If message pass the spf
+score SPF_PASS_3    -2
+
+header SPF_NONE_3   spf_none(3)
+describe SPF_NONE_3 If message has not spf entry
+score SPF_NONE_3    0.5
+
+header SPF_NEUTRAL_3    spf_neutral(3)
+describe SPF_NEUTRAL_3  If message is spf neutral
+score SPF_NEUTRAL_3     0
+
+header SPF_SOFTFAIL_3   spf_softfail(3)
+describe SPF_SOFTFAIL_3 If message softfails the spf
+score SPF_SOFTFAIL_3      1
+
+header SPF_FAIL_3   spf_fail(3)
+describe SPF_FAIL_3 If message fails the spf
+score SPF_FAIL_3    2
+
+###########################################################################
+#     BAYES                                                               #
+###########################################################################
+
+body BAYES_00 check_bayes(0.00, 0.01)
+describe BAYES_00 Bayes between 0 and 0.01
+score BAYES_00 -2
+
+body BAYES_05 check_bayes(0.01, 0.05)
+describe BAYES_05 Bayes between 0.01 and 0.05
+score BAYES_05 -1
+
+body BAYES_20 check_bayes(0.05, 0.20)
+describe BAYES_20 Bayes between 0.05 and 0.20
+score BAYES_20 -0.5
+
+body BAYES_40 check_bayes(0.20, 0.40)
+describe BAYES_40 Bayes between 0.20 and 0.40
+score BAYES_40 -0.25
+
+body BAYES_50 check_bayes(0.40, 0.60)
+describe BAYES_50 Bayes between 0.40 and 0.60
+score BAYES_50 0
+
+body BAYES_60 check_bayes(0.60, 0.80)
+describe BAYES_60 Bayes between 0.60 and 0.80
+score BAYES_60 0.25
+
+body BAYES_80 check_bayes(0.80, 0.95)
+describe BAYES_80 Bayes between 0.80 and 0.95
+score BAYES_80 1
+
+body BAYES_95 check_bayes(0.95, 0.99)
+describe BAYES_95 Bayes between 0.95 and 0.99
+score BAYES_95 2
+
+body BAYES_99 check_bayes(0.99, 1.00)
+describe BAYES_99 Bayes between 0.99 and 1.00
+score BAYES_99 3
+
+###########################################################################
+#     AXL								  #
+###########################################################################
+
+#header AXL_AWL_1 check_auto_whitelist()
+#describe AXL_AWL_1 Check if firts received is auto-whitelisted
+#score AXL_AWL_1 -3
+
+#header AXL_ABL_1 check_auto_whitelist()
+#describe AXL_ABL_1 Check if first received is auto-blacklisted
+#score AXL_ABL_1 3
+
+#header AXL_AWL_3 check_auto_whitelist(3)
+#describe AXL_AWL_3 Check if third received is auto-whitelisted
+#score AXL_AWL_3 -3
+
+#header AXL_ABL_3 check_auto_blacklist(3)
+#describe AXL_ABL_3 Checks if third received is auto-blacklisted
+#score AXL_ABL_3 3
+
+###########################################################################
+#     METAEXPRESIONS                                                      #
+###########################################################################
+
+meta META_DRUGS_ON_BODY ( (HAS_VIAGRA_ON_BODY + HAS_CIALLIS_ON_BODY + HAS_LEVITRA_ON_BODY + HAS_DRUGS_ON_BODY) > 1 )
+describe META_DRUGS_ON_BODY Meta rule for containing some kind of DRUGS in message content
+score META_DRUGS_ON_BODY +
+
+meta META_DRUGS_ON_SUBJECT ( (HAS_VIAGRA_ON_SUBJECT + HAS_CIALLIS_ON_SUBJECT + HAS_LEVITRA_ON_SUBJECT + HAS_DRUGS_ON_SUBJECT) > 1 )
+describe META_DRUGS_ON_SUBJECT Meta rule for containing some kind of DRUGS in message subject
+score META_DRUGS_ON_SUBJECT 3
+
+###########################################################################
+#     required score                                                      #
+###########################################################################
+
+required_score	3

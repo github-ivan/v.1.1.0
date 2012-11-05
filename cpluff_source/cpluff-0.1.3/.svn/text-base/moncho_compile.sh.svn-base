@@ -1,0 +1,6 @@
+#!/bin/sh
+make clean
+echo "./configure --prefix=$(cd ../.. ; echo "$(pwd)/cpluff")"
+./configure --prefix=$(cd ../.. ; echo "$(pwd)/cpluff")
+echo "make install"
+make install

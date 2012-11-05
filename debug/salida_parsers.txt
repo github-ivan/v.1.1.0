@@ -1,0 +1,69 @@
+Mail num: 1
+  path: ../database/corpus/_spam_/100.eml
+  mail: 100.eml
+Parsing email: ../database/corpus/_spam_/100.eml
+Text dummped
+Email finished ../database/corpus/_spam_/100.eml
+Mail num: 2
+  path: ../database/corpus/_spam_/101.eml
+  mail: 101.eml
+Parsing email: ../database/corpus/_spam_/101.eml
+Text dummped
+Email finished ../database/corpus/_spam_/101.eml
+Mail num: 3
+  path: ../database/corpus/_spam_/102.eml
+  mail: 102.eml
+Parsing email: ../database/corpus/_spam_/102.eml
+Text dummped
+Email finished ../database/corpus/_spam_/102.eml
+Mail num: 4
+  path: ../database/corpus/_spam_/103.eml
+  mail: 103.eml
+Parsing email: ../database/corpus/_spam_/103.eml
+Text dummped
+Email finished ../database/corpus/_spam_/103.eml
+Mail num: 5
+  path: ../database/corpus/_spam_/104.eml
+  mail: 104.eml
+Parsing email: ../database/corpus/_spam_/104.eml
+Text dummped
+Email finished ../database/corpus/_spam_/104.eml
+Mail num: 6
+  path: ../database/corpus/_spam_/105.eml
+  mail: 105.eml
+Parsing email: ../database/corpus/_spam_/105.eml
+Text dummped
+Email finished ../database/corpus/_spam_/105.eml
+Mail num: 7
+  path: ../database/corpus/_spam_/106.eml
+  mail: 106.eml
+Parsing email: ../database/corpus/_spam_/106.eml
+Text dummped
+Email finished ../database/corpus/_spam_/106.eml
+Mail num: 8
+  path: ../database/corpus/_spam_/107.eml
+  mail: 107.eml
+Mail num: 9
+  path: ../database/corpus/_spam_/108.eml
+  mail: 108.eml
+Parsing email: ../database/corpus/_spam_/108.eml
+Text dummped
+Email finished ../database/corpus/_spam_/108.eml
+Mail num: 10
+  path: ../database/corpus/_spam_/109.eml
+  mail: 109.eml
+Parsing email: ../database/corpus/_spam_/109.eml
+Text dummped
+Email finished ../database/corpus/_spam_/109.eml
+Mail num: 11
+  path: ../database/corpus/_spam_/10.eml
+  mail: 10.eml
+Parsing email: ../database/corpus/_spam_/10.eml
+Text dummped
+Email finished ../database/corpus/_spam_/10.eml
+Mail num: 12
+  path: ../database/corpus/_spam_/110.eml
+  mail: 110.eml
+Mail num: 13
+  path: ../database/corpus/_spam_/111.eml
+  mail: 111.eml

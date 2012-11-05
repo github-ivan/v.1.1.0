@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/318/plugins/false_plugin
+END
+false_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/318/plugins/false_plugin/false_plugin.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/68/plugins/false_plugin/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/34/plugins/false_plugin/plugin.xml
+END
+libfalse_plugin.so.1
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/24/plugins/false_plugin/libfalse_plugin.so.1
+END
+libfalse_plugin.so
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/24/plugins/false_plugin/libfalse_plugin.so
+END

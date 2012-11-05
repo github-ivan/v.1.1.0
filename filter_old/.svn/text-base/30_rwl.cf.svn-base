@@ -1,0 +1,6 @@
+body RWL_DNSWL rxl_check("list.dnswl.org")
+describre RWL_DNSWL If the first header pass de RWL
+
+#body RWL_DNSWL_OCTECT rxl_check("list.dnswl.org",3,10)
+#describre RWL_DNSWL_OCTECT If third octect of first header has value 2.
+

@@ -1,0 +1,84 @@
+#*************************************************************************************
+#   LICENSING
+#*************************************************************************************
+#*
+# WB4Spam: An ANSI C is an open source, highly extensible, high performance and 
+# multithread spam filtering platform. It takes concepts from SpamAssassin project
+# improving distinct issues.
+# 
+# Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+#
+# This file is part of WireBrush for Spam project.
+#
+# Wirebrush for Spam is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public License as
+# published by the Free Software Foundation; either version 3 of the
+# License, or (at your option) any later version.
+#
+# Wirebrush for Spam is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+# General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+#************************************************************************************
+
+#Section for configuring SPF plugin parameters.
+
+[SPF]
+
+#domain_wl uvigo.es \
+#          udc.es; Dominios confiables para SPF
+
+#domain_bl ns1.bongostudio.biz \
+#          gesdai.com; Dominios no confiables para SPF
+
+cache_size 0;
+
+#Section for configuring CORE parameters.
+
+[CORE]
+
+lazy_evaluation -1; Activar la evaluación perezosa de filtros.
+
+multithread ON; Activar la ejecución multihilo de los filtros.
+
+schedule plugin_separation;
+#greater_abs_value;
+#greater_distance_value;
+#negative_first;
+#positive_first;
+#default_scheduling;
+#schedule intelligent_balance; Usar el planificador de reglas por defecto.
+
+#Section for configuring RWL and RXL plugin parameters.
+[RXL]
+
+cache_size 0; tamaño de la cache para RXL.
+
+timeout_seconds 1;
+
+timeout_miliseconds 0;
+
+#Section for configuring SPF plugin parameters.
+[BAYES]
+
+min_nspam 0; Numero minino de tokens spam para poder computar bayes
+
+min_nham 0; Numero minimo de tokens ham para poder computar bayes
+
+cache_size 0; tamaño de la cache
+
+require_significant_tokens 1; numero minimo de tokens significantes para poder computar bayes
+
+#[SPAMHUNTING]
+#
+#cache_size 5; tamaño de la cache para spamhunting
+#cache_size 0;
+
+[AXL]
+
+cache_size 0;
+

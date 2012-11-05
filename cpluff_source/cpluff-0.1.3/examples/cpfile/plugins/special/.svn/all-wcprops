@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/special
+END
+Makefile.nmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/special/Makefile.nmake
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/special/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/special/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/special/plugin.xml
+END
+special.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/special/special.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/special/Makefile.in
+END

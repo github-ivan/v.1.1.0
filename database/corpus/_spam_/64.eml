@@ -1,0 +1,109 @@
+X-Account-Key: account2
+Return-path: <haimran@att.net>
+Envelope-to: majordomo@uvigo.es
+Delivery-date: Wed, 18 Nov 2009 10:18:29 +0100
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <haimran@att.net>)
+	id 1NAggH-000134-Ht
+	for majordomo@uvigo.es; Wed, 18 Nov 2009 10:18:29 +0100
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id nAI9IPrx023010
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <majordomo@uvigo.es>; Wed, 18 Nov 2009 10:18:28 +0100
+Received: from n77.bullet.mail.sp1.yahoo.com ([98.136.44.45])
+	by cogumelo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <haimran@att.net>)
+	id 1NAgMD-0000EL-U7
+	for majordomo@uvigo.es; Wed, 18 Nov 2009 09:57:46 +0100
+Received: from [69.147.84.144] by n77.bullet.mail.sp1.yahoo.com with NNFMP; 18 Nov 2009 09:18:17 -0000
+Received: from [69.147.84.107] by t6.bullet.mail.sp1.yahoo.com with NNFMP; 18 Nov 2009 09:18:17 -0000
+Received: from [127.0.0.1] by omp202.mail.sp1.yahoo.com with NNFMP; 18 Nov 2009 09:18:17 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 587120.40918.bm@omp202.mail.sp1.yahoo.com
+Received: (qmail 53124 invoked by uid 60001); 18 Nov 2009 09:18:17 -0000
+Message-ID: <303875.52400.qm@web180713.mail.sp1.yahoo.com>
+X-YMail-OSG: ZYB7aN0VM1kXAkn9NHCm8QCBgmDfg8ADi0teOdp.ynjBy2IUxWiUBqrQGUrf_cmy.GZskmNPPraEbztY8PlEv_.62EgFRcLMyhDQ9JcbfeQudYPOstEYJQd46dXz1zlz99KvyD.hl6KT6XEsJB8AuVJGV9RH2JbtXmhSbwULP3Kj2H50MnuctTQzd1hB7ywEGby8SY.X5Ea9GPeqUDGUu6CpIaynC.ciaPVXw9BtCpU3JY3bbZytu64sB8yLBOiXBSdLY5Dvpvrh5WKoXkrLuDqDccLjttxsegXFYvVV7xbpx8sJE1yKnIvz5_VMrNtzWVhbm32EY8c_XrNqgUrr1CHpvS.ftD9fYWZ3KdS3TJ_taAvvUx9ddXdbAOtjt.VieloEz4rxeTVOXEUEVB.GDZ7mWwMey3WwgaxCiXQc11nizH7I.9NGTQC8ODPELxYSWsQybb4nCCfyiTJB62BNHCewoszuDpXPyAzZq57frDW92t3A83LxGeRnQykoKWfKK6Ktk248jKUNcVe_c5OafmKPc7s0j6aS28VEqdKsV3QNeio88mcsjPu0qhKr3Buf2BbMtT4C1SgMf5ieTtIWTvMST2zNF0HwgoWfvWV0gmQ2kO9jedCiqMmcW.qQ2NlZV1xx42wKHFczuRYS8vdsKEJfbQcbR_nw4eWUGadtyDgbqIqlN9J_g.A9jPJjuqUUhBJM_pdyWW0_wKBd1XCI0d6xN8pLiy0.lv6whRZdY1FGZ1RQRSp7z8ZN1.iNIYa42GDgDCGScNkJVfMPhXPiDsJKtCB1OHS5jD2Y2uf12oaR6MKQTjJOgxN9rGgUy5_awSIZVE61KWIvoCvMdNBYrzDDSQ1ftAm7GxlSRcQx4idUSELuAVEYh.WYEdgGS557tPVtysDVMvGoKU0W8ivpjw3hzLwy9VXTkBDCqsNkIIC8S9_e2gNskS0Narft_Ts3oZhxEw2N3UddVfv7rMod93jPsPwsfc4iWMt7LlJBjkcK9yuuhdyLjKhc18fbAZeOJ_XfONbhfDndWEBiQNPOGlJ7tME-
+Received: from [41.207.1.126] by web180713.mail.sp1.yahoo.com via HTTP; Wed, 18 Nov 2009 01:18:17 PST
+X-Mailer: YahooMailClassic/8.1.6 YahooMailWebService/0.7.361.4
+Date: Wed, 18 Nov 2009 01:18:17 -0800 (PST)
+From: Hanane Imran <haimran@att.net>
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-905531313-1258535897=:52400"
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=3.1 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	MILLION_USD,RCVD_IN_SBL autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=3.1 required=5.0 tests=BAYES_50=0.001,
+	HTML_MESSAGE=0.001,MILLION_USD=1.528,RCVD_IN_SBL=1.551 autolearn=no
+	version=3.2.5
+X-Spam-UVIGO-Level: ***
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Donation of Mrs Hanane Imran.
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: haimran@att.net
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+--0-905531313-1258535897=:52400
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+Donation of Mrs Hanane Imran.
+=0A
+=0AI am Mrs. Hanane Imran, a widow to late Abdul Imran from Kuwait, who wor=
+ked with Kuwait embassy in Ivory Coast for nine years before dying in 2007.=
+ Presently i am receiving treatments in Abidjan Cote d=E2=80=99 Ivoire, We =
+were married for twenty years without a child. He died after a brief illnes=
+s that lasted only four days. I have the sum of (two million five hundred d=
+ollars, USD) in the bank here in Abidjan in suspense account which i inheri=
+ted from my late husband. Recently, I have serious sickness which is cancer=
+ problem and all indication my conditions is really deteriorating and it is=
+ quite obvious that i won't live more than six months, according to my doct=
+ors, this is because the cancer stage has gotten to a very bad stage.
+=0A
+=0AHaving known my condition and as a person that believes so much in selfl=
+ess services to humanity, I decided to donate this fund to a church, Mosque=
+, individual or organization that will use this money the way I am going to=
+ instruct here. To help, orphanages, widows and the less privileged to alle=
+viate poverty. I took this decision because I don't have any child that wil=
+l inherit this money and my husband surviving relatives live extravagant li=
+fe. My happiness is that I lived a life worthy of emulation. Any delay in y=
+our reply will give me room in sourcing for another person for this same pu=
+rpose. Hope to receive your reply soon.=20
+=0AYours sincerely,
+=0AMrs.  Hanane Imran.
+--0-905531313-1258535897=:52400
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;"><br><br>Donation of Mrs Hanane Imran.<br>=0A<=
+br>=0AI am Mrs. Hanane Imran, a widow to late Abdul Imran from Kuwait, who =
+worked with Kuwait embassy in Ivory Coast for nine years before dying in 20=
+07. Presently i am receiving treatments in Abidjan Cote d=E2=80=99 Ivoire, =
+We were married for twenty years without a child. He died after a brief ill=
+ness that lasted only four days. I have the sum of (two million five hundre=
+d dollars, USD) in the bank here in Abidjan in suspense account which i inh=
+erited from my late husband. Recently, I have serious sickness which is can=
+cer problem and all indication my conditions is really deteriorating and it=
+ is quite obvious that i won't live more than six months, according to my d=
+octors, this is because the cancer stage has gotten to a very bad stage.<br=
+>=0A<br>=0AHaving known my condition and as a person that believes so much =
+in selfless services to humanity, I decided to donate this fund to a church=
+, Mosque, individual or organization that will use this money the way I am =
+going to instruct here. To help, orphanages, widows and the less privileged=
+ to alleviate poverty. I took this decision because I don't have any child =
+that will inherit this money and my husband surviving relatives live extrav=
+agant life. My happiness is that I lived a life worthy of emulation. Any de=
+lay in your reply will give me room in sourcing for another person for this=
+ same purpose. Hope to receive your reply soon. <br>=0AYours sincerely,<br>=
+=0AMrs.  Hanane Imran.</td></tr></table>
+--0-905531313-1258535897=:52400--
+
+

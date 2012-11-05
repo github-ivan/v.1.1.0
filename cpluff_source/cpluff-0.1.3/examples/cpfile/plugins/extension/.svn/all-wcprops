@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/extension
+END
+file_types.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/extension/file_types.xsd
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/extension/Makefile.in
+END
+Makefile.nmake
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/extension/Makefile.nmake
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/extension/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/extension/Makefile
+END
+extension.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/extension/extension.c
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/extension/plugin.xml
+END

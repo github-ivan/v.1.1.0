@@ -1,0 +1,687 @@
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_VIAGRA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CIALLIS_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_LEVITRA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_GESDAI_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DRUGS_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_NORMAL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_AGE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_COMERCIALES_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_WITH_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_NUESTR_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_HEALTHCARE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_HAVE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DESEA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_WINDOWTEXT_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PRICING_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_HEALTH_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_USTED_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_OFERTA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MARCA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_EMAIL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_REIMBURSEMENT_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PHARMA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_INTERNET_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DATO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MENSAJE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ADSL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PRICE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_WHICH_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_TRABAJO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CUALQUIER_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_COPYRIGHT_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_FAVOR_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MORE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CUENTA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DERECHOS_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_GENERIC_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PARTE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_NUEV_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ACUERDO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MADRID_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ONLY_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_INSURANCE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PROPIETARI_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MENCIONADA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_SITIO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_REPORT_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PERTENECEN_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_AUTOCAD_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_RESPECTIVO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_RESERVADO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CURSO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ALTA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_COMPANIA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PLEASE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_INFORMACION_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DURANTE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_SEMINARIO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_LABORATORIES_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_TIEMPO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_GANAR_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ORIGINAL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_SYSTEM_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_RECEIVE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CAJA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_YEARS_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_LATE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_EMPRESA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_EUROPEAN_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_NUEVA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CONTACT_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MARKET_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DEATH_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MOMENTO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_BUSINESS_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_NUESTRA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_EUROS_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_SISTEMA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ACCOUNT_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ASEGURARSE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DIRECCION_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MEDICAL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_RESIDENTES_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_VUESTRO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_GRATUITO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_WEBCAST_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PERSONA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_SEGURIDAD_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DETALLE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_APROVAL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_SALARIO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_INSTITUTE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CONFIDENTIAL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CONTRATAR_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_REGIONAL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PUEDEN_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MONEY_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_QUIERE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_AVOID_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ACEPTAR_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_FINANCIERAS_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PENAS_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DESCUENTO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PENE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MAXGENTLEMAN_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_VIAGRA_ON_SUBJECT'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CIALLIS_ON_SUBJECT'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_LEVITRA_ON_SUBJECT'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_GESDAI_ON_SUBJECT'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DEIXAR_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_LISTA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PROL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ADMINISTRADOR_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_SERVICIO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_INDICADO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MENSAXE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DISTRIBUCION_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_COMUNIDADE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CORREO:_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ORTOGRAFIA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_SERGIO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MIGUEL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_WEINBERG_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DAWKINS_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_AMIGO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PAJARES_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DAVID_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_HABLAR_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DATABASE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_TERRORISMO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_AMBIENTAL_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_MOTU_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_UVIGO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_GALEGO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_CRIMINE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_SIGNATURE_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ESPECIES_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_APOIANDO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_STEVEN_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_PODO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_INFILTRADO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_XUNTA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ESPEJISMO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ADVERSARIO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_FUNCIONARIO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_COMPLETO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_ESCOLA_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_OBJETIVO_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_TEJER_ON_BODY'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DEFINITIVE_+'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'HAS_DEFINITIVE_-'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_PASS_1'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_NONE_1'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_NEUTRAL_1'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_SOFTFAIL_1'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_FAIL_1'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_PASS_3'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_NONE_3'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_NEUTRAL_3'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_SOFTFAIL_3'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'SPF_FAIL_3'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'BAYES_00'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'BAYES_05'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'BAYES_20'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'BAYES_40'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'BAYES_50'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'BAYES_60'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'BAYES_80'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'BAYES_95'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting rulename 'BAYES_99'
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting meta rulename 'META_DRUGS_ON_BODY' 
+[Wed Mar 14 11:33:03 2012] INFO - RULESET: Inserting meta rulename 'META_DRUGS_ON_SUBJECT' 
+We have to parse de expresssion ( (HAS_VIAGRA_ON_BODY + HAS_CIALLIS_ON_BODY + HAS_LEVITRA_ON_BODY + HAS_DRUGS_ON_BODY) > 1 )
+We have to parse de expresssion ( (HAS_VIAGRA_ON_SUBJECT + HAS_CIALLIS_ON_SUBJECT + HAS_LEVITRA_ON_SUBJECT + HAS_DRUGS_ON_SUBJECT) > 1 )
+#Ruleset output (size=171)
+#Rule 0
+body HAS_VIAGRA_ON_BODY eval("[vV][iI?1!][aA][gG][rR][aA]")
+score HAS_VIAGRA_ON_BODY 2.00
+#Rule 1
+body HAS_CIALLIS_ON_BODY eval("[cC][iI?1!][aA][Ll]+[iI?1!][Ss5]")
+score HAS_CIALLIS_ON_BODY 2.00
+#Rule 2
+body HAS_LEVITRA_ON_BODY eval("[lL][eE][vV][iI?1!][tT][rR][aA]")
+score HAS_LEVITRA_ON_BODY 2.00
+#Rule 3
+body HAS_GESDAI_ON_BODY eval("[gG][eE][sS][dD][aA][iI?1!]")
+score HAS_GESDAI_ON_BODY +
+#Rule 4
+body HAS_DRUGS_ON_BODY eval("[dD][rR][uU][gG][sS]{0,1}")
+score HAS_DRUGS_ON_BODY 1.37
+#Rule 5
+body HAS_NORMAL_ON_BODY eval("[nN][oO][rR][mM][aA][lL][.]{0,1}")
+score HAS_NORMAL_ON_BODY 1.36
+#Rule 6
+body HAS_AGE_ON_BODY eval("[aA][gG][eE][.]{0,1}")
+score HAS_AGE_ON_BODY 1.35
+#Rule 7
+body HAS_COMERCIALES_ON_BODY eval("[cC][oO][mM][eE][rR][cC][iI][aA][lL][eE]{0,1}[sS]{0,1}[.]{0,1}")
+score HAS_COMERCIALES_ON_BODY 1.28
+#Rule 8
+body HAS_WITH_ON_BODY eval("[wW][iI][tT][hH][.]{0,1}")
+score HAS_WITH_ON_BODY 1.29
+#Rule 9
+body HAS_NUESTR_ON_BODY eval("[nN][uU][eE][sS][tT][rR][aAoO][sS]{0,1}[.]{0,1}")
+score HAS_NUESTR_ON_BODY 1.35
+#Rule 10
+body HAS_HEALTHCARE_ON_BODY eval("[hH][eE][aA][lL][tT][hH][cC][aA][rR][eE][.]{0,1}")
+score HAS_HEALTHCARE_ON_BODY 1.30
+#Rule 11
+body HAS_HAVE_ON_BODY eval("[hH][aA][vV][eE][.]{0,1}")
+score HAS_HAVE_ON_BODY 1.27
+#Rule 12
+body HAS_DESEA_ON_BODY eval("[dD][eE][sS][eE][aA][.]{0,1}")
+score HAS_DESEA_ON_BODY 1.25
+#Rule 13
+body HAS_WINDOWTEXT_ON_BODY eval("[wW][iI][nN][dD][oO][wW][tT][eE][xX][tT][.]{0,1}")
+score HAS_WINDOWTEXT_ON_BODY 1.24
+#Rule 14
+body HAS_PRICING_ON_BODY eval("[pP][rR][iI][cC][iI][nN][gG][.]{0,1}")
+score HAS_PRICING_ON_BODY 1.30
+#Rule 15
+body HAS_HEALTH_ON_BODY eval("[hH][eE][aA][lL][tT][hH][.]{0,1}")
+score HAS_HEALTH_ON_BODY 1.24
+#Rule 16
+body HAS_USTED_ON_BODY eval("[uU][sS][tT][eE][dD][.]{0,1}")
+score HAS_USTED_ON_BODY 1.27
+#Rule 17
+body HAS_OFERTA_ON_BODY eval("[oO][fF][eE][rR][tT][aA][sS]{0,1}[.]{0,1}")
+score HAS_OFERTA_ON_BODY 1.06
+#Rule 18
+body HAS_MARCA_ON_BODY eval("[mM][aA][rR][cC][aA][sS]{0,1}[.]{0,1}")
+score HAS_MARCA_ON_BODY 1.02
+#Rule 19
+body HAS_EMAIL_ON_BODY eval("[eE]{0,1}[-]{0,1}[mM][aA][iI][lL][sS?][.]{0,1}")
+score HAS_EMAIL_ON_BODY 1.19
+#Rule 20
+body HAS_REIMBURSEMENT_ON_BODY eval("[rR][eE][iI][mM][bB][uU][rR][sS][eE][mM][eE][nN][tT][.]{0,1}")
+score HAS_REIMBURSEMENT_ON_BODY 1.23
+#Rule 21
+body HAS_PHARMA_ON_BODY eval("[pP][rR][aA][rR][mM][aA](ceutical|cy){0,1}")
+score HAS_PHARMA_ON_BODY 1.21
+#Rule 22
+body HAS_INTERNET_ON_BODY eval("[iI][nN][tT][eE][rR][nN][eE][tT][.]{0,1}")
+score HAS_INTERNET_ON_BODY 1.20
+#Rule 23
+body HAS_DATO_ON_BODY eval("[dD][aA][tT][oO][sS]{0,1}[.]{0,1}")
+score HAS_DATO_ON_BODY 1.17
+#Rule 24
+body HAS_MENSAJE_ON_BODY eval("[mM][eE][nN][sS][aA][jJ][eE][sS]{0,1}[.]{0,1}")
+score HAS_MENSAJE_ON_BODY 1.29
+#Rule 25
+body HAS_ADSL_ON_BODY eval("[aA][dD][sS][lL][.]{0,1}")
+score HAS_ADSL_ON_BODY 1.14
+#Rule 26
+body HAS_PRICE_ON_BODY eval("[pP][rR][iI][cC][eE][sS]{0,1}[.]{0,1}")
+score HAS_PRICE_ON_BODY 1.14
+#Rule 27
+body HAS_WHICH_ON_BODY eval("[wW][hH][iI][cC][hH][.]{0,1}")
+score HAS_WHICH_ON_BODY 1.12
+#Rule 28
+body HAS_TRABAJO_ON_BODY eval("[tT][rR][aA][bB][aA][jJ][oO][.]{0,1}")
+score HAS_TRABAJO_ON_BODY 1.22
+#Rule 29
+body HAS_CUALQUIER_ON_BODY eval("[cC][uU][aA][lL][qQ][uU][iI][eE][rR][aA]{0,1}[.]{0,1}")
+score HAS_CUALQUIER_ON_BODY 1.11
+#Rule 30
+body HAS_COPYRIGHT_ON_BODY eval("[cC][oO][pP][iI][rR][iI][gG][hH][tT]{0,1}[.]{0,1}")
+score HAS_COPYRIGHT_ON_BODY 1.11
+#Rule 31
+body HAS_FAVOR_ON_BODY eval("[fF][aA][vV][oO][rR][.]{0,1}")
+score HAS_FAVOR_ON_BODY 1.29
+#Rule 32
+body HAS_MORE_ON_BODY eval("[mM][oO][rR][eE][.]{0,1}")
+score HAS_MORE_ON_BODY 1.14
+#Rule 33
+body HAS_CUENTA_ON_BODY eval("[cC][uU][eE][nN][tT][aA][.]{0,1}")
+score HAS_CUENTA_ON_BODY 1.13
+#Rule 34
+body HAS_DERECHOS_ON_BODY eval("[dD][eE][oO][rR][eE][cC][hH][oO][sS]{0,1}[.]{0,1}")
+score HAS_DERECHOS_ON_BODY 1.10
+#Rule 35
+body HAS_GENERIC_ON_BODY eval("[gG][eE][nN][eE][rR][iI][cC][.]{0,1}")
+score HAS_GENERIC_ON_BODY 1.11
+#Rule 36
+body HAS_PARTE_ON_BODY eval("[pP][aA][rR][tT][eE][sS]{0,1}[.]{0,1}")
+score HAS_PARTE_ON_BODY 1.30
+#Rule 37
+body HAS_NUEV_ON_BODY eval("[nN][uU][eE][vV][aAoO][sS]{0,1}[.]{0,1}")
+score HAS_NUEV_ON_BODY 1.23
+#Rule 38
+body HAS_ACUERDO_ON_BODY eval("[aA][cC][uU][eE][rR][dD][oO][.]{0,1}")
+score HAS_ACUERDO_ON_BODY 1.09
+#Rule 39
+body HAS_MADRID_ON_BODY eval("[mM][aA][dD][rR][iI][dD][.]{0,1}")
+score HAS_MADRID_ON_BODY 1.10
+#Rule 40
+body HAS_ONLY_ON_BODY eval("[oO][nN][lL][yY][.]{0,1}")
+score HAS_ONLY_ON_BODY 1.09
+#Rule 41
+body HAS_INSURANCE_ON_BODY eval("[iI][nN][sS][uU][rR][aA][nN][cC][eE][.]{0,1}")
+score HAS_INSURANCE_ON_BODY 1.10
+#Rule 42
+body HAS_PROPIETARI_ON_BODY eval("[pP][rR][oO][pP][iI][eE][tT][aA][rR][iI][aAoO][sS]{0,1}[.]{0,1}")
+score HAS_PROPIETARI_ON_BODY 1.09
+#Rule 43
+body HAS_MENCIONADA_ON_BODY eval("[mM][eE][nN][cC][iI][oO][nN][aA][dD][aAoO][sS]{0,1}[.]{0,1}")
+score HAS_MENCIONADA_ON_BODY 1.09
+#Rule 44
+body HAS_SITIO_ON_BODY eval("[sS][iI][tT][iI][oO][sS]{0,1}[.]{0,1}")
+score HAS_SITIO_ON_BODY 1.09
+#Rule 45
+body HAS_REPORT_ON_BODY eval("[rR][eE][pP][oO][rR][tT][.]{0,1}")
+score HAS_REPORT_ON_BODY 1.10
+#Rule 46
+body HAS_PERTENECEN_ON_BODY eval("[pP][eE][rR][tT][eE][nN][eE][cC][eE][nN][.]{0,1}")
+score HAS_PERTENECEN_ON_BODY 1.09
+#Rule 47
+body HAS_AUTOCAD_ON_BODY eval("[aA][uU][tT][oO][cC][aA][dD][.]{0,1}")
+score HAS_AUTOCAD_ON_BODY 1.09
+#Rule 48
+body HAS_RESPECTIVO_ON_BODY eval("[rR][eE][sS][pP][eE][cC][tT][iI][vV][oO][sS]{0,1}[.]{0,1}")
+score HAS_RESPECTIVO_ON_BODY 1.09
+#Rule 49
+body HAS_RESERVADO_ON_BODY eval("[rR][eE][sS][eE][rR][vV][aA][dD][oO][sS]{0,1}[.]{0,1}")
+score HAS_RESERVADO_ON_BODY 1.08
+#Rule 50
+body HAS_CURSO_ON_BODY eval("[cC][uU][rR][sS][oO][sS]\{0,1}[.]{0,1}")
+score HAS_CURSO_ON_BODY 1.11
+#Rule 51
+body HAS_ALTA_ON_BODY eval("[aA][lL][tT][aA][sS]\{0,1}[.]{0,1}")
+score HAS_ALTA_ON_BODY 1.10
+#Rule 52
+body HAS_COMPANIA_ON_BODY eval("[cC][oO][mM][pP][aA][nNñÑ][iI][aA][sS]\{0,1}[.]{0,1}")
+score HAS_COMPANIA_ON_BODY 1.10
+#Rule 53
+body HAS_PLEASE_ON_BODY eval("[pP][lL][eE][aA][sS][eE][.]{0,1}")
+score HAS_PLEASE_ON_BODY 1.13
+#Rule 54
+body HAS_INFORMACION_ON_BODY eval("[i][nN][fF][oR][mM][aA][tT][iI][oO][nN][.]{0,1}")
+score HAS_INFORMACION_ON_BODY 1.08
+#Rule 55
+body HAS_DURANTE_ON_BODY eval("[dD][uU][rR][aA][nN][tT][eE][.]{0,1}")
+score HAS_DURANTE_ON_BODY 1.14
+#Rule 56
+body HAS_SEMINARIO_ON_BODY eval("[sS][eE][mM][iI][nN][aA][rR][iI][oO][.]{0,1}")
+score HAS_SEMINARIO_ON_BODY 1.08
+#Rule 57
+body HAS_LABORATORIES_ON_BODY eval("[lL][aA][bB][oO][rR][aA][tT][oO][rR][iI][eE][sS][.]{0,1}")
+score HAS_LABORATORIES_ON_BODY 1.07
+#Rule 58
+body HAS_TIEMPO_ON_BODY eval("[tT][iI][eE][mM][pP][oO][.]{0,1}")
+score HAS_TIEMPO_ON_BODY 1.08
+#Rule 59
+body HAS_GANAR_ON_BODY eval("[gG][aA][nN][aA][rR][.]{0,1}")
+score HAS_GANAR_ON_BODY 1.08
+#Rule 60
+body HAS_ORIGINAL_ON_BODY eval("[oO][rR][iI][gG][iI][nN][aA][lL][.]{0,1}")
+score HAS_ORIGINAL_ON_BODY 1.07
+#Rule 61
+body HAS_SYSTEM_ON_BODY eval("[sS][yY][sS][tT][eE][mM][.]{0,1}")
+score HAS_SYSTEM_ON_BODY 1.10
+#Rule 62
+body HAS_RECEIVE_ON_BODY eval("[rR][eE][cC][eE][iI][vV][eE][.]{0,1}")
+score HAS_RECEIVE_ON_BODY 1.07
+#Rule 63
+body HAS_CAJA_ON_BODY eval("[cC][aA][jJ][aA][.]{0,1}")
+score HAS_CAJA_ON_BODY 1.07
+#Rule 64
+body HAS_YEARS_ON_BODY eval("[yY][eE][aA][rR][sS]{0,1}[.]{0,1}")
+score HAS_YEARS_ON_BODY 1.07
+#Rule 65
+body HAS_LATE_ON_BODY eval("[lL][aA][tT][eE][.]{0,1}")
+score HAS_LATE_ON_BODY 1.06
+#Rule 66
+body HAS_EMPRESA_ON_BODY eval("[eE][mM][pP][rR][eE][sS][aA][sS]{0,1}[.]{0,1}")
+score HAS_EMPRESA_ON_BODY 1.08
+#Rule 67
+body HAS_EUROPEAN_ON_BODY eval("[eE][uU][rR][oO][pP][eE][aA][nN]{0,1}[.]{0,1}")
+score HAS_EUROPEAN_ON_BODY 1.06
+#Rule 68
+body HAS_NUEVA_ON_BODY eval("[nN][uU][eE][vV][aA][sS]{0,1}[.]{0,1}")
+score HAS_NUEVA_ON_BODY 1.10
+#Rule 69
+body HAS_CONTACT_ON_BODY eval("[cC][oO][nN][tT][aA][cC][tT][.]{0,1}")
+score HAS_CONTACT_ON_BODY 1.08
+#Rule 70
+body HAS_MARKET_ON_BODY eval("[mM][aA][rR][kK][eE][tT][.]{0,1}")
+score HAS_MARKET_ON_BODY 1.09
+#Rule 71
+body HAS_DEATH_ON_BODY eval("[dD][eE][aA][tT][hH][.]{0,1}")
+score HAS_DEATH_ON_BODY 1.06
+#Rule 72
+body HAS_MOMENTO_ON_BODY eval("[mM][oO][mM][eE][nN][tT][oO][.]{0,1}")
+score HAS_MOMENTO_ON_BODY 1.10
+#Rule 73
+body HAS_BUSINESS_ON_BODY eval("[bB][uU][sS][iI][nN][eE][sS][sS][.]{0,1}")
+score HAS_BUSINESS_ON_BODY 1.07
+#Rule 74
+body HAS_NUESTRA_ON_BODY eval("[nN][uU][eE][sS][tT][rR][aA][sS][.]{0,1}")
+score HAS_NUESTRA_ON_BODY 1.45
+#Rule 75
+body HAS_EUROS_ON_BODY eval("[eE][uU][rR][oO][sS][.]{0,1}")
+score HAS_EUROS_ON_BODY 1.10
+#Rule 76
+body HAS_SISTEMA_ON_BODY eval("[sS][iI][sS][tT][eE][mM][aA][.]{0,1}")
+score HAS_SISTEMA_ON_BODY 1.05
+#Rule 77
+body HAS_ACCOUNT_ON_BODY eval("[aA][cC][oO][uU][nN][tT][.]{0,1}")
+score HAS_ACCOUNT_ON_BODY 1.07
+#Rule 78
+body HAS_ASEGURARSE_ON_BODY eval("[aA][sS][eE][gG][uU][rR][aA][rR][sS][eE][.]{0,1}")
+score HAS_ASEGURARSE_ON_BODY 1.04
+#Rule 79
+body HAS_DIRECCION_ON_BODY eval("[dD][iI][rR][eE][cC][iI][oO][nN][.]{0,1}")
+score HAS_DIRECCION_ON_BODY 1.07
+#Rule 80
+body HAS_MEDICAL_ON_BODY eval("[mM][eE][dD][iI][cC][aA][lL][.]{0,1}")
+score HAS_MEDICAL_ON_BODY 1.04
+#Rule 81
+body HAS_RESIDENTES_ON_BODY eval("[rR][eE][sS][iI][dD][eE][nN][tT][eE][sS]{0,1}[.]{0,1}")
+score HAS_RESIDENTES_ON_BODY 1.04
+#Rule 82
+body HAS_VUESTRO_ON_BODY eval("[vV][uU][eE][sS][tT][rR][oO][.]{0,1}")
+score HAS_VUESTRO_ON_BODY 1.06
+#Rule 83
+body HAS_GRATUITO_ON_BODY eval("[gG][rR][aA][tT][uU][iI][tT][oO][.]{0,1}")
+score HAS_GRATUITO_ON_BODY 1.05
+#Rule 84
+body HAS_WEBCAST_ON_BODY eval("[wW][eE][bB][cC][aA][sS][tT][.]{0,1}")
+score HAS_WEBCAST_ON_BODY 1.04
+#Rule 85
+body HAS_PERSONA_ON_BODY eval("[pP][eE][rR][sS][oO][nN][aA][sS]{0,1}[.]{0,1}")
+score HAS_PERSONA_ON_BODY 1.03
+#Rule 86
+body HAS_SEGURIDAD_ON_BODY eval("[sS][eE][gG][uU][rR][iI][dD][aA][.]{0,1}")
+score HAS_SEGURIDAD_ON_BODY 1.05
+#Rule 87
+body HAS_DETALLE_ON_BODY eval("[dD][eE][tT][aA][lL][lL][eE][sS]{0,1}[.]{0,1}")
+score HAS_DETALLE_ON_BODY 1.05
+#Rule 88
+body HAS_APROVAL_ON_BODY eval("[aA][pP][rR][oO][vV][aA][lL][.]{0,1}")
+score HAS_APROVAL_ON_BODY 1.00
+#Rule 89
+body HAS_SALARIO_ON_BODY eval("[sS][aA][lL][aA][rR][iI][oO][.]{0,1}")
+score HAS_SALARIO_ON_BODY 1.05
+#Rule 90
+body HAS_INSTITUTE_ON_BODY eval("[iI][nN][sS][tT][iI][tT][uU][tT][eE][.]{0,1}")
+score HAS_INSTITUTE_ON_BODY 1.03
+#Rule 91
+body HAS_CONFIDENTIAL_ON_BODY eval("[cC][nN][fF][iI][dD][eE][nN][tT][iI][aA][lL][.]{0,1}")
+score HAS_CONFIDENTIAL_ON_BODY 1.04
+#Rule 92
+body HAS_CONTRATAR_ON_BODY eval("[cC][oO][nN][tT][rR][aA][tT][aA][rR][.]{0,1}")
+score HAS_CONTRATAR_ON_BODY 1.03
+#Rule 93
+body HAS_REGIONAL_ON_BODY eval("[rR][eE][gG][iI][oO][nN][aA][lL][.]{0,1}")
+score HAS_REGIONAL_ON_BODY 1.03
+#Rule 94
+body HAS_PUEDEN_ON_BODY eval("[pP][uU][eE][dD][eE][nN][.]{0,1}")
+score HAS_PUEDEN_ON_BODY 1.03
+#Rule 95
+body HAS_MONEY_ON_BODY eval("[mM][oO][nN][yY][.]{0,1}")
+score HAS_MONEY_ON_BODY 1.03
+#Rule 96
+body HAS_QUIERE_ON_BODY eval("[qQ][uU][iI][eE][rR][eE][.]{0,1}")
+score HAS_QUIERE_ON_BODY 1.03
+#Rule 97
+body HAS_AVOID_ON_BODY eval("[aA][vV][oO][iI][dD]([iI][nN][gG]){0,1}[.]{0,1}")
+score HAS_AVOID_ON_BODY 1.03
+#Rule 98
+body HAS_ACEPTAR_ON_BODY eval("[aA][cC][eE][pP][tT][aA][rR]{0,1}[.]{0,1}")
+score HAS_ACEPTAR_ON_BODY 1.01
+#Rule 99
+body HAS_FINANCIERAS_ON_BODY eval("[fF][iI][nN][aA][nN][cC][iI][eE][rR][aA][sS]{0,1}[.]{0,1}")
+score HAS_FINANCIERAS_ON_BODY 1.01
+#Rule 100
+body HAS_PENAS_ON_BODY eval("[pP][eE][nN][aA][sS]{0,1}[.]{0,1}")
+score HAS_PENAS_ON_BODY 1.01
+#Rule 101
+body HAS_DESCUENTO_ON_BODY eval("[dD][eE][sS][cC][uU][eE][nN][tT][oO][sS]{0,1}[.]{0,1}")
+score HAS_DESCUENTO_ON_BODY 1.01
+#Rule 102
+body HAS_PENE_ON_BODY eval("[pP][eE][nN][eE][sS]{0,1}[.]{0,1}")
+score HAS_PENE_ON_BODY 2.50
+#Rule 103
+body HAS_MAXGENTLEMAN_ON_BODY eval("[mM][aA][xX][gG][eE][nN][tT][lL][eE][mM][aA][nN]{0,1}[.]{0,1}")
+score HAS_MAXGENTLEMAN_ON_BODY 2.50
+#Rule 104
+header HAS_VIAGRA_ON_SUBJECT eval_header("Subject", "[vV][iI?1!][aA][gG][rR][aA]")
+score HAS_VIAGRA_ON_SUBJECT 2.00
+#Rule 105
+header HAS_CIALLIS_ON_SUBJECT eval_header( "Subject" ,"[cC][iI?1!][aA][Ll]+[iI?1!][Ss5]")
+score HAS_CIALLIS_ON_SUBJECT 2.00
+#Rule 106
+header HAS_LEVITRA_ON_SUBJECT eval_header("Subject" , "[lL][eE][vV][iI?1!][tT][rR][aA]")
+score HAS_LEVITRA_ON_SUBJECT 2.00
+#Rule 107
+header HAS_GESDAI_ON_SUBJECT eval_header("Subject","[gG][eE][sS][dD][aA][iI]")
+score HAS_GESDAI_ON_SUBJECT 2.00
+#Rule 108
+body HAS_DEIXAR_ON_BODY eval("[dD][eE][iI][xX][aA][rR][.]{0,1}")
+score HAS_DEIXAR_ON_BODY -0.30
+#Rule 109
+body HAS_LISTA_ON_BODY eval("[lL][iI][sS][tT][aA][sS]{0,1}[.]{0,1}")
+score HAS_LISTA_ON_BODY -2.00
+#Rule 110
+body HAS_PROL_ON_BODY eval("[pP][rR][oO][lL][.]{0,1}")
+score HAS_PROL_ON_BODY -0.80
+#Rule 111
+body HAS_ADMINISTRADOR_ON_BODY eval("[aA][dD][mM][iI][nN][iI][sS][tT][rR][aA][dD][oO][rR][.]{0,1}")
+score HAS_ADMINISTRADOR_ON_BODY -0.30
+#Rule 112
+body HAS_SERVICIO_ON_BODY eval("[sS][eE][rR][vV][iI][cC][iI][oO][sS]{0,1}[.]{0,1}")
+score HAS_SERVICIO_ON_BODY -0.25
+#Rule 113
+body HAS_INDICADO_ON_BODY eval("[iI][nN][dD][iI][cC][aA][dD][oO][sS]{0,1}[.]{0,1}")
+score HAS_INDICADO_ON_BODY -0.30
+#Rule 114
+body HAS_MENSAXE_ON_BODY eval("[mM][eE][nN][sS][aA][xX][eE][sS]{0,1}[.]{0,1}")
+score HAS_MENSAXE_ON_BODY -0.70
+#Rule 115
+body HAS_DISTRIBUCION_ON_BODY eval("[dD][iI][sS][tT][rR][iI][bB][uU][cC][iI][oO][nN][.]{0,1}")
+score HAS_DISTRIBUCION_ON_BODY -0.30
+#Rule 116
+body HAS_COMUNIDADE_ON_BODY eval("[cC][oO][mM][uU][nN][iI][dD][aA][dD][eE][sS]{0,1}[.]{0,1}")
+score HAS_COMUNIDADE_ON_BODY -0.40
+#Rule 117
+body HAS_CORREO:_ON_BODY eval("[cC][oO][rR][eE][oO][:][.]{0,1}")
+score HAS_CORREO:_ON_BODY -0.30
+#Rule 118
+body HAS_ORTOGRAFIA_ON_BODY eval("[oO][rR][tT][oO][gG][rR][aA][fF][iI][aA][.]{0,1}")
+score HAS_ORTOGRAFIA_ON_BODY -0.08
+#Rule 119
+body HAS_SERGIO_ON_BODY eval("[sS][eE][rR][gG][iI][oO][.]{0,1}")
+score HAS_SERGIO_ON_BODY -0.08
+#Rule 120
+body HAS_MIGUEL_ON_BODY eval("[mM][iI][gG][uU][eE][lL][.]{0,1}")
+score HAS_MIGUEL_ON_BODY -0.30
+#Rule 121
+body HAS_WEINBERG_ON_BODY eval("[wW][eE][iI][nN][bB][eE][rR][gG][.]{0,1}")
+score HAS_WEINBERG_ON_BODY -0.08
+#Rule 122
+body HAS_DAWKINS_ON_BODY eval("[dD][aA][wW][kK][iI][nN][sS][.]{0,1}")
+score HAS_DAWKINS_ON_BODY -0.08
+#Rule 123
+body HAS_AMIGO_ON_BODY eval("[aA][mM][iI][gG][oO][sS]{0,1}[.]{0,1}")
+score HAS_AMIGO_ON_BODY -0.06
+#Rule 124
+body HAS_PAJARES_ON_BODY eval("[pP][aA][jJ][aA][rR][eE][sS][.]{0,1}")
+score HAS_PAJARES_ON_BODY -0.08
+#Rule 125
+body HAS_DAVID_ON_BODY eval("[dD][aA][vV][iI][dD][.]{0,1}")
+score HAS_DAVID_ON_BODY -0.09
+#Rule 126
+body HAS_HABLAR_ON_BODY eval("[hH][aA][bB][lL][aA][rR][.]{0,1}")
+score HAS_HABLAR_ON_BODY -0.07
+#Rule 127
+body HAS_DATABASE_ON_BODY eval("[dD][aA][tT][aA][bB][aA][sS][eE][.]{0,1}")
+score HAS_DATABASE_ON_BODY -0.06
+#Rule 128
+body HAS_TERRORISMO_ON_BODY eval("[tT][eE][rR][rR][oO][rR][iI][sS][mM][oO][.]{0,1}")
+score HAS_TERRORISMO_ON_BODY -0.07
+#Rule 129
+body HAS_AMBIENTAL_ON_BODY eval("[aA][mM][bB][iI][eE][nN][tT][aA][lL][.]{0,1}")
+score HAS_AMBIENTAL_ON_BODY -0.04
+#Rule 130
+body HAS_MOTU_ON_BODY eval("[mM][oO][tT][uU][.]{0,1}")
+score HAS_MOTU_ON_BODY -0.06
+#Rule 131
+body HAS_UVIGO_ON_BODY eval("[.][uU][vV][iI][gG][oO][.]{0,1}")
+score HAS_UVIGO_ON_BODY -0.08
+#Rule 132
+body HAS_GALEGO_ON_BODY eval("[gG][aA][lL][eE][gG][oO][sS]{0,1}[.]{0,1}")
+score HAS_GALEGO_ON_BODY -1.10
+#Rule 133
+body HAS_CRIMINE_ON_BODY eval("[cC][rR][iI][mM][iI][nN][eE]{0,1}[.]{0,1}")
+score HAS_CRIMINE_ON_BODY -0.06
+#Rule 134
+body HAS_SIGNATURE_ON_BODY eval("[sS][iI][gG][nN][aA][tT][uU][rR][eE]{0,1}[.]{0,1}")
+score HAS_SIGNATURE_ON_BODY -0.06
+#Rule 135
+body HAS_ESPECIES_ON_BODY eval("[eE][sS][pP][eE][cC][iI][eE][sS]{0,1}[.]{0,1}")
+score HAS_ESPECIES_ON_BODY -0.06
+#Rule 136
+body HAS_APOIANDO_ON_BODY eval("[aA][pP][oO][iI][aA][nN][dD][oO][.]{0,1}")
+score HAS_APOIANDO_ON_BODY -0.05
+#Rule 137
+body HAS_STEVEN_ON_BODY eval("[sS][tT][eE][vV][eE][nN][.]{0,1}")
+score HAS_STEVEN_ON_BODY -0.05
+#Rule 138
+body HAS_PODO_ON_BODY eval("[pP][oO][dD][oO][.]{0,1}")
+score HAS_PODO_ON_BODY -0.05
+#Rule 139
+body HAS_INFILTRADO_ON_BODY eval("[iI][nN][fF][iI][lL][tT][rR][aA][dD][oO][.]{0,1}")
+score HAS_INFILTRADO_ON_BODY -0.05
+#Rule 140
+body HAS_XUNTA_ON_BODY eval("[xX][uU][nN][tT][aA][.]{0,1}")
+score HAS_XUNTA_ON_BODY -0.05
+#Rule 141
+body HAS_ESPEJISMO_ON_BODY eval("[eE][sS][pP][eE][jJ][iI][sS][mM][oO][.]{0,1}")
+score HAS_ESPEJISMO_ON_BODY -0.05
+#Rule 142
+body HAS_ADVERSARIO_ON_BODY eval("[aA][dD][vV][eE][rR][sS][aA][rR][iI][oO][sS]{0,1}[.]{0,1}")
+score HAS_ADVERSARIO_ON_BODY -0.05
+#Rule 143
+body HAS_FUNCIONARIO_ON_BODY eval("[fF][uU][nN][cC][iI][oO][nN][aA][rR][iI][oO][sS]{0,1}[.]{0,1}")
+score HAS_FUNCIONARIO_ON_BODY -0.02
+#Rule 144
+body HAS_COMPLETO_ON_BODY eval("[cC][oO][mM][pP][lL][eE][tT][oO][sS]{0,1}[.]{0,1}")
+score HAS_COMPLETO_ON_BODY -0.02
+#Rule 145
+body HAS_ESCOLA_ON_BODY eval("[eE][sS][cC][oO][lL][aA][sS]{0,1}[.]{0,1}")
+score HAS_ESCOLA_ON_BODY -0.02
+#Rule 146
+body HAS_OBJETIVO_ON_BODY eval("[oO][bB][jJ][eE][tT][iI][vV][oO]{0,1}[.]{0,1}")
+score HAS_OBJETIVO_ON_BODY -0.02
+#Rule 147
+body HAS_TEJER_ON_BODY eval("[oO][bB][jJ][eE][tT][iI][vV][oO]{0,1}[.]{0,1}")
+score HAS_TEJER_ON_BODY -0.02
+#Rule 148
+body HAS_DEFINITIVE_+ eval("[pP][oO][sS][iI][tT][iI][vV][eE][.]{0,1}")
+score HAS_DEFINITIVE_+ +
+#Rule 149
+body HAS_DEFINITIVE_- eval("[nN][eE][gG][aA][tT][iI][vV][eE]{0,1}")
+score HAS_DEFINITIVE_- -
+#Rule 150
+header SPF_PASS_1 spf_pass()
+score SPF_PASS_1 -2.00
+#Rule 151
+header SPF_NONE_1 spf_none()
+score SPF_NONE_1 0.50
+#Rule 152
+header SPF_NEUTRAL_1 spf_neutral()
+score SPF_NEUTRAL_1 0.00
+#Rule 153
+header SPF_SOFTFAIL_1 spf_softfail()
+score SPF_SOFTFAIL_1 1.00
+#Rule 154
+header SPF_FAIL_1 spf_fail()
+score SPF_FAIL_1 2.00
+#Rule 155
+header SPF_PASS_3 spf_pass(3)
+score SPF_PASS_3 -2.00
+#Rule 156
+header SPF_NONE_3 spf_none(3)
+score SPF_NONE_3 0.50
+#Rule 157
+header SPF_NEUTRAL_3 spf_neutral(3)
+score SPF_NEUTRAL_3 0.00
+#Rule 158
+header SPF_SOFTFAIL_3 spf_softfail(3)
+score SPF_SOFTFAIL_3 1.00
+#Rule 159
+header SPF_FAIL_3 spf_fail(3)
+score SPF_FAIL_3 2.00
+#Rule 160
+body BAYES_00 check_bayes(0.00, 0.01)
+score BAYES_00 -2.00
+#Rule 161
+body BAYES_05 check_bayes(0.01, 0.05)
+score BAYES_05 -1.00
+#Rule 162
+body BAYES_20 check_bayes(0.05, 0.20)
+score BAYES_20 -0.50
+#Rule 163
+body BAYES_40 check_bayes(0.20, 0.40)
+score BAYES_40 -0.25
+#Rule 164
+body BAYES_50 check_bayes(0.40, 0.60)
+score BAYES_50 0.00
+#Rule 165
+body BAYES_60 check_bayes(0.60, 0.80)
+score BAYES_60 0.25
+#Rule 166
+body BAYES_80 check_bayes(0.80, 0.95)
+score BAYES_80 1.00
+#Rule 167
+body BAYES_95 check_bayes(0.95, 0.99)
+score BAYES_95 2.00
+#Rule 168
+body BAYES_99 check_bayes(0.99, 1.00)
+score BAYES_99 3.00
+#Rule 169
+meta META_DRUGS_ON_BODY ( (HAS_VIAGRA_ON_BODY + HAS_CIALLIS_ON_BODY + HAS_LEVITRA_ON_BODY + HAS_DRUGS_ON_BODY) > 1 )
+score META_DRUGS_ON_BODY 3.00
+#Rule 170
+meta META_DRUGS_ON_SUBJECT ( (HAS_VIAGRA_ON_SUBJECT + HAS_CIALLIS_ON_SUBJECT + HAS_LEVITRA_ON_SUBJECT + HAS_DRUGS_ON_SUBJECT) > 1 )
+score META_DRUGS_ON_SUBJECT 3.00

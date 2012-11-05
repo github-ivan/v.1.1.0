@@ -1,0 +1,40 @@
+# Sample filter file
+
+###########################################################################
+#     Common drugs on body                                                #
+###########################################################################
+
+body HAS_VIAGRA_ON_BODY		eval("[vV][iI?1!][aA][gG][rR][aA]")
+describe HAS_VIAGRA_ON_BODY Contains references to viagra in content
+
+body HAS_CIALLIS_ON_BODY         eval("[cC][iI?1!][aA][Ll]+[iI?1!][Ss5]")
+describe HAS_CIALLIS_ON_BODY Contains references to ciallis in content
+
+body HAS_LEVITRA_ON_BODY        eval("[lL][eE][vV][iI?1!][tT][rR][aA]")
+describe HAS_LEVITRA_ON_BODY Contains references to levitra in content
+
+body HAS_GesDAI_ON_BODY		eval("[gG][eE][sS][dD][aA][iI?1!]")
+describe HAS_GesDAI_ON_BODY Contains references to GesDAI in content
+
+body HAS_GesDAI_ON_BODY_PCRE	     pcre_eval("(?i:gesdai)")
+describe HAS_GesDAI_ON_BODY_PCRE Contains references to GesDAI in content
+
+###########################################################################
+#     Common drugs on header                                              #
+###########################################################################
+
+header HAS_VIAGRA_ON_SUBJECT	      eval_header("Subject", "[vV][iI?1!][aA][gG][rR][aA]")
+describe HAS_VIAGRA_ON_SUBJECT Contains references to viagra in Subject
+
+header HAS_CIALLIS_ON_SUBJECT         eval_header( "Subject" ,"[cC][iI?1!][aA][Ll]+[iI?1!][Ss5]")
+describe HAS_CIALLIS_ON_SUBJECT Contains references to ciallis in Subject
+
+header HAS_LEVITRA_ON_SUBJECT        eval_header("Subject" , "[lL][eE][vV][iI?1!][tT][rR][aA]")
+describe HAS_LEVITRA_ON_SUBJECT Contains references to levitra in Subject
+
+body HAS_GesDAI_ON_SUBJECT_PCRE	pcre_eval_header("Subject","(?i:gesdai)")
+describe HAS_GesDAI_ON_SUBJECT_PCRE	Contains references to GesDAI in Subject
+
+body HAS_Levitra_ON_SUBJECT_PCRE pcre_eval_header("Subject","(?i:levitra)")
+describe HAS_Levitra_ON_SUBJECT_PCRE     Contains references to lavitra in Subject
+

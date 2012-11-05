@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/324/plugins/eml_structure_parser
+END
+eml.flex
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/51/plugins/eml_structure_parser/eml.flex
+END
+eml_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/325/plugins/eml_structure_parser/eml_parser.c
+END
+eml_structure_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/321/plugins/eml_structure_parser/eml_structure_parser.c
+END
+header_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/195/plugins/eml_structure_parser/header_parser.h
+END
+html.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/195/plugins/eml_structure_parser/html.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1/plugins/eml_structure_parser/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/279/plugins/eml_structure_parser/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/186/plugins/eml_structure_parser/plugin.xml
+END
+eml_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/318/plugins/eml_structure_parser/eml_parser.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/plugins/eml_structure_parser/list.h
+END
+header_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/318/plugins/eml_structure_parser/header_parser.c
+END
+html.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/318/plugins/eml_structure_parser/html.c
+END
+header_parser_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/301/plugins/eml_structure_parser/header_parser_1.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/test/plugins-source/symprovider
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/test/plugins-source/symprovider/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/plugins-source/symprovider/plugin.xml
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/plugins-source/symprovider/Makefile.in
+END
+symprovider.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/plugins-source/symprovider/symprovider.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/plugins-source/symprovider/Makefile.am
+END

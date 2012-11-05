@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 183
+cpluff*
+cpluffsource*
+nbproject*
+csa
+*.o
+*.so
+*.so.1
+*.so.0
+libcore.a
+.Makefile.swp
+libutils.a
+.sal_1.txt.swp
+.salida_ham.txt.swp
+.salida_forget.txt.swp
+.ping.txt.swp
+.plugin.xml.swp
+
+END

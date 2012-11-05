@@ -1,0 +1,213 @@
+X-Account-Key: account2
+Return-path: <>
+Envelope-to: majordomo@uvigo.es
+Delivery-date: Wed, 05 May 2010 12:43:33 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	id 1O9c4g-0005mu-Ji; Wed, 05 May 2010 12:43:31 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o45AhPDI022025
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT);
+	Wed, 5 May 2010 12:43:29 +0200
+Received: from [59.95.107.86]
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	id 1O9c4X-00014w-UC; Wed, 05 May 2010 12:43:25 +0200
+Received: from [132.6.87.172] (helo=zlrawkhonlaea.rzdntbuuukxvt.va)
+	by  with esmtpa (Exim 4.69)
+	(envelope-from )
+	id 1MMQQZ-5436ci-HM
+	for mlrua@uvigo.es; Wed, 5 May 2010 16:13:21 +0530
+From: Wilma Miller <collinswyjohu54@straight.at>
+To: <mlrua@uvigo.es>
+Date: Wed, 5 May 2010 16:13:21 +0530
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_dzaui_47_11_55"
+X-Priority: 3
+X-Mailer: yyjrjuo-02
+Message-ID: <0532640673.9AY1ZOSR089763@mcmkyl.iunmkejwrckutaq.ru>
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=4.3 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	RCVD_IN_PBL,REPLICA_WATCH autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=4.3 required=5.0 tests=BAYES_50=0.001,
+	HTML_MESSAGE=0.001,RCVD_IN_PBL=0.905,REPLICA_WATCH=3.396 autolearn=no
+	version=3.2.5
+X-Spam-UVIGO-Level: ****
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Elegante y Caro, pero muy Barato Para
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: 
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+------=_dzaui_47_11_55
+Content-Type: text/plain;
+	charset="windows-1250"
+Content-Transfer-Encoding: quoted-printable
+
+						body,#wrap{text-align:center;margin:0px;background-color:#FFFEF8;}/=
+*@tab Top bar@section top bar@tip Choose a set of colors that look good w=
+ith the colors of your logo image or text header.*/#header{background-col=
+or:#FFFEF8;margin:0px;/*@editable*/padding:10px;/*@editable*/color:#666;/=
+*@editable*/font-size:11px;/*@editable*/font-family:Arial;/*@editable*/fo=
+nt-weight:normal;/*@editable*/text-align:center;/*@editable*/text-transfo=
+rm:lowercase;/*@editable*/border:none 0px #FFF;}/*@tab Top bar@section to=
+p bar links@tip Choose a set of colors that look good with the colors of =
+your logo image or text header.*/#header a,#header a:link,#header a:visit=
+ed{/*@editable*/color:#666;/*@editable*/text-decoration:underline;/*@edit=
+able*/font-weight:normal;}/*@tab Body@section default text@tip This is th=
+e base font for the content of the email*/#layout{margin:0px auto;/*@edit=
+able*/text-align:center;/*@editable*/font-family:Georgia;/*@editable*/col=
+or:#404040;/*@editable*/line-height:160%;font-size:16px;}/*@tab Body@sect=
+ion appointment detail@tip appointment detail styles*/#appointment{/*@edi=
+table*/color:#666;/*@editable*/font-size:18px;/*@editable*/font-weight:no=
+rmal;/*@editable*/font-family:Georgia;/*@editable*/text-align:center;/*@e=
+ditable*/padding:0px 0px 40px 0px;}/*@tab Body@section title style@tip Pr=
+imary headline@theme title*/.primary-heading{/*@editable*/font-size:40px;=
+/*@editable*/color:#000;/*@editable*/font-weight:normal;/*@editable*/font=
+-family:Georgia;/*@editable*/line-height:120%;/*@editable*/margin:10px 0;=
+}/*@tab Body@section subtitle style@tip Secondary headline@theme subtitle=
+*/.secondary-heading{/*@editable*/color:#000;/*@editable*/font-size:24px;=
+/*@editable*/font-weight:normal;/*@editable*/font-style:normal;/*@editabl=
+e*/font-family:Georgia;/*@editable*/margin:30px 0 10px 0;}/*@tab Footer@s=
+ection footer@tip Use the same color as your background to create the pag=
+e curl@theme footer*/#footer{background-color:#FFFEF8;/*@editable*/border=
+-top:1px solid #CCC;/*@editable*/padding:20px;/*@editable*/font-size:10px=
+;/*@editable*/color:#666;/*@editable*/line-height:100%;/*@editable*/font-=
+family:Arial;/*@editable*/text-align:center;}/*@tab Footer@section link s=
+tyle@tip Specify a color for your footer hyperlinks.@theme link_footer*/#=
+footer a{/*@editable*/color:#666;/*@editable*/text-decoration:underline;/=
+*@editable*/font-weight:normal;}/*@tab Links@section link style@tip Speci=
+fy a color for all the hyperlinks in your email.@theme link*/a,a:link,a:v=
+isited{/*@editable*/color:#336699;/*@editable*/text-decoration:underline;=
+/*@editable*/font-weight:normal;}																					Having trouble view=
+ing this email? View it in your browser.																	  				    Invite=
+ a su Mujer en una Compra con Nosotros
+				    
+Ellos quieren que los demas a su estilo dependiendo de tu estado de animo=
+: Usted fue una dama de ayer, hoy lo que quiere es usar jeans y una camis=
+eta.
+
+Un espanol de fabricacion de replicas de los mayores sitio en la red para=
+ los no-replica rolex modelos.
+http://bit.ly/9yTORS
+				  							  										    
+Unsubscribe mlrua@uvigo.es | Update your profile
+
+Pintyard LLC
+3768 College View
+Springfield MA 1109
+					    
+Copyright (C) 2010 Pintyard LLC All rights reserved.
+														
+	
+------=_dzaui_47_11_55
+Content-Type: text/html;
+	charset="windows-1250"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-1=
+250">
+<STYLE></STYLE>
+</HEAD>
+<BODY>
+<html>
+	<head>
+		<meta http-equiv=3D"Content-type" content=3D"text/html; charset=3Dutf-8=
+">
+		
+	<style type=3D"text/css">body,#wrap{text-align:center;margin:0px;backgro=
+und-color:#FFFEF8;}/*@tab Top bar
+@section top bar
+@tip Choose a set of colors that look good with the colors of your logo i=
+mage or text header.*/#header{background-color:#FFFEF8;margin:0px;/*@edit=
+able*/padding:10px;/*@editable*/color:#666;/*@editable*/font-size:11px;/*=
+@editable*/font-family:Arial;/*@editable*/font-weight:normal;/*@editable*=
+/text-align:center;/*@editable*/text-transform:lowercase;/*@editable*/bor=
+der:none 0px #FFF;}/*@tab Top bar
+@section top bar links
+@tip Choose a set of colors that look good with the colors of your logo i=
+mage or text header.*/#header a,#header a:link,#header a:visited{/*@edita=
+ble*/color:#666;/*@editable*/text-decoration:underline;/*@editable*/font-=
+weight:normal;}/*@tab Body
+@section default text
+@tip This is the base font for the content of the email*/#layout{margin:0=
+px auto;/*@editable*/text-align:center;/*@editable*/font-family:Georgia;/=
+*@editable*/color:#404040;/*@editable*/line-height:160%;font-size:16px;}/=
+*@tab Body
+@section appointment detail
+@tip appointment detail styles*/#appointment{/*@editable*/color:#666;/*@e=
+ditable*/font-size:18px;/*@editable*/font-weight:normal;/*@editable*/font=
+-family:Georgia;/*@editable*/text-align:center;/*@editable*/padding:0px 0=
+px 40px 0px;}/*@tab Body
+@section title style
+@tip Primary headline
+@theme title*/.primary-heading{/*@editable*/font-size:40px;/*@editable*/c=
+olor:#000;/*@editable*/font-weight:normal;/*@editable*/font-family:Georgi=
+a;/*@editable*/line-height:120%;/*@editable*/margin:10px 0;}/*@tab Body
+@section subtitle style
+@tip Secondary headline
+@theme subtitle*/.secondary-heading{/*@editable*/color:#000;/*@editable*/=
+font-size:24px;/*@editable*/font-weight:normal;/*@editable*/font-style:no=
+rmal;/*@editable*/font-family:Georgia;/*@editable*/margin:30px 0 10px 0;}=
+/*@tab Footer
+@section footer
+@tip Use the same color as your background to create the page curl
+@theme footer*/#footer{background-color:#FFFEF8;/*@editable*/border-top:1=
+px solid #CCC;/*@editable*/padding:20px;/*@editable*/font-size:10px;/*@ed=
+itable*/color:#666;/*@editable*/line-height:100%;/*@editable*/font-family=
+:Arial;/*@editable*/text-align:center;}/*@tab Footer
+@section link style
+@tip Specify a color for your footer hyperlinks.
+@theme link_footer*/#footer a{/*@editable*/color:#666;/*@editable*/text-d=
+ecoration:underline;/*@editable*/font-weight:normal;}/*@tab Links
+@section link style
+@tip Specify a color for all the hyperlinks in your email.
+@theme link*/a,a:link,a:visited{/*@editable*/color:#336699;/*@editable*/t=
+ext-decoration:underline;/*@editable*/font-weight:normal;}</style></head>
+	<body class=3D"background">
+		<div id=3D"wrap" class=3D"background">
+			<table id=3D"layout" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"600" class=3D"layout_background">
+				<tr>
+					<td id=3D"header" mc:edit=3D"header" colspan=3D"3">
+						<span>Having trouble viewing this email? <a href=3D"http://bit.ly/9=
+yTORS" target=3D"_blank">View it in your browser.</a></span>
+					</td>
+				</tr>
+				<tr>
+				  <td id=3D"lead_content" mc:edit=3D"main" colspan=3D"3">
+				    <h1 class=3D"primary-heading">Invite a su Mujer en una Compra con=
+ Nosotros</h1>
+				    <p>Ellos quieren que los demas a su estilo dependiendo de tu esta=
+do de animo: Usted fue una dama de ayer, hoy lo que quiere es usar jeans =
+y una camiseta.</p><p>Un espanol de fabricacion de replicas de los mayore=
+s sitio en la red para los no-replica rolex modelos.</p><a href=3D"http:/=
+/bit.ly/9yTORS">http://bit.ly/9yTORS</a><br>
+				  </td>
+				</tr>
+			  <tr>
+					<td id=3D"footer" mc:edit=3D"footer" colspan=3D"3" class=3D"backgrou=
+nd">
+					    <p><a href=3D"http://bit.ly/9yTORS">Unsubscribe</a> mlrua@uvigo.=
+es | <a href=3D"http://bit.ly/9yTORS">Update your profile</a></p>
+
+<p>Pintyard LLC<br>3768 College View<br>Springfield MA 1109</p>
+					    <p>Copyright (C) 2010 Pintyard LLC All rights reserved.</p>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</body>
+</html>
+
+</BODY></HTML>
+
+------=_dzaui_47_11_55--
+
+

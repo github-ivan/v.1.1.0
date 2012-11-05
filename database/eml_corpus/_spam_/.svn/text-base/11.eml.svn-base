@@ -1,0 +1,85 @@
+X-Account-Key: account2
+Return-path: <errors-ms1@e.locafilm.com>
+Envelope-to: pablof@uvigo.es
+Delivery-date: Sat, 12 Jun 2010 07:01:12 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1ONIqG-0004yN-N3
+	for pablof@uvigo.es; Sat, 12 Jun 2010 07:01:12 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5C518sf021480
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@uvigo.es>; Sat, 12 Jun 2010 07:01:12 +0200
+Received: from smtp22.e.locafilm.com ([82.138.105.222])
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1ONIq9-000537-AB
+	for pablof@uvigo.es; Sat, 12 Jun 2010 07:01:08 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=default;
+	d=e.locafilm.com;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:list-unsubscribe:content-type:content-transfer-encoding;
+	bh=xRN98gWukoNP4GrrZKJdNiyk+nOcpkrUu88Nwh8qxrQ=;
+	b=lYOK7EZnJLDxFpa55oEd0k0il7NikwXvibq29ZwPYY7sE8qYDEDnl++r1LS6qXhl1+pBokATB+r7IPnjXmfZAkMBq7AKiKIsD1NhT2L1llmviEnF59dO/gMUEySNb1RnLpS/yv3k9xrD6qI31eQLWTBVfCICiBySlyeiZCb1wcw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=default;
+	d=e.locafilm.com;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:List-Unsubscribe:Content-Type:Content-Transfer-Encoding;
+	b=tiiQuMqrTGOqr6A9jYAhCnBrNAo2qc5bA+gHz2Ltf+k0TNEjAvAzrD1795mQoFLVeimVAh1/2iX6HUPuojHwNme9FU0e5j3YIMyWbVcpn/++RLViItXqvvo8iMFQVTCPtjwRDsaBMwgtor8XrrphT0RRthuY7GTYj9MfoV2l7ro=
+From: "FriendScout24" <pedritoelfisgon@e.locafilm.com>
+Date: Sat, 12 Jun 2010 07:00:59 +0200
+To: <pablof@uvigo.es>
+Reply-To: =?windows-1252?Q?Ne_pas_R=E9pondre?= <pedritoelfisgon@e.locafilm.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 5.10.5642
+Message-ID: <NMID-104-289760790-21360032-AA==@ms1_locafilm>
+List-Unsubscribe: <http://w.e.locafilm.com/webApp/locUnsub?id=a4PpjJ47ncZn1Mle
+	dB%2FFC%2BQQAUPPsalMuRJCVCACAA%3D%3D&lang=es>, <mailto:feedback@e.locafilm.
+	com>
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=-0.8 required=5.0 tests=BAYES_00,HTML_IMAGE_RATIO_02,
+	HTML_MESSAGE,MIME_HTML_ONLY,SPF_PASS autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=-0.8 required=5.0 tests=BAYES_00=-2.599,
+	HTML_IMAGE_RATIO_02=0.383,HTML_MESSAGE=0.001,MIME_HTML_ONLY=1.457,
+	SPF_PASS=-0.001 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: 
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Ahora con FriendScout24 podras chatear con miles de personas
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: errors-ms1@e.locafilm.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+</HEAD>
+<BODY>
+  <center>
+  <table width='600' align="center">
+    <tr>
+    <td bgcolor="#A6A6A6" height='40'>
+        <center>
+        <FONT COLOR='#FFFFFF' STYLE='font-family: Verdana;font-size: 10px;'>
+    <FONT COLOR='#5A5A5A' STYLE='font-family: Verdana;font-size: 11px; '>Si no puede leer este mensaje, 
+       <a href="http://t.e.locafilm.com/r/?id=h3b52ebc8,1bb41e56,1c0d5db2&p1=22d76628d4f471121c" _label="Page miroir" _type="mirrorPage" style="color:#333;"><span style="color:#333;">consulte la versión en línea Gracias</span></a><br/></FONT><br/>Pedrito el Fisgon le propone descubrir la oferta más abajo</b></font><br>
+    <font style="font-family: Verdana; font-size: 11px;" color="#d6346d"><b> Chatea y encuentra la persona que deseas, </b><a href="http://t.e.locafilm.com/r/?id=h3b52ebc8,1bb41e56,1c0d5db3">sigue este enlace</a><br><div align=center><FONT face=Arial color=#000000 size=2>Si ya no desea recibir ofertas comerciales de nuestra parte, por favor entre aquí,<BR/><a href="http://t.e.locafilm.com/r/?id=h3b52ebc8,1bb41e56,1c0d5db4&p1=a4PpjJ47ncZn1MledB%2FFC%2BQQAUPPsalMuRJCVCACAA%3D%3D" _type="optout" _label="Lien de désinscription">Entre en esta página.</A></FONT></div>
+</font>
+    </center></td></tr></table>
+    </center>
+
+
+
+
+
+<P><center><table border="0" cellpadding="0" cellspacing="0" width="600">      <tr>      <td><a href="http://t.e.locafilm.com/r/?id=o3b52ebc8,1bb41e56,1c0d5db3" target="_top"><img src="http://img.potejack.com/ES/friends_scout/spacer.gif" alt="imagen de fondo uno" border="0" height="1" width="600" /></a></td>    </tr>    <tr>      <td><a href="http://t.e.locafilm.com/r/?id=o3b52ebc8,1bb41e56,1c0d5db5" target="_top"><img src="http://img.potejack.com/ES/friends_scout/friendscout_r1_c1.jpg" alt="queda con singles en tu ciudad un dias gratis" border="0" height="143" width="600" /></a></td>      <td><a href="http://t.e.locafilm.com/r/?id=o3b52ebc8,1bb41e56,1c0d5db6" target="_top"><img src="http://img.potejack.com/ES/friends_scout/spacer.gif" alt="imagen de fondo dos" border="0" height="143" width="1" /></a></td>    </tr>    <tr>      <td><a href="http://t.e.locafilm.com/r/?id=o3b52ebc8,1bb41e56,1c0d5db7" target="_top"><img src="http://img.potejack.com/ES/friends_scout/friendscout_r2_c1.jpg" alt="ana 29 anos de madrid quiere conocer a un hombre miles de singles on line" border="0" height="141" width="600" /></a></td>      <td><a href="http://t.e.locafilm.com/r/?id=o3b52ebc8,1bb41e56,1c0d5db8" target="_top"><img src="http://img.potejack.com/ES/friends_scout/spacer.gif" alt="imagen de fondo tres" border="0" height="141" width="1" /></a></td>    </tr>    <tr>      <td><a href="http://t.e.locafilm.com/r/?id=o3b52ebc8,1bb41e56,1c0d5db9" target="_top"><img src="http://img.potejack.com/ES/friends_scout/friendscout_r3_c1.jpg" alt="friendScout24 busqueda regional chat en vivo registro gratis entra al chat" border="0" height="116" width="600" /></a></td>      <td><a href="http://t.e.locafilm.com/r/?id=o3b52ebc8,1bb41e56,1c0d5dba" target="_top"><img src="http://img.potejack.com/ES/friends_scout/spacer.gif" alt="imagen de espacio cuatro" border="0" height="116" width="1" /></a></td>    </tr>  </table></center></P>
+<P><FONT face="Courier New" color=#008080 size=2><br/><DIV align=center><FONT face=Arial color=#000000 size=2>De acuerdo con nuestros datos, usted registró la dirección &nbsp;<FONT face="Courier New" color=#008080 size=2>pablof@uvigo.es</FONT> cuando se dio de alta en nuestro sitio web.</FONT><BR/><br/><FONT face="Courier New" color=#008080 size=2><div align=center><FONT face=Arial color=#000000 size=2>Si ya no desea recibir ofertas comerciales de nuestra parte, por favor entre aquí,<BR/><a href="http://t.e.locafilm.com/r/?id=o3b52ebc8,1bb41e56,1c0d5dbc&p1=a4PpjJ47ncZn1MledB%2FFC%2BQQAUPPsalMuRJCVCACAA%3D%3D" _type="optout" _label="Lien de désinscription">Entre en esta página.</A></FONT></div>
+</FONT></DIV></FONT></P><img height='0' width='0' alt='' src='http://t.e.locafilm.com/r/?id=o3b52ebc8,1bb41e56,1'/></BODY></HTML>
+
+

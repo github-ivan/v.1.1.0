@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 83
+libspam_hunting_plugin.so
+.spam_hunting_plugin.c.swp
+.sh_utils.h.swp
+.Makefile.swp
+
+END

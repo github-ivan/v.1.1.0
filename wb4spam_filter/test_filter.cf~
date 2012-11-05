@@ -1,0 +1,76 @@
+##########################################################################
+#     POSIX REGULAR EXPRESIONS                                            #
+###########################################################################
+#     SPAM REGULAR EXPRESIONS        #
+######################################
+#     HEADER               #
+############################
+
+header HAS_VIAGRA_ON_SUBJECT	eval_header("Subject", "[vV][iI?1!][aA][gG][rR][aA]")
+describe HAS_VIAGRA_ON_SUBJECT  Contains references to viagra in Subject
+score HAS_VIAGRA_ON_SUBJECT     2
+
+header HAS_CIALLIS_ON_SUBJECT   eval_header( "Subject" ,"[cC][iI?1!][aA][Ll]+[iI?1!][Ss5]")
+describe HAS_CIALLIS_ON_SUBJECT Contains references to ciallis in Subject
+score HAS_CIALLIS_ON_SUBJECT    2
+
+header HAS_LEVITRA_ON_SUBJECT   eval_header("Subject" , "[lL][eE][vV][iI?1!][tT][rR][aA]")
+describe HAS_LEVITRA_ON_SUBJECT Contains references to levitra in Subject
+score HAS_LEVITRA_ON_SUBJECT    2
+
+header HAS_GESDAI_ON_SUBJECT	eval_header("Subject","[gG][eE][sS][dD][aA][iI]")
+describe HAS_GESDAI_ON_SUBJECT  Contains references to GesDAI in Subject
+score HAS_GESDAI_ON_SUBJECT     2
+
+header HAS_DRUGS_ON_SUBJECT     eval_header("Subject","[dD][rR][uU][gG][sS]")
+describe HAS_DRUGS_ON_SUBJECT   Contains references to DRUGS in Subject
+score HAS_DRUGS_ON_SUBJECT      2
+
+######################################
+#     HAM REGULAR EXPRESIONS         #
+######################################
+#     HEADER               #
+############################
+
+
+###########################################################################
+#     BAYES                                                               #
+###########################################################################
+
+body BAYES_00 check_bayes(0.00, 0.01)
+describe BAYES_00 Bayes between 0 and 0.01
+score BAYES_00 -2
+
+body BAYES_05 check_bayes(0.01, 0.05)
+describe BAYES_05 Bayes between 0.01 and 0.05
+score BAYES_05 -1
+
+body BAYES_20 check_bayes(0.05, 0.20)
+describe BAYES_20 Bayes between 0.05 and 0.20
+score BAYES_20 -0.5
+
+body BAYES_40 check_bayes(0.20, 0.40)
+describe BAYES_40 Bayes between 0.20 and 0.40
+score BAYES_40 -0.25
+
+body BAYES_50 check_bayes(0.40, 0.60)
+describe BAYES_50 Bayes between 0.40 and 0.60
+score BAYES_50 0
+
+body BAYES_60 check_bayes(0.60, 0.80)
+describe BAYES_60 Bayes between 0.60 and 0.80
+score BAYES_60 0.25
+
+body BAYES_80 check_bayes(0.80, 0.95)
+describe BAYES_80 Bayes between 0.80 and 0.95
+score BAYES_80 1
+
+body BAYES_95 check_bayes(0.95, 0.99)
+describe BAYES_95 Bayes between 0.95 and 0.99
+score BAYES_95 2
+
+body BAYES_99 check_bayes(0.99, 1.00)
+describe BAYES_99 Bayes between 0.99 and 1.00
+score BAYES_99 3
+
+required_score	3

@@ -1,0 +1,79 @@
+X-Account-Key: account2
+Return-path: <postmaster@kill-debt.com>
+Envelope-to: ftp@uvigo.es
+Delivery-date: Sat, 01 May 2010 19:21:32 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <postmaster@kill-debt.com>)
+	id 1O8GNf-0003iR-PJ
+	for ftp@uvigo.es; Sat, 01 May 2010 19:21:32 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o41HLRj8015830
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <ftp@uvigo.es>; Sat, 1 May 2010 19:21:31 +0200
+Received: from mail4.kill-debt.com ([74.211.105.247])
+	by cogumelo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <postmaster@kill-debt.com>)
+	id 1O8GNb-0005IL-36
+	for ftp@uvigo.es; Sat, 01 May 2010 19:21:27 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=simple/simple; d=kill-debt.com; s=dkim;
+	t=1272734486; bh=UIbkXSLwu4If6SD7RvT7HnlG8qg=;
+	h=MIME-Version:Received:Date:Message-ID:Subject:From:TO:
+	 Content-type;
+	b=M3C4Sth6BteU7/HjZ037/coLyS9zuiuvPe0edDXINIW0+/Z89M/q2Iw+WB+trs/LZ
+	 oIh1KPOrHbiVCYyc0l1Fm9u3LzUD0Qz7dVY7L1wEieXSEHCV5bgJ+JHUobV7UrAgnr
+	 pN9gw+vtMQAbMhAcw+x3lNWa1GFPSWmaatTufm/I=
+MIME-Version: 1.0
+Received: by 74.211.105.247 with SMTP id l92fw4551790pjc.75.201005011321; Sat, 01 May 2010 13:21:26 -0400
+Date: Sat, 01 May 2010 13:21:26 -0400
+Message-ID: <BHSD766YN201005011321jtgdhsjmieuhencmxh22262afr@mail4.kill-debt.com>
+From: "LegalTV on PC for No Monthly Cost" <postmaster@kill-debt.com>
+TO: <ftp@uvigo.es>
+Content-type: text/plain; charset=US-ASCII; format=flowed; delsp=yes
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=4.9 required=5.0 tests=BAYES_50,SPF_PASS,URIBL_BLACK,
+	URIBL_JP_SURBL,URIBL_WS_SURBL autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=4.9 required=5.0 tests=BAYES_50=0.001,
+	SPF_PASS=-0.001,URIBL_BLACK=1.955,URIBL_JP_SURBL=1.501,URIBL_WS_SURBL=1.5
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: ****
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Activate your Internet TV channels right away
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: postmaster@kill-debt.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+<div class="moz-text-flowed" style="font-family: -moz-fixed">Click To Download PCTV4ME and turn your PC into a TV! No hidden charges! 
+
+           http://kill-debt.com/C/576/12654/212577 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This email is a commercial advertisement. If you wish to not receive information from us, please let us know and you will be excluded from future distributions immediatley
+http://kill-debt.com/U/12654/212577  Click Here Now to be removed or write us & be sure to include your email address.
+
+Subscriber Requests: 4408 McLean Rd Haltom City TX 76117
+
+</div>

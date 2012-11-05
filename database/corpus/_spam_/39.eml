@@ -1,0 +1,240 @@
+Return-path: <mailman-bounces@listas.uvigo.es>
+Envelope-to: admon-listas@uvigo.es
+Delivery-date: Thu, 24 Jun 2010 10:58:06 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <mailman-bounces@listas.uvigo.es>)
+	id 1ORiG6-000210-Dj
+	for admon-listas@uvigo.es; Thu, 24 Jun 2010 10:58:06 +0200
+Received: from amanita.uvigo.es (amanita.uvigo.es [193.146.32.87])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5O8w20x029148
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <admon-listas@uvigo.es>; Thu, 24 Jun 2010 10:58:05 +0200
+Received: from azrael.uvigo.es ([10.110.1.6] helo=azrael)
+	by amanita.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <mailman-bounces@listas.uvigo.es>)
+	id 1ORiG2-0004VV-0K
+	for admon-listas@uvigo.es; Thu, 24 Jun 2010 10:58:02 +0200
+Received: from localhost.uvigo.es ([127.0.0.1] helo=azrael.uvigo.es)
+	by azrael with esmtp (Exim 4.50)
+	id 1ORiG1-0001lU-Us
+	for admon-listas@uvigo.es; Thu, 24 Jun 2010 10:58:01 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by azrael with esmtp (Exim 4.50) id 1ORiG0-0001lP-AW
+	for admon-avisos@listas.uvigo.es; Thu, 24 Jun 2010 10:58:00 +0200
+Received: from amanita.uvigo.es (amanita.uvigo.es [193.146.32.87])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5O8vuj2029136
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <admon-avisos@listas.uvigo.es>; Thu, 24 Jun 2010 10:58:00 +0200
+Received: from cacahuete.uvigo.es ([193.146.32.68])
+	by amanita.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <envios@servimarket.info>) id 1ORiFu-0004VL-4L
+	for admon-avisos@listas.uvigo.es; Thu, 24 Jun 2010 10:57:56 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69) (envelope-from <envios@servimarket.info>)
+	id 1ORiFo-0001w6-UE
+	for admon-avisos@uvigo.es; Thu, 24 Jun 2010 10:57:49 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5O8viXB029116
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <admon-avisos@uvigo.es>; Thu, 24 Jun 2010 10:57:48 +0200
+Received: from mail.servimarket.info ([212.34.128.20])
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <envios@servimarket.info>) id 1ORiFj-0004ZY-5L
+	for admon-avisos@uvigo.es; Thu, 24 Jun 2010 10:57:44 +0200
+Received: from RAN-TFZMBP2GX88 ([127.0.0.1]) by servimarket.info with
+	MailEnable ESMTP; Wed, 23 Jun 2010 16:06:44 +0200
+Message-ID: <3841422295354edd816f2e0fcf1fbba0@RAN-TFZMBP2GX88.nsmarket.info>
+IdCamp: 524
+MIME-Version: 1.0
+From: "Arte y Contenido" <envios@servimarket.info>
+To: admon-avisos@uvigo.es
+Reply-To: atc@clarimarket.com
+Date: 23 Jun 2010 16:06:44 +0200
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=1.0 required=5.0 tests=BAYES_00,DATE_IN_PAST_12_24,
+	FUZZY_AMBIEN,HTML_IMAGE_RATIO_08,HTML_MESSAGE,HTML_MIME_NO_HTML_TAG,
+	MIME_BASE64_BLANKS,MIME_HTML_ONLY,SPF_PASS autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=1.0 required=5.0 tests=BAYES_00=-2.599,
+	DATE_IN_PAST_12_24=0.992, FUZZY_AMBIEN=1.026, HTML_IMAGE_RATIO_08=0.001,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.097,
+	MIME_BASE64_BLANKS=0.041, 
+	MIME_HTML_ONLY=1.457,SPF_PASS=-0.001 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: *
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Combatir la crisis, peleando
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-Uvigo-A-Spam_score: 6.1
+X-Uvigo-A-Spam_score_int: 61
+X-Uvigo-A-Spam_bar: ++++++
+X-Uvigo-A-Spam_report: Spam detection software, running on the system "amanita.uvigo.es", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Si no ve correctamente este correo haga clic aqu� 23 de Junio
+	de 2010 | Publicado por www.arteycontenido.es Combatir la crisis, peleando.
+	[...] 
+	Content analysis details:   (6.1 points, 5.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	1.0 DATE_IN_PAST_12_24     Date: is 12 to 24 hours before Received: date
+	1.0 FUZZY_AMBIEN           BODY: Attempt to obfuscate words in spam
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	0.0 BAYES_50               BODY: Bayesian spam probability is 40 to 60%
+	[score: 0.5000]
+	0.0 HTML_IMAGE_RATIO_08    BODY: HTML has a low ratio of text to image area
+	1.5 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+	0.0 MIME_BASE64_BLANKS     RAW: Extra blank lines in base64 encoding
+	1.5 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+	above 50%
+	[cf: 100]
+	0.5 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+	0.5 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+	[cf: 100]
+	0.1 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+Sender: mailman-bounces@listas.uvigo.es
+Errors-To: mailman-bounces@listas.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: mailman-bounces@listas.uvigo.es
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+
+  <div style="padding-right: 0px; padding-left: 0px; padding-bottom: 20px; margin: 0px auto; padding-top: 0px" align="center">
+    <p style="font-size: 10px; color: #666666; line-height: 9px; font-family: Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">Si no ve correctamente este correo haga clic <a style="color: #666666" href="http://servimail6.ath.cx/redir.aspx?idc=524&idco=28110&idw=www.arteycontenido.es/correo/combatir-la-crisis.html">aqu&#237;</a></p>
+  </div>
+  <table style="font-size: 0.9em; color: #666666; line-height: 1.4em; font-family: Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif" cellspacing="0" cellpadding="0" width="100%">
+    <tbody>
+      <tr style="background: url(http://www.arteycontenido.es/correo/media/header_bg_white.jpg) no-repeat center top; color: white; height: 150px; text-align: center">
+        <td>
+          <span style="font-weight: bold; font-size: 30px">
+            <a href="http://servimail6.ath.cx/redir.aspx?idc=524&idco=28110&idw=www.arteycontenido.es/">
+              <img style="margin-top: 45px; text-align: center" height="71" alt="visite nuestra web" src="http://www.arteycontenido.es/correo/media/logo.jpg" width="480" border="0" />
+            </a>
+          </span>
+          <br />
+        </td>
+      </tr>
+      <tr>
+        <td valign="top" align="center">
+          <table style="background-position: center 50%;background-image: url(http://www.arteycontenido.es/correo/media/body_bg_white.jpg); background-repeat: repeat-y; background-color: #ffffff" cellspacing="0" cellpadding="0" width="580" border="0">
+            <tbody>
+              <tr>
+                <td align="center">
+                  <table cellspacing="0" cellpadding="0" width="480">
+                    <tbody>
+                      <tr>
+                        <td style="padding-right: 0px; padding-left: 0px; padding-bottom: 9px; margin: 0px; padding-top: 25px" width="480">
+                          <p style="font-size: 9px; color: #666666; font-family: Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">23&#160;de&#160;Junio de 2010 | Publicado por www.arteycontenido.es</p>
+                        </td>
+                      </tr>
+                      <tr valign="top" align="left" rowspan="3">
+                        <td style="font-size: 12px; color: #666666; font-family: Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif" valign="top" align="left" width="480">
+                          <img height="4" alt="" src="http://www.arteycontenido.es/correo/media/hr.gif" width="480" border="0" />
+                          <img height="12" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                          <table style="display: block; background-color: white" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td>
+                                  <h2 style="padding-right: 0px; padding-left: 0px; font-weight: bold; font-size: 18px; padding-bottom: 0px; margin: 0px; color: #222; padding-top: 0px; font-family: Arial,Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">Combatir la crisis, peleando.</h2>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px 0px 0px; padding-top: 0px">Es cierto, corren malos tiempos. Por eso no podemos mantenernos impasibles, mientras se reduce poco a poco nuestro volumen de negocio.</p>
+                          <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px 0px 0px; padding-top: 0px">Debemos mostrarnos, ahora m&#225;s que nunca, a nuestro mercado potencial y conseguir para nosotros ese peque&#241;o pedazo de pastel.</p>
+                          <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px 0px 0px; padding-top: 0px">Que mejor instrumento que internet para ense&#241;ar a nuestro p&#250;blico objetivo, las ventajas de nuestros productos/servicios, ensalzar la imagen de nuestra firma, crear confianza e incitar el consumo.</p>
+                          <img height="12" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                          <img height="4" alt="" src="http://www.arteycontenido.es/correo/media/hr.gif" width="480" border="0" />
+                          <img height="20" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                          <table style="display: block; background-color: white" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td>
+                                  <h2 style="padding-right: 0px; padding-left: 0px; font-weight: bold; font-size: 18px; padding-bottom: 0px; margin: 0px; color: #222; padding-top: 0px; font-family: Arial,Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">Le ayudamos en este combate.</h2>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px 0px 0px; padding-top: 0px">
+                            <img height="255" alt="" src="http://www.arteycontenido.es/correo/media/combate.jpg" width="480" border="0" />
+                          </p>
+                          <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px 0px 0px; padding-top: 0px">Llevamos desde 2001 dise&#241;ando y potenciando la imagen de la peque&#241;a y mediana empresa espa&#241;ola. Prestamos servicios de internet para que su negocio tenga la presencia que se merece.</p>
+                          <img height="12" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                          <img height="4" alt="" src="http://www.arteycontenido.es/correo/media/hr.gif" width="480" border="0" />
+                          <img height="20" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                          <table style="display: block; background-color: white" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td>
+                                  <h2 style="padding-right: 0px; padding-left: 0px; font-weight: bold; font-size: 18px; padding-bottom: 0px; margin: 0px; color: #222; padding-top: 0px; font-family: Arial,Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">Tambi&#233;n es nuestra lucha.</h2>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px 0px 0px; padding-top: 0px">Inmersos como usted en esta batalla, hemos decidido arremeter con una importante bajada de precios, sin mermar la calidad de los servicios incluidos:</p>
+                          <ul style="padding-right: 0px; padding-left: 0px; font-weight: normal; list-style-position: inside; padding-bottom: 0px; margin: 10px 0px 10px 10px; color: #666; padding-top: 0px">
+                            <li>Consultor&#237;a gratuita inicial para determinar su estrategia web.</li>
+                            <li>Mayor creatividad. Dise&#241;os web m&#225;s impactantes.</li>
+                            <li>Registro de dominio a su nombre y plan de alojamiento web anual ilimitado, en servidores espa&#241;oles, incluido en todos los proyectos.</li>
+                            <li>Refuerzo de sus contenidos con la revisi&#243;n y/o redacci&#243;n comercial de textos y la inclusi&#243;n de fotograf&#237;as profesionales, procedentes de bancos de im&#225;genes. </li>
+                          </ul>
+                          <img height="12" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                          <img height="4" alt="" src="http://www.arteycontenido.es/correo/media/hr.gif" width="480" border="0" />
+                          <img height="20" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                          <table style="display: block; background-color: white" cellspacing="0" cellpadding="0">
+                            <tbody>
+                              <tr>
+                                <td style="padding-right: 0px; padding-left: 0px; padding-bottom: 10px; line-height: 15px; padding-top: 0px">
+                                  <h2 style="padding-right: 0px; padding-left: 0px; font-weight: bold; font-size: 18px; padding-bottom: 0px; margin: 0px; color: #222; padding-top: 0px; font-family: Arial,Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">&#183; Blogs desde 190 € <a style="color: #c80909; text-decoration: none" href="http://servimail6.ath.cx/redir.aspx?idc=524&idco=28110&idw=www.arteycontenido.es/blog.html">ver</a></h2>
+                                  <br />
+                                  <h2 style="padding-right: 0px; padding-left: 0px; font-weight: bold; font-size: 18px; padding-bottom: 0px; margin: 0px; color: #222; padding-top: 0px; font-family: Arial,Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">&#183; Web Corporativa desde 395 € <a style="color: #c80909; text-decoration: none" href="http://servimail6.ath.cx/redir.aspx?idc=524&idco=28110&idw=www.arteycontenido.es/web-corporativa.html">ver</a></h2>
+                                  <br />
+                                  <h2 style="padding-right: 0px; padding-left: 0px; font-weight: bold; font-size: 18px; padding-bottom: 0px; margin: 0px; color: #222; padding-top: 0px; font-family: Arial,Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">&#183; Web flash desde 550 € <a style="color: #c80909; text-decoration: none" href="http://servimail6.ath.cx/redir.aspx?idc=524&idco=28110&idw=www.arteycontenido.es/web-flash.html">ver</a></h2>
+                                  <br />
+                                  <h2 style="padding-right: 0px; padding-left: 0px; font-weight: bold; font-size: 18px; padding-bottom: 0px; margin: 0px; color: #222; padding-top: 0px; font-family: Arial,Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">&#183; Tienda Virtual desde 395 € <a style="color: #c80909; text-decoration: none" href="http://servimail6.ath.cx/redir.aspx?idc=524&idco=28110&idw=www.arteycontenido.es/tienda-internet.html">ver</a></h2>
+                                </td>
+                              </tr>
+                            </tbody>
+                          </table>
+                          <img height="12" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                          <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px 0px 0px; padding-top: 0px">&#191;A qu&#233; espera?<br /><br />Informarse no le cuesta nada, y puede averiguar cual es la mejor estrategia a seguir en su caso, para potenciar la imagen de su firma en la red.</p>
+                          <p style="padding-right: 0px; padding-left: 0px; padding-bottom: 0px; margin: 10px 0px 0px; padding-top: 0px">
+                            <a style="color: #c80909" href="http://servimail6.ath.cx/redir.aspx?idc=524&idco=28110&idw=www.arteycontenido.es/contacto.php">Solicite m&#225;s informaci&#243;n</a>
+                          </p>
+                          <img height="12" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                          <img height="4" alt="" src="http://www.arteycontenido.es/correo/media/smallspacer.gif" width="480" border="0" />
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </td>
+              </tr>
+              <tr>
+                <td style="background: url(http://www.arteycontenido.es/correo/media/footer_bg_white.jpg) white no-repeat center bottom; color: white; padding-top: 0px; height: 100px; text-align: center" valign="top" align="center">
+                  <img alt="" src="http://www.arteycontenido.es/correo/media/pie.png" width="480" border="0" />
+                </td>
+              </tr>
+            </tbody>
+          </table>
+        </td>
+      </tr>
+      <tr id="footer">
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <div style="padding-right: 0px; padding-left: 0px; padding-bottom: 20px; margin: 0px auto; padding-top: 0px" align="center">
+    <p style="font-size: 10px; color: #666666; line-height: 9px; font-family: Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">Usted recibe este email porque est&#225; suscrito a nuestra lista de correos.</p>
+    <p style="font-size: 10px; color: #666666; line-height: 9px; font-family: Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">&#191;Problemas para verlo? <a style="color: #666666" href="http://servimail6.ath.cx/redir.aspx?idc=524&idco=28110&idw=www.arteycontenido.es/correo/combatir-la-crisis.html">V&#233;alo en su navegador</a>.</p>
+    <p style="font-size: 10px; color: #666666; line-height: 9px; font-family: Lucida Sans Unicode,Lucida Grande,Garuda,sans-serif">&#160;</p>
+  </div>
+ <font style="font-size: 12px" face="Arial">En cumplimiento con lo dispuesto en la LOPD 15/99 le informamos que sus datos de car&#225;cter personal han sido incluidos en nuestro fichero de base de datos legalizado con el fin de hacer efectiva la comunicaci&#243;n entre ambas partes. Si no desea recibir m&#225;s informaci&#243;n <a href='http://servimail6.ath.cx/baja.aspx?idc=524&idcli=112&mail=admon-avisos@uvigo.es'>clic aquí</a></p></font></font>
+<p style="margin-top: 0px; margin-bottom: 0px"></p><img border="0" src="http://servimail6.ath.cx/img.aspx?idc=524&idco=28110" width="1" height="1"></p>

@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/324/cpluff_source/cpluff-0.1.3/libcpluff
+END
+thread_windows.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/thread_windows.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/internal.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/util.h
+END
+defines.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/defines.h
+END
+cpluff.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/cpluff.h
+END
+context.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/context.c
+END
+psymbol.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/psymbol.c
+END
+logging.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/logging.c
+END
+ploader.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/ploader.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/Makefile.am
+END
+thread_posix.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/thread_posix.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/libcpluff/Makefile
+END
+pcontrol.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/324/cpluff_source/cpluff-0.1.3/libcpluff/pcontrol.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/Makefile.in
+END
+cpluffdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/cpluffdef.h
+END
+pscan.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/pscan.c
+END
+cpluffdef.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/cpluffdef.h.in
+END
+pinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/pinfo.c
+END
+thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/thread.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/util.c
+END
+cpluff.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/cpluff.c
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/libcpluff/serial.c
+END

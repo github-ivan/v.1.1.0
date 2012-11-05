@@ -1,0 +1,62 @@
+X-Account-Key: account2
+Return-path: <majordomo@uvigo.es>
+Envelope-to: majordomo@uvigo.es
+Delivery-date: Sun, 29 Nov 2009 14:13:27 +0100
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <majordomo@uvigo.es>)
+	id 1NEjah-0006el-EN
+	for majordomo@uvigo.es; Sun, 29 Nov 2009 14:13:27 +0100
+Received: from niscalo.uvigo.es (antispam2.uvigo.es [193.146.32.78])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id nATDDMdG012839
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <majordomo@uvigo.es>; Sun, 29 Nov 2009 14:13:26 +0100
+Date: Sun, 29 Nov 2009 14:13:26 +0100
+Message-Id: <200911291313.nATDDMdG012839@acelga.uvigo.es>
+Received: from [123.18.184.123] (helo=alfa.com)
+	by niscalo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <majordomo@uvigo.es>)
+	id 1NEjT5-0007Ur-QY
+	for majordomo@uvigo.es; Sun, 29 Nov 2009 14:05:37 +0100
+To: <majordomo@uvigo.es>
+From: <majordomo@uvigo.es>
+MIME-Version: 1.0
+Content-Type: text/html; charset="ISO-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on niscalo.uvigo.es
+X-Spam-Status: No, score=3.8 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	MIME_HTML_ONLY,MISSING_DATE,MISSING_MID,RCVD_IN_PBL,RCVD_IN_SORBS_WEB,
+	RDNS_NONE,SPF_FAIL autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=3.8 required=5.0 tests=BAYES_50=0.001,
+	HTML_MESSAGE=0.001,MIME_HTML_ONLY=1.457,MISSING_DATE=0.001,MISSING_MID=0.001,
+	RCVD_IN_PBL=0.905,RCVD_IN_SORBS_WEB=0.619,RDNS_NONE=0.1,SPF_FAIL=0.693
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: ***
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Los vacaciones. Trabajo remoto trabajo en casa.
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: majordomo@uvigo.es
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=us-ascii">
+</HEAD>
+<BODY><b>Usted se han registrado en nuestro sitio para encontrar trabajo.</b><br>
+Desea informarles que ahora tenemos un programa de trabajo para usted automatizada de picking) . <br>
+<b>Puede obtener libre garantizado y una lista de pertinentes de las vacantes usted. Enviar encuesta en esta direccion: <a href="mailto:Concepcion@trabajo-euro.com">Concepcion@trabajo-euro.com</a></b> <br>
+<br>
+<b>Por favor, estos tres puntos:</b><br>
+1. Como le llama.<br>
+2. Edad.<br>
+3. Qui haria usted como trabajar en casa u Oficinaa?<br>
+<br>
+Atencion, no responder a esta carta, simplemente escriba a nuestro Gerente especificado arriba por correo.<br>
+<b>Nos consideramos su formulario de solicitud y ofrecemos un trabajo lucrativo durante el dia.</b><br>
+<br>
+Buena suerte a usted.<br></BODY></HTML>
+

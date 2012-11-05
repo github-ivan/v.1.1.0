@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/test
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/test/Makefile
+END
+ploading.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/ploading.c
+END
+pcallbacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/pcallbacks.c
+END
+tests.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/tests.txt
+END
+test-fatalerrorreset
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/test-fatalerrorreset
+END
+fatalerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/fatalerror.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/Makefile.in
+END
+loggers.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/loggers.c
+END
+test-fatalerrordefault
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/test-fatalerrordefault
+END
+pdependencies.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/pdependencies.c
+END
+psymbolusage.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/psymbolusage.c
+END
+initdestroy.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/initdestroy.c
+END
+collections.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/collections.c
+END
+cpinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/cpinfo.c
+END
+extcfg.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/extcfg.c
+END
+pscanning.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/pscanning.c
+END
+pinstallation.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/pinstallation.c
+END
+test-loadminimal
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/test-loadminimal
+END
+test-loadmaximal
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/test-loadmaximal
+END
+test.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/test.h
+END
+testmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/testmain.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/Makefile.am
+END
+test-extpoints
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/test-extpoints
+END
+test-extensions
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/test/test-extensions
+END

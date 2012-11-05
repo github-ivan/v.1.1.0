@@ -1,0 +1,229 @@
+X-Account-Key: account2
+Return-path: <errors-ms1@e.locafilm.com>
+Envelope-to: pablof@uvigo.es
+Delivery-date: Thu, 24 Jun 2010 08:47:07 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1ORgDL-0002el-0s
+	for pablof@uvigo.es; Thu, 24 Jun 2010 08:47:07 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5O6l2RV011178
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@uvigo.es>; Thu, 24 Jun 2010 08:47:06 +0200
+Received: from smtp22.e.locafilm.com ([82.138.105.222])
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1ORgDF-0004Wg-Or
+	for pablof@uvigo.es; Thu, 24 Jun 2010 08:47:02 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=default;
+	d=e.locafilm.com;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:list-unsubscribe:content-type;
+	bh=/HRFukeKlJgmKmHL3ZQBeTiydDaXJ3kRbQIiVdXUmdI=;
+	b=GY/a9lMR0KcY5gzv3lbXKSJW8nqYs+1XJ8loRvjNYwsgXj2NDayXeCeVbBiBHqq2+ZU1vcwiYOiV1FGoz+beNsj1jTYeddOkZUrDtCfe29jrT7i7NjWQT8rLORpkDhEcuk1XAasKKYevH7pUyKnX/DQpGRQvAzCuAWa/Y7WZlj8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=default;
+	d=e.locafilm.com;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:List-Unsubscribe:Content-Type;
+	b=QvZjpmzWT39H9T4mpipu2QRhJEvlkP6SzApxoCmTGpaZtj7CI14tLm3BPRWyt6z0baD3jQ0xu+8OF7C8+wqei2khjwcQtrdP8gq+Ctm5BQdxVt7cJvp8YLB8lqXXyQF1kcxVn8jAdjRSpHR759AOx6rltBpy56h1V601OrbXyps=
+From: "Gates Marketing" <pedritoelfisgon@e.locafilm.com>
+Date: Thu, 24 Jun 2010 08:46:53 +0200
+To: <pablof@uvigo.es>
+Reply-To: =?windows-1252?Q?Ne_pas_R=E9pondre?= <pedritoelfisgon@e.locafilm.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 5.10.5642
+Message-ID: <NMID-104-305338129-22094786-AA==@ms1_locafilm>
+List-Unsubscribe: <http://w.e.locafilm.com/webApp/locUnsub?id=SyttyBogLXoG0AlA
+	UClkClsPxUpCuMrPahJCVCACAA%3D%3D&lang=es>, <mailto:feedback@e.locafilm.com>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_810_51E5AA84.51E5AA84"
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=-2.4 required=5.0 tests=BAYES_00,HTML_IMAGE_RATIO_06,
+	HTML_MESSAGE,SPF_PASS,SUBJECT_FUZZY_TION autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=-2.4 required=5.0 tests=BAYES_00=-2.599,
+	HTML_IMAGE_RATIO_06=0.001,HTML_MESSAGE=0.001,SPF_PASS=-0.001,
+	SUBJECT_FUZZY_TION=0.156 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: 
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: =?windows-1252?Q?Domina_todos_los_secretos_para_una_Gesti=F3n_de_exito?=
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: errors-ms1@e.locafilm.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_810_51E5AA84.51E5AA84
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: 8bit
+
+Si no puede leer este mensaje, consulte la versión en línea Gracias.  
+
+Para asegurarse de que recibe correctamente nuestros correos,
+añada la dirección pedritoelfisgon@e.locafilm.com en su agenda de direcciones. Gracias.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra,
+basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página.
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+Master en Direccion Comercial y MarketingPiensa en tu futuro ¡esta es tu oportunidad!Obtén tu Titulación Máster en Dirección Comercial y Marketing en menos de un año, desde tu casa y con tus propios horarios.      ¡Domina todos los secretos para una Gestión de Éxito! Asegura hoy mismo tu futuro laboral, más de 75.000 alumnos nos avalan.   Durante este mes ¡¡ UN MASTER MUNDIAL ¡¡          Elige quién crees que va a ganar el Mundial y obtendrás60 porciento de descuento mas Miniportátil HP 210-1022S Black al contratar tu Máster*Oferta válida para todos los contratos formalizados antes del 25 de Junio del 2010. http://t.e.locafilm.com/r/?id=o3d41e1cf,1cb18917,1cc0bbb8                                                                                            HAZ CLIC AQUI                                                                         Solicita Información sin Compromiso
+
+De acuerdo con la ley sobre informática y libertades, puede darse de baja en cualquier momento.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra, basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página. 
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+------=_NextPart_810_51E5AA84.51E5AA84
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+</HEAD>
+<BODY>
+  <center>
+  <table width=3D'600' align=3D"center">
+    <tr>
+    <td bgcolor=3D"#A6A6A6" height=3D'40'>
+        <center>
+        <FONT COLOR=3D'#FFFFFF' STYLE=3D'font-family: Verdana;font-size: 10=
+px;'>
+    <FONT COLOR=3D'#5A5A5A' STYLE=3D'font-family: Verdana;font-size: 11px; =
+'>Si no puede leer este mensaje, 
+       <a href=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3d41e1cf,1cb18917,1cc0=
+bbaa&p1=3Db0dea6fc3f12b6c0f0" _label=3D"Page miroir" _type=3D"mirrorPage" s=
+tyle=3D"color:#333;"><span style=3D"color:#333;">consulte la versi=F3n en l=
+=EDnea Gracias</span></a><br/></FONT><br/>Pedrito el Fisgon le propone desc=
+ubrir la oferta m=E1s abajo</b></font><br>
+    <font style=3D"font-family: Verdana; font-size: 11px;" color=3D"#d6346d=
+"><b> Asegura hoy mismo tu futuro laboral, </b><a href=3D"http://t.e.locafi=
+lm.com/r/=3Fid=3Dh3d41e1cf,1cb18917,1cc0bbab">sigue este enlace</a><br><div=
+ align=3Dcenter><FONT face=3DArial color=3D#000000 size=3D2>Si ya no desea =
+recibir ofertas comerciales de nuestra parte, por favor entre aqu=ED,<BR/><=
+a href=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3d41e1cf,1cb18917,1cc0bbac&p1=
+=3DSyttyBogLXoG0AlAUClkClsPxUpCuMrPahJCVCACAA%3D%3D" _type=3D"optout" _labe=
+l=3D"Lien de d=E9sinscription">Entre en esta p=E1gina.</A></FONT></div>
+</font>
+    </center></td></tr></table>
+    </center>
+
+
+
+
+
+<P><div style=3D"background-color: rgb(211, 211, 211);" bgcolor=3D"#d3d3d3;=
+"><div style=3D"background-color: rgb(211, 211, 211);"><table align=3D"cent=
+er" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">      <t=
+r>      <td style=3D"text-align: center;" align=3D"center" bgcolor=3D"#ffff=
+ff" valign=3D"top" width=3D"550">      <table style=3D"text-align: left;" a=
+lign=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"5=
+00">                  <tr>            <td> <br />            </td>         =
+ </tr>          <tr>            <td style=3D"background-color: rgb(2, 2, 90=
+);" align=3D"center" bgcolor=3D"#02025a" height=3D"71" width=3D"481">      =
+      <h2 style=3D"margin: 6px 0px 0px; padding: 0px; color: rgb(255, 255, =
+255); font-size: 36px; font-family: Arial,Helvetica,sans-serif; font-weight=
+: bold;"><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3d41e1cf,1cb18917,1c=
+c0bbab" style=3D"text-decoration: none; color: rgb(255, 255, 255);">M&aacut=
+e;ster en Direcci&oacute;n Comercial y Marketing</a></h2>            </td> =
+         </tr>          <tr>            <td style=3D"background-color: rgb(=
+255, 255, 255); text-align: center;" bgcolor=3D"#ffffff" height=3D"205" val=
+ign=3D"top" width=3D"500"><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3d4=
+1e1cf,1cb18917,1cc0bbad" style=3D"text-align: center;"><img src=3D"http://i=
+mg.potejack.com/ES/gates_marketing/equipo_laboral2.jpg" alt=3D"promocin mas=
+ter en direccin comercial y marketing" align=3D"middle" border=3D"0" height=
+=3D"205" width=3D"500" /></a></td>          </tr>          <tr>            =
+<td style=3D"background-color: rgb(255, 255, 255);" bgcolor=3D"#ffffff">   =
+         <h4 style=3D"margin: 12px 10px; color: rgb(0, 0, 0); font-family: =
+Verdana,Arial,Helvetica,sans-serif; font-size: 14px; text-align: center;"><=
+a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3d41e1cf,1cb18917,1cc0bbae" st=
+yle=3D"color: rgb(0, 0, 0); font-weight: bold; text-decoration: none;">Obt&=
+eacute;n tu Titulaci&oacute;n M&aacute;ster en Direcci&oacute;n Comercial y=
+ Marketing en menos de un a&ntilde;o, desde tu casa y con tus propios horar=
+ios.</a></h4>             <p style=3D"margin: 12px 20px; color: rgb(0, 0, 0=
+); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 12px; text-a=
+lign: center;">            <a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3d=
+41e1cf,1cb18917,1cc0bbaf" style=3D"color: rgb(0, 0, 0); font-weight: normal=
+; text-decoration: none;">&iexcl;Domina todos los secretos para una Gesti&o=
+acute;n de &Eacute;xito! <br />             </a></p>            <h3 style=
+=3D"margin: 12px 20px; color: rgb(2, 2, 90); font-family: Arial,Helvetica,s=
+ans-serif; font-size: 18px; text-align: center;">            <a href=3D"htt=
+p://t.e.locafilm.com/r/=3Fid=3Do3d41e1cf,1cb18917,1cc0bbb0" style=3D"color:=
+ rgb(2, 2, 90); font-weight: bold; text-decoration: none;">Asegura hoy mism=
+o tu futuro laboral, <br /> m&aacute;s de 75.000 alumnos nos avalan.</a></h=
+3>             </td>          </tr>          <tr>            <td style=3D"c=
+olor: rgb(83, 15, 55);" bgcolor=3D"#e2c013">            <h4 style=3D"margin=
+: 3px 5px; color: rgb(0, 0, 0); font-family: Verdana,Arial,Helvetica,sans-s=
+erif; font-size: 16px; text-align: center;"><a href=3D"http://t.e.locafilm.=
+com/r/=3Fid=3Do3d41e1cf,1cb18917,1cc0bbb1" style=3D"color: rgb(83, 15, 55);=
+ font-weight: bold; text-decoration: none;">Durante este mes</a></h4>      =
+       <p style=3D"margin: 5px 20px; color: rgb(0, 0, 0); font-family: Verd=
+ana,Arial,Helvetica,sans-serif; font-size: 12px; text-align: center;">     =
+       <a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3d41e1cf,1cb18917,1cc0=
+bbb2" style=3D"color: rgb(83, 15, 55); text-decoration: none; font-size: 25=
+px; font-weight: bold;">&iexcl;&iexcl; UN MASTER MUNDIAL &iexcl;&iexcl;</a>=
+ <br />             </p>            <h3 style=3D"margin: 12px 20px; color: =
+rgb(66, 8, 33); font-family: Arial,Helvetica,sans-serif; font-size: 18px; t=
+ext-align: center;">            <a href=3D"http://t.e.locafilm.com/r/=3Fid=
+=3Do3d41e1cf,1cb18917,1cc0bbb3" style=3D"color: rgb(83, 15, 55); text-decor=
+ation: none;"><span style=3D"font-size: 16px; color: rgb(83, 15, 55); line-=
+height: 10px; text-align: center;">Elige qui&eacute;n crees que va a ganar =
+el Mundial y obtendr&aacute;s</span><br />             <br />            <s=
+pan style=3D"font-size: 20px; font-weight: bold; color: rgb(83, 15, 55); li=
+ne-height: 22px; text-align: center;">60% DTO + Miniport&aacute;til HP 210-=
+1022S Black <br /> al contratar tu M&aacute;ster</span><br />             <=
+span style=3D"font-size: 11px; color: rgb(83, 15, 55); line-height: 30px; t=
+ext-align: center; padding-top: 15px;">*Oferta v&aacute;lida para todos los=
+ contratos formalizados antes del 25 de Junio del 2010.</span></a></h3>    =
+         </td>          </tr>          <tr>            <td colspan=3D"2" al=
+ign=3D"center" height=3D"90" valign=3D"top" width=3D"500">            <tabl=
+e style=3D"background-color: rgb(204, 102, 51);" background=3D"http://img.p=
+otejack.com/ES/gates_marketing/send-button.gif"alt=3D"imagen de fondo uno" =
+ bgcolor=3D"#cc6633" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" heigh=
+t=3D"90" width=3D"400">                               <tr>                 =
+ <td style=3D"font-family: Arial,Helvetica,sans-serif;" align=3D"center" va=
+lign=3D"middle"><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3d41e1cf,1cb1=
+8917,1cc0bbb4" style=3D"color: rgb(255, 255, 255); font-size: 42px; text-de=
+coration: none;"><strong>HAZ CLIC AQUI</strong>                   </a><br /=
+>                  </td>                </tr>                          </ta=
+ble>            <strong style=3D"color: rgb(68, 68, 68); font-family: Arial=
+,Helvetica,sans-serif; font-size: 11px;">Solicita Informaci&oacute;n sin Co=
+mpromiso</strong> </td>           </tr>          <tr>            <td style=
+=3D"background-color: rgb(255, 255, 255);" align=3D"center" bgcolor=3D"#fff=
+fff" height=3D"37" valign=3D"top" width=3D"500"> <br />            <a href=
+=3D"http://t.e.locafilm.com/r/=3Fid=3Do3d41e1cf,1cb18917,1cc0bbb5" style=3D=
+"text-align: center;"><img src=3D"http://img.potejack.com/ES/gates_marketin=
+g/email_footer.gif" alt=3D"60 porciento de descuento mas un miniportatil al=
+ contratar en este master" align=3D"middle" border=3D"0" height=3D"37" widt=
+h=3D"500" /></a>            </td>          </tr>              </table>     =
+ <br />      </td>    </tr>  </table></div></div></P>
+<P><FONT face=3D"Courier New" color=3D#008080 size=3D2><br/><DIV align=3Dce=
+nter><FONT face=3DArial color=3D#000000 size=3D2>De acuerdo con nuestros da=
+tos, usted registr=F3 la direcci=F3n &nbsp;<FONT face=3D"Courier New" color=
+=3D#008080 size=3D2>pablof@uvigo.es</FONT> cuando se dio de alta en nuestro=
+ sitio web.</FONT><BR/><br/><FONT face=3D"Courier New" color=3D#008080 size=
+=3D2><div align=3Dcenter><FONT face=3DArial color=3D#000000 size=3D2>Si ya =
+no desea recibir ofertas comerciales de nuestra parte, por favor entre aqu=
+=ED,<BR/><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3d41e1cf,1cb18917,1c=
+c0bbb7&p1=3DSyttyBogLXoG0AlAUClkClsPxUpCuMrPahJCVCACAA%3D%3D" _type=3D"opto=
+ut" _label=3D"Lien de d=E9sinscription">Entre en esta p=E1gina.</A></FONT><=
+/div>
+</FONT></DIV></FONT></P><img height=3D'0' width=3D'0' alt=3D'' src=3D'http:=
+//t.e.locafilm.com/r/=3Fid=3Do3d41e1cf,1cb18917,1'/></BODY></HTML>
+
+------=_NextPart_810_51E5AA84.51E5AA84--
+
+

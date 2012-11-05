@@ -1,0 +1,57 @@
+#*************************************************************************************
+#   LICENSING
+#*************************************************************************************
+#*
+# WB4Spam: An ANSI C is an open source, highly extensible, high performance and 
+# multithread spam filtering platform. It takes concepts from SpamAssassin project
+# improving distinct issues.
+# 
+# Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+#
+# This file is part of WireBrush for Spam project.
+#
+# Wirebrush for Spam is free software; you can redistribute it and/or
+# modify it under the terms of the GNU Lesser General Public License as
+# published by the Free Software Foundation; either version 3 of the
+# License, or (at your option) any later version.
+#
+# Wirebrush for Spam is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+# General Public License for more details.
+#
+# You should have received a copy of the GNU Lesser General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+#************************************************************************************
+
+#Section for configuring CORE parameters.
+
+[CORE]
+
+lazy_evaluation -1; Activar la evaluación perezosa de filtros.
+
+multithread ON; Activar la ejecución multihilo de los filtros.
+
+schedule intelligent_balance;
+#greater_abs_value;
+#greater_distance_value;
+#negative_first;
+#positive_first;
+#default_scheduling;
+#intelligent_balance; Usar el planificador de reglas por defecto.
+
+#Section for configuring SPF plugin parameters.
+[BAYES]
+
+min_nspam 0; Numero minino de tokens spam para poder computar bayes
+
+min_nham 0; Numero minimo de tokens ham para poder computar bayes
+
+cache_size 5; tamaño de la cache
+
+require_significant_tokens 1; numero minimo de tokens significantes para poder computar bayes
+
+[SPAMHUNTING]
+
+cache_size 5; tamaño de la cache para spamhunting

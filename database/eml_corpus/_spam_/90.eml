@@ -1,0 +1,130 @@
+X-Account-Key: account2
+Return-path: <joanna.morrison1@btinternet.com>
+Envelope-to: majordomo@uvigo.es
+Delivery-date: Sat, 12 Dec 2009 12:07:01 +0100
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <joanna.morrison1@btinternet.com>)
+	id 1NJPoS-0003j5-VJ
+	for majordomo@uvigo.es; Sat, 12 Dec 2009 12:07:01 +0100
+Received: from niscalo.uvigo.es (antispam2.uvigo.es [193.146.32.78])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id nBCB6ubQ024357
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <majordomo@uvigo.es>; Sat, 12 Dec 2009 12:07:00 +0100
+Received: from web87109.mail.ird.yahoo.com ([87.248.115.225])
+	by niscalo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <joanna.morrison1@btinternet.com>)
+	id 1NJPgS-0002EM-Iv
+	for majordomo@uvigo.es; Sat, 12 Dec 2009 11:58:45 +0100
+Received: (qmail 46398 invoked by uid 60001); 12 Dec 2009 11:06:49 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=btinternet.com; s=s1024; t=1260616008; bh=Zwi6/IoTMN0wTeTCVhlKyIrh99XLpgoFgXyVrs7TxWE=; h=Message-ID:X-YMail-OSG:Received:X-Mailer:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=l9/+bRGjNF8pxS8xljZ6MnycUmVsHmu+NlhBZlpfwdv+oauXUkSyyh/582C0NzE+ZI3u9OC+kF/4xmRPaJa1DRVmr/0XWYcnL4mSN5m4bURWvni4X0ZZ9IpjcRbLDs0avWonkpyuUWmtChZUYyBCTGb085pgEevbwsgQHM9VD4k=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=btinternet.com;
+  h=Message-ID:X-YMail-OSG:Received:X-Mailer:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+  b=m06eJnGe7//1MEpIsrybA0SVzqqyk0dPLUtQKxd75DOK4sv8hLcObCyTwt87rois6+NE4+tGKBJrI91bw+0ox2N1PjvlwbpWmaEpRy++nwIfI8tjWn0+QfgbOpPgUMAUlJSy/pdE+A9FSApg5OTLd+FizgUgjsxX5tRdVDj/AlE=;
+Message-ID: <946951.45528.qm@web87109.mail.ird.yahoo.com>
+X-YMail-OSG: XGGCXlQVM1k37Zlnrjy.vOhlyahX49Iz2h8ggDhiKkqKHayqybaCK75UgtTtSGXWSyluhHkwXK6w6hydEJMmWpNDUj3iqqor1gVq3X3Rb1PUhbYRPr0PVnrhUhY.jlrRot6JDt45zyNNbXGX0O5AHrzqRKi4lQGMYzLUryoHUNl4g0DhJYQ9raWFt9lS3Ziq3GQvU0p.kXSPTrKNa73f82C0ssYp8iICzezAOU1lQZ2FLprzRBH6XQGzadKmrL.Jm0qAM5dzTbQS_UtMv2Nua1iiMlPpktQEyvsfBAyEvJTNCm0iYED.q65IQRuqMDVFI2qK92hCZSf8LITYhdh.ETzTTzgiLEqFPETa5txZqmRi.ldXCft4HJI3LWMRKVPmElGjbvqxf_8kfqWfqBg49O6G9JbAF6A.ySIKVg3TWhP_mOrp1o27FtQw8pB3EQDwkYJvDkjL6_7ltRQp9cPTirZZwWxu7oGfmLhivfy2xuDeJKnSyWDt_AD06ROlAI3DY7Zmw7bql5YwqJpAPF8JSjTPVyFbQ8Uwyqj2li4WBz7BFr3Z3Rm8DgP7BHQ60RJ0Xrz9AOZWgL8wGxx_8eSh4Rjf2FdlPJnew3Dn4kg6OpzC9NSnQ.571HFZ.6EmP5zmAPuLudZiL9JeUW2lKdsN.dhXShFjmVRG5xNwSmz8xKAGLe5GShlqiEBqPXqo.PK7uyg_L52nkPygYUklKt0_ZNmwAn3z6Zcab6.Mohdf4AUzoIOn0YQLZ1veCrHlDcVphDVnQvaQFxKQzRAAUgMBiNsFI6HXJkmU71_hgRI0QeK4PKKpO8hrxKcC598GIeX4deQCmyYelKhgHQ1S8fAfMn.uKAOC.Xt8yO_qOrogkDQMa.5OsNsbwsa5ruiFweWQF5kMSi9JQGGhL7nc1QzyxTLYfFxMd2TwMUxpuVQtoKBJ9ixgP3aAj8F7h_2OSH_Nwzg_.0jaZ3Xd_91JVdx16de6FoGBlBPtKGq7dIdcyQmpXvfwmj1P1hYVjcLJ63rW5m8WfsZcVG1w6p7htK7IgtdH_U8oJ5m9JCvE62JakakQWuE1Uh_2ndDz5eFDPUkY.HvR6zwfQRRIPLJoumXsLZ44fqCE81iDIkNPNXRwe0J3KxXmbgQ1uaU1jap_F770bNaUebw6XILcbseITAFKCoRKAcXKPZteB8OKw4g7yJkXPDF6JVdEgV.97pAGV6uLbhBYu25pIBgDcRfeh6H665GLTrIaj2LZRLQdcidNvt39QDiVoZL.KCFmMu6UfJwUo4DmpwQbwv6AjWMXZCcKVRQzr48jtjE9NFgUTShs6SO7POdfzmVKlNR2jEvNiYV4SrMMpLF4kN45f0zCWhctpIqJNz92WyAWS2aHRNeF8UY_ioh2Rb9yCWpcBuMuLdaWKFMUN32wnU2WslVKdcMNdMx9E.hUP2nhpMoXb5BGtdIYxsYr8xzHpr27MlgmF_HFqWslJsZX_s6oDbhAA_ydWOOuBpJijru9erv9JqTNDRH7IsxkYjxs_br7wSshMkpdjf8pw43W5ogjcG3kAv5NXRjdkZvDmXRCak3XDGDd898WGqisPU.F3jYNRMjsziy3MIoszQTCTZRmVUyZxncze7raiFexrb8MuRY4a5moUxOIlgtfsl_MgM.DXeT_GHtdqjmvb8a0qP7VEcuo.5umaRYHN5A65oJBMcZp1wVE_TOxVlVkBGgg3guAlyS6_.NE1K3ybrTZNQpQahbFYUoBPRmTgqncLgS9UYDGcry6VtsvPesyu5J.0hTyxGWY3M0qoMBUSHohSzYBNFAUoKD87z1FdzAHLFvA9hTcUol8xP1vIsYp0Yg6oTgzwFXYhSHpgcZcsgy4fAqUKKYE63_fvoq8y097B11RX_jnegIgqeywfA7nEDxhNSErVvFZ1XwK38_cPGbp.Wj7yL3gy.ZkN4u4yLuRupXUyBw5MggsMzRc.8lWwq1I1wVBKVxpZRc34ZiFddViS1xBBme2Q9Jf_BzNcCCQDZQR_IQa_0f63e!
+ PPy9Voaxzf3eVZ_O4yBd2BblHWkEqxABLqXUOydrwmthXdV8oUuv7449pCfJInb.azyAzlP183ZWsGDtp9B.dpuc61KEZTPpNhbapxfznbJqQrHrD9Ra_iRGLJOBzop96quJqhb481SWDjnYj7lnf59KlDv6QPEwz9a1Fv4p1gKqpHF5UfS9QOIHCS2tN14nh0rRlqGSqH_BGM5koqhYUiPqCJxiYrlYF9MgTrLI1NEyGEibgv.evYZ3WimBcpFasjorEqVt
+Received: from [41.189.99.65] by web87109.mail.ird.yahoo.com via HTTP; Sat, 12 Dec 2009 11:06:48 GMT
+X-Mailer: YahooMailClassic/9.0.19 YahooMailWebService/0.8.100.260964
+Date: Sat, 12 Dec 2009 11:06:48 +0000 (GMT)
+From: JOANNA MORRISON <joanna.morrison1@btinternet.com>
+Reply-To: joanna.morrison1@yahoo.com
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="0-1019965902-1260616008=:45528"
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on niscalo.uvigo.es
+X-Spam-Status: No, score=3.4 required=5.0 tests=ADVANCE_FEE_2,BAYES_50,
+	HTML_MESSAGE,MILLION_USD,US_DOLLARS_3 autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=3.4 required=5.0 tests=ADVANCE_FEE_2=1.234,
+	BAYES_50=0.001,HTML_MESSAGE=0.001,MILLION_USD=1.528,US_DOLLARS_3=0.63
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: ***
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: From Miss Joanna
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: joanna.morrison1@btinternet.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+--0-1019965902-1260616008=:45528
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+>From Miss Joanna
+
+I am Joanna the only child of my late parents Mr.and Mrs.johnson Morrison. =
+My father was ahighly reputable busnness magnet who operated in the capital=
+ during his days.=20
+
+It is sad to say that he passed away mysteriously in France during one of h=
+is business trips abroad on the September 2006. Though his sudden death was=
+ linked or rather suspected to have been master minded by an uncle of his w=
+ho traveled with him at that time. But God knows the truth! My mother died =
+when I was just 6yrs old, and since then my father took me so special. Befo=
+re his death on September 2006, he called me and informed me that he has th=
+e sum of Seven Million, Four Hundred Thousand United State Dollars. (USD $ =
+7,400,000.00) left in fixed deposit account in one of the leading banks her=
+e. He further told me that he deposited the money in my name, and also gave=
+ me all the necessary but legal documents to this fund with the bank.=20
+
+I am just 21 years old and a university undergraduate and really do not kno=
+w what to do. Now I want an account overseas where I can transfer this fund=
+s and after the transaction I will come and reside permanently in your coun=
+try till such a time that it will be convinient for me to return back home =
+if I so desire. This is because I have Suffered a lot of set backs as a res=
+ult of incessant political crisishere in my CONUTRY. The death of my father=
+ actually brought sorrow to my life. I also want to invest the fund under y=
+our care because I am ignorant of business world.
+
+I am in a sincere desire of your humble assistance in this regards. Your su=
+ggestions and ideas will be highly regarded. Now permit me to ask these few=
+ questions:
+
+1. Can you honestly help me from your heart?=20
+2. Can I completely trust you? Please, consider this and get back to me as =
+soon as=20
+
+possible.Immedaitely I confirm your willingness, I will send to you The Det=
+ail And Also inform you more details involved in this matter.=20
+
+Kind Regards,=20
+Miss Joanna Morrison
+--0-1019965902-1260616008=:45528
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" ><tr><td valign=3D"=
+top" style=3D"font: inherit;">From Miss Joanna<BR><BR>I am Joanna the only =
+child of my late parents Mr.and Mrs.johnson Morrison. My father was ahighly=
+ reputable busnness magnet who operated in the capital during his days. <BR=
+><BR>It is sad to say that he passed away mysteriously in France during one=
+ of his business trips abroad on the September 2006. Though his sudden deat=
+h was linked or rather suspected to have been master minded by an uncle of =
+his who traveled with him at that time. But God knows the truth! My mother =
+died when I was just 6yrs old, and since then my father took me so special.=
+ Before his death on September 2006, he called me and informed me that he h=
+as the sum of Seven Million, Four Hundred Thousand United State Dollars. (U=
+SD $ 7,400,000.00) left in fixed deposit account in one of the leading bank=
+s here. He further told me that he deposited the money in my name, and also
+ gave me all the necessary but legal documents to this fund with the bank. =
+<BR><BR>I am just 21 years old and a university undergraduate and really do=
+ not know what to do. Now I want an account overseas where I can transfer t=
+his funds and after the transaction I will come and reside permanently in y=
+our country till such a time that it will be convinient for me to return ba=
+ck home if I so desire. This is because I have Suffered a lot of set backs =
+as a result of incessant political crisishere in my CONUTRY. The death of m=
+y father actually brought sorrow to my life. I also want to invest the fund=
+ under your care because I am ignorant of business world.<BR><BR>I am in a =
+sincere desire of your humble assistance in this regards. Your suggestions =
+and ideas will be highly regarded. Now permit me to ask these few questions=
+:<BR><BR>1. Can you honestly help me from your heart? <BR>2. Can I complete=
+ly trust you? Please, consider this and get back to me as soon as
+ <BR><BR>possible.Immedaitely I confirm your willingness, I will send to yo=
+u The Detail And Also inform you more details involved in this matter. <BR>=
+<BR>Kind Regards, <BR>Miss Joanna Morrison</td></tr></table>
+--0-1019965902-1260616008=:45528--
+

@@ -1,0 +1,259 @@
+/***************************************************************************
+*
+*   File    : header_parser.h
+*   Purpose : Implements a parser for received headers.
+*
+*   Author: David Ruano
+*
+*
+*   Date    : March  10, 2010
+*
+*****************************************************************************
+*   LICENSING
+*****************************************************************************
+*
+* WB4Spam: An ANSI C is an open source, highly extensible, high performance and
+* multithread spam filtering platform. It takes concepts from SpamAssassin project
+* improving distinct issues.
+*
+* Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+*
+* This file is part of WireBrush for Spam project.
+*
+* Wirebrush for Spam is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public License as
+* published by the Free Software Foundation; either version 3 of the
+* License, or (at your option) any later version.
+*
+* Wirebrush for Spam is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+* General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public License
+* along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*
+***********************************************************************/
+
+
+#include "header_parser.h"
+#include "hashmap.h"
+#include <stdio.h>
+#include <stdlib.h>
+#include "logger.h"
+#include "linked_list.h"
+
+struct received_header{
+    char *received_domain;
+    char *received_ip;
+    char *from_domain;
+};
+
+ip_info *get_header_info(rfc2822eml email, int position){
+
+    linklist *list_received;
+    char *received, *from;
+    char *start_pointer;
+    int last=0, count =0, first =0;
+
+
+    ip_info *info=(ip_info *)malloc(sizeof(ip_info));
+
+    if(hashmap_get(email,RECEIVED_HEADER,(any_t *)&list_received)==MAP_MISSING){
+        wblprintf(LOG_CRITICAL,"HEADER PARSER","Received headers does not exist\n");
+        return NULL;
+    }
+
+    if(position<0 || position>getlengthlist(list_received)){
+        wblprintf(LOG_WARNING,"HEADER PARSER","Position not valid. Assuming first header\n");
+        position=1;
+    }
+
+    if(getatlist(list_received,(position-1),(element *)&received)==NODE_MISSING){
+        wblprintf(LOG_CRITICAL,"HEADER PARSER","%dº received does not exist\n",position);
+        return NULL;
+    }
+
+    if(hashmap_get(email,FROM_HEADER,(any_t *)&from)==MAP_MISSING){
+        wblprintf(LOG_CRITICAL,"HEADER PARSER","From does not exist\n");
+        return NULL;
+    }
+
+    start_pointer=received;
+
+    info->from_domain=NULL;
+    info->received_domain=NULL;
+    info->received_ip=NULL;
+
+
+    //printf("%s\n",start_pointer);
+
+    (start_pointer[0]=='\0')?
+    (wblprintf(LOG_WARNING,"HEADER PARSER","Header content is void\n")):
+    (0);
+
+    while(start_pointer[count] != ' ') count++;
+
+    first=++count;
+
+    while(start_pointer[count] != ' ') count++;
+
+    last=--count;
+
+    start_pointer=&start_pointer[first];
+
+    info->received_domain=malloc(sizeof(char)*(last-first+2));
+    memcpy(info->received_domain,start_pointer,(last-first+1)*sizeof(char));
+    info->received_domain[last-first+1]='\0';
+
+    printf("RECEIVED DOMAIN %s\n",info->received_domain);
+
+    count=last-first;
+
+    printf("->%c\n",start_pointer[count]);
+    printf("last(%d)/first(%d)",last,first);
+    
+    while(start_pointer[count] !='\n'){
+        if(start_pointer[count]=='[')
+            first=count+1;
+        if(start_pointer[count]==']'){
+            last=count-1;
+            break;
+        }
+        count++;
+    }
+    if(last-first>=7 && last-first<=15){
+        start_pointer=&start_pointer[first];
+        info->received_ip=(char *)malloc(sizeof(char)*last-first+2);
+        memcpy(info->received_ip,start_pointer,(last-first+1)*sizeof(char));
+        info->received_ip[last-first+1]='\0';
+
+        //printf("RECEIVED IP %s\n",info->received_ip);
+    }
+    else{
+        wblprintf(LOG_WARNING,"HEADER PARSER","Ip is not correct\n");
+        printf("HAY QUE HACER CONSULTA DNS PARA RESOLVER EL HOST\n");
+    }
+
+
+    start_pointer=from;
+    //printf("From: %s\n",start_pointer);
+
+    first=count=0;
+
+    while(start_pointer[count]!='@'){
+        count++;
+    }
+
+    first=++count;
+
+    while(start_pointer[count]!='\n' && start_pointer[count]!='>'
+          && start_pointer[count]!=' '){
+        count++;
+    }
+    last=--count;
+
+    start_pointer=&start_pointer[first];
+
+    info->from_domain=malloc(sizeof(char)*(last-first+2));
+    memcpy(info->from_domain,start_pointer,(last-first+1)*sizeof(char));
+    info->from_domain[last-first+1]='\0';
+
+    //printf("FROM DOMAIN %s\n",info->from_domain);
+    return info;
+
+}
+
+char *get_received_domain(ip_info *info){
+    return info->received_domain;
+}
+
+char *get_received_ip(ip_info *info){
+    return info->received_ip;
+}
+
+char *get_from_domain(ip_info *info){
+    return info->from_domain;
+}
+
+void free_ip(ip_info *info){
+
+    if(info!=NULL){
+        if(info->from_domain!=NULL)
+            free(info->from_domain);
+        if(info->received_domain!=NULL)
+            free(info->received_domain);
+        if(info->received_ip!=NULL)
+            free(info->received_ip);
+        free(info);
+    }
+}
+
+char **parse_ip(char *ip){
+
+    char **aux=malloc(sizeof(char *)*4);
+    char *octect;
+    char *res=malloc(sizeof(char)*(strlen(ip)+1));
+    strcpy(res,ip);
+
+    if((octect=strtok(res,"."))==NULL){
+        free(res);
+        return NULL;
+    }
+    aux[0]=malloc(sizeof(char)*(strlen(octect)+1));
+    strcpy(aux[0],octect);
+
+    if((octect=strtok(NULL,"."))==NULL){ 
+        free(aux[0]);
+        free(aux);
+        free(res);
+        return NULL;
+    }
+    aux[1]=malloc(sizeof(char)*(strlen(octect)+1));
+    strcpy(aux[1],octect);
+
+    if((octect=strtok(NULL,"."))==NULL){ 
+        free(aux[0]);
+        free(aux[1]);
+        free(aux);
+        free(res);
+        return NULL;
+    }
+    aux[2]=malloc(sizeof(char)*(strlen(octect)+1));
+    strcpy(aux[2],octect);
+
+    if((octect=strtok(NULL,"."))==NULL){ 
+        free(aux[0]);
+        free(aux[1]);
+        free(aux[2]);
+        free(aux);
+        return NULL;
+    }
+    aux[3]=malloc(sizeof(char)*(strlen(octect)+1));
+    strcpy(aux[3],octect);
+
+    free(res);
+
+    return aux;
+}
+
+char *get_octect(char **ip,int num){
+    --num;
+    if(num>=0 && num<4)
+        return ip[num];
+    else
+        return NULL;
+}
+
+void free_parsed_ip(char **ip){
+    int i=0;
+    if(ip!=NULL){
+        for(;i<4;i++)
+            free(ip[i]);
+    }
+    free(ip);
+}
+
+int get_ip_size(char **ip){
+    return (strlen(ip[0])+strlen(ip[1])+strlen(ip[2])+strlen(ip[3]));
+}

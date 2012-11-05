@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/examples
+END
+COPYRIGHT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/COPYRIGHT.txt
+END
+Makefile.nmake
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/Makefile.nmake
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/autogen.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/examples/Makefile
+END
+nmakedir.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/nmakedir.bat
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/Makefile.in
+END
+common.nmake
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/common.nmake
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/configure.ac
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/examples/INSTALL.txt
+END

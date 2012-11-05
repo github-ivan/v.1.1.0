@@ -1,0 +1,98 @@
+#	LICENSING
+#
+#       This file is part of WireBrush for Spam project (WB4Spam).
+#
+#       WB4Spam: An ANSI C is an open source, highly extensible, high performance and 
+#       multithread spam filtering platform. It takes concepts from SpamAssassin project
+#       improving distinct issues.
+#
+#       Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+#
+#       Wirebrush for Spam is free software; you can redistribute it and/or
+#       modify it under the terms of the GNU Lesser General Public License as
+#       published by the Free Software Foundation; either version 3 of the
+#       License, or (at your option) any later version.
+#
+#       Wirebrush for Spam is distributed in the hope that it will be useful,
+#       but WITHOUT ANY WARRANTY; without even the implied warranty of
+#       MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+#       General Public License for more details.
+#
+#       You should have received a copy of the GNU Lesser General Public License
+#       along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+CC=cc -g -O3 -fPIC
+CFLAGS=-c -Wall
+OPTS=-I../../cpluff/include -I/usr/include
+OPTSLIB=-shared -W1,-soname,libcore.so.0 -I../../cpluff/include -I/usr/include -L../../cpluff/lib -L/usr/lib -L/lib -I../../ -L../../
+LIBS=-lcpluff -lexpat -lpthread -ldl -lc -lfileutils
+
+all : libcore.a parse_func_args.o libcore.so libutils.a
+
+libcore.so : core.o list_files.o string_util.o hashmap.o ruleset.o logger.o linked_list.o parse_func_args.o stack.o cache.o dictionary.o iniparser.o wb_system.o eml_domain_parser.o meta.o schedule.o vector.o
+	gcc $(OPTSLIB) -o libcore.so.0 core.o list_files.o string_util.o hashmap.o logger.o ruleset.o linked_list.o parse_func_args.o stack.o cache.o linkedhashmap.o dictionary.o iniparser.o wb_system.o eml_domain_parser.o meta.o schedule.o vector.o  $(LIBS)
+	ln -sf libcore.so.0 libcore.so
+	ln -sf libcore.so.0 libcore.so.1
+
+libcore.a: list_files.o string_util.o hashmap.o logger.o linked_list.o stack.o cache.o linkedhashmap.o dictionary.o iniparser.o wb_system.o eml_domain_parser.o meta.o schedule.o vector.o
+	ar rcs libcore.a list_files.o string_util.o hashmap.o logger.o linked_list.o stack.o cache.o linkedhashmap.o dictionary.o iniparser.o wb_system.o eml_domain_parser.o meta.o schedule.o vector.o
+
+core.o : list_files.o string_util.o hashmap.o ruleset.o logger.o dictionary.o iniparser.o meta.o schedule.o vector.o
+	$(CC) $(OPTS) -c core.c
+
+libutils.a: string_util.o hashmap.o logger.o linked_list.o stack.o cache.o linkedhashmap.o stack.o list_files.o vector.o
+	ar rcs libutils.a string_util.o hashmap.o logger.o linked_list.o stack.o cache.o linkedhashmap.o stack.o list_files.o vector.o
+
+parse_func_args.o : 
+	$(CC) $(CFLAGS) $(OPTS) parse_func_args.c -o parse_func_args.o
+
+string_util.o : 
+	$(CC) $(CFLAGS) $(OPTS) string_util.c -o string_util.o
+
+vector.o : 
+	$(CC) $(CFLAGS) $(OPTS) vector.c -o vector.o
+
+hashmap.o : 
+	$(CC) $(CFLAGS) $(OPTS) hashmap.c -o hashmap.o
+
+ruleset.o : 
+	$(CC) $(CFLAGS) $(OPTS) ruleset.c -o ruleset.o
+
+list_files.o : 
+	$(CC) $(CFLAGS) $(OPTS) list_files.c -o list_files.o
+
+logger.o:
+	$(CC) $(CFLAGS) $(OPTS) logger.c -o logger.o
+
+linked_list.o:
+	$(CC) $(CFLAGS) $(OPTS) linked_list.c -o linked_list.o
+
+stack.o: 
+	$(CC) $(CFLAGS) $(OPTS) stack.c -o stack.o
+
+cache.o:
+	$(CC) $(CFLAGS) $(OPTS) cache.c -o cache.o
+
+dictionary.o :
+	$(CC) $(CFLAGS) $(OPTS) dictionary.c -o dictionary.o
+
+linkedhashmap.o:
+	$(CC) $(CFLAGS) $(OPTS) linkedhashmap.c -o linkedhashmap.o
+
+iniparser.o:
+	$(CC) $(CFLAGS) $(OPTS) -L../../ -I../../ iniparser.c -o iniparser.o
+
+wb_system.o:
+	$(CC) $(CFLAGS) $(OPTS) wb_system.c -o wb_system.o
+
+eml_domain_parser.o:
+	$(CC) $(CFLAGS) $(OPTS) eml_domain_parser.c -o eml_domain_parser.o
+	
+meta.o:
+	$(CC) $(CFLAGS) $(OPTS) meta.c -o meta.o
+
+preschedule.o:
+	$(CC) $(CFLAGS) $(OPTS) schedule.c -o schedule.o
+
+clean:
+	rm *.a *.o *.so *.so.?

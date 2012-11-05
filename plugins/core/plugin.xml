@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+==========================================================================                        
+
+   File    : plugins/core/plugin.xml
+   Purpose : Defines the core plugin structure and interfaces
+   Author  : David Ruano, Noemi Perez, Jose Ramon Mendez
+ 
+ 
+   Date    : October  14, 2010
+
+==========================================================================
+   LICENSING
+
+ WB4Spam: An ANSI C is an open source, highly extensible, high performance and 
+ multithread spam filtering platform. It takes concepts from SpamAssassin project
+ improving distinct issues.
+ 
+ Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+
+ This file is part of WireBrush for Spam project.
+
+ Wirebrush for Spam is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public License as
+ published by the Free Software Foundation; either version 3 of the
+ License, or (at your option) any later version.
+
+ Wirebrush for Spam is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+ General Public License for more details.
+
+ You should have received a copy of the GNU Lesser General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<plugin
+  id="es.uvigo.ei.core"
+  version="0.1"
+  name="CORE"
+  provider-name="Jose Ramon Mendez">
+  <requires>
+    <c-pluff version="0.1"/>
+  </requires>
+  <runtime library="libcore" funcs="core_runtime_functions"/>
+
+  <!--This extension point allow function registation. The functions
+    return true of false values and permits the sending of parameters -->
+  <extension-point
+    id="functions"
+    name="Filtering functions"
+    schema="functions.xsd"/>
+
+  <!--This extension point allow the registration of several parsers
+    in order to extract urls, the body of the email, the headers, etc-->
+  <extension-point
+    id="parsers"
+    name="Email parsers"
+    schema="parsers.xsd"/>
+
+  <!--This extension point allow the registration of several event handlers
+    in order to support autolearning options, autowhitelist, etc.-->
+  <extension-point
+    id="eventhandlers"
+    name="Eventhandlers"
+    schema="eventhandlers.xsd"/>
+    
+  <!--This extension point allow the registration of several preschedulers
+    in order to support multiple scheduling techniques.-->  
+    <extension-point
+    id="preschedulers"
+    name="Preschedulers"
+    schema="preschedulers.xsd"/>
+
+</plugin>

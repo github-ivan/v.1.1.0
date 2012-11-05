@@ -1,0 +1,5 @@
+meta META_1 (SPF_PASS_3 || SPF_PASS)
+describe META_1 Meta rule for SPF test
+
+meta META_2 (HAS_GesDAI_ON_BODY_PCRE && HAS_GesDAI_ON_SUBJECT_PCRE)
+describe META_2 Meta rule for PCRE test

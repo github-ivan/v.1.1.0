@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+==========================================================================
+
+   File    : plugins/axl.xml
+   Purpose : Defines the axl plugin.
+   Author  : David Ruano
+
+
+   Date    : July  14, 2011
+
+==========================================================================
+   LICENSING
+
+ WB4Spam: An ANSI C is an open source, highly extensible, high performance and
+ multithread spam filtering platform. It takes concepts from SpamAssassin project
+ improving distinct issues.
+
+ Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+
+ This file is part of WireBrush for Spam project.
+
+ Wirebrush for Spam is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public License as
+ published by the Free Software Foundation; either version 3 of the
+ License, or (at your option) any later version.
+
+ Wirebrush for Spam is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+ General Public License for more details.
+
+ You should have received a copy of the GNU Lesser General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<plugin
+  id="es.uvigo.ei.axl_plugin"
+  version="0.1"
+  name="Auto White and Black List"
+  provider-name="David Ruano Ordas">
+  <requires>
+    <c-pluff version="0.1"/>
+    <import plugin="es.uvigo.ei.core" version="0.1"/>
+    <import plugin="es.uvigo.ei.eml_structure_parser" version="0.1"/>
+    <import plugin="es.uvigo.ei.preschedule_plugin" version="0.1"/>
+  </requires>
+  <runtime library="libaxl_plugin" funcs="axl_plugin_runtime_functions"/>
+  <extension
+     point="es.uvigo.ei.core.functions"
+     name="check_auto_whitelist"
+     cfg=""
+     function="es_uvigo_ei_check_auto_whitelist"
+   />
+   <extension
+     point="es.uvigo.ei.core.functions"
+     name="check_auto_blacklist"
+     cfg=""
+     function="es_uvigo_ei_check_auto_blacklist"
+   /> 
+   <extension
+     point="es.uvigo.ei.core.eventhandlers"
+     name="autolearn_axl"
+     cfg=""
+     eventhandler="es_uvigo_ei_autolearn_axl"
+   />  
+</plugin>

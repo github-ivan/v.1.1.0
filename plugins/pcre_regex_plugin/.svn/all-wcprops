@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/318/plugins/pcre_regex_plugin
+END
+pcre_regex_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/303/plugins/pcre_regex_plugin/pcre_regex_plugin.c
+END
+pcre_regex_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/195/plugins/pcre_regex_plugin/pcre_regex_util.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/250/plugins/pcre_regex_plugin/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/318/plugins/pcre_regex_plugin/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/318/plugins/pcre_regex_plugin/plugin.xml
+END
+pcredemo.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/99/plugins/pcre_regex_plugin/pcredemo.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/195/plugins/pcre_regex_plugin/test.c
+END
+pcre_regex_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/195/plugins/pcre_regex_plugin/pcre_regex_util.c
+END

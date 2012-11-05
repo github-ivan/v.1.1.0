@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 66
+libawl_plugin.so
+.Makefile.swp
+.awl_plugin.c.swp
+libaxl_plugin.so
+
+END

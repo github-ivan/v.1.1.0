@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="84">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="wirebrush4spam" root=".">
+      <df name="cpluff">
+        <df name="bin">
+        </df>
+        <df name="include">
+          <in>cpluff.h</in>
+          <in>cpluffdef.h</in>
+        </df>
+        <df name="lib">
+        </df>
+        <df name="share">
+          <df name="doc">
+            <df name="cpluff">
+              <df name="examples">
+                <df name="cpfile">
+                  <df name="plugins">
+                    <df name="cext">
+                    </df>
+                    <df name="core">
+                      <in>core.c</in>
+                      <in>core.h</in>
+                    </df>
+                    <df name="extension">
+                      <in>extension.c</in>
+                    </df>
+                    <df name="special">
+                      <in>special.c</in>
+                    </df>
+                  </df>
+                </df>
+              </df>
+              <df name="html">
+                <df name="img">
+                </df>
+                <df name="reference">
+                  <df name="c-api">
+                  </df>
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="locale">
+            <df name="en@boldquot">
+              <df name="LC_MESSAGES">
+              </df>
+            </df>
+            <df name="en@quot">
+              <df name="LC_MESSAGES">
+              </df>
+            </df>
+            <df name="fi">
+              <df name="LC_MESSAGES">
+              </df>
+            </df>
+          </df>
+        </df>
+      </df>
+      <df name="cpluff_source">
+        <df name="cpluff-0.1.3">
+          <df name="auxliary">
+          </df>
+          <df name="console">
+            <in>cmdinput_basic.c</in>
+            <in>cmdinput_readline.c</in>
+            <in>console.c</in>
+            <in>console.h</in>
+          </df>
+          <df name="doc">
+            <df name="img">
+            </df>
+            <df name="reference">
+              <df name="c-api">
+              </df>
+            </df>
+          </df>
+          <df name="docsrc">
+          </df>
+          <df name="examples">
+            <df name="cpfile">
+              <df name="plugins">
+                <df name="cext">
+                </df>
+                <df name="core">
+                  <in>core.c</in>
+                  <in>core.h</in>
+                </df>
+                <df name="extension">
+                  <in>extension.c</in>
+                </df>
+                <df name="special">
+                  <in>special.c</in>
+                </df>
+              </df>
+            </df>
+          </df>
+          <df name="kazlib">
+            <in>hash.c</in>
+            <in>hash.h</in>
+            <in>list.c</in>
+            <in>list.h</in>
+          </df>
+          <df name="libcpluff">
+            <df name="docsrc">
+            </df>
+            <in>context.c</in>
+            <in>cpluff.c</in>
+            <in>cpluff.h</in>
+            <in>cpluffdef.h</in>
+            <in>defines.h</in>
+            <in>internal.h</in>
+            <in>logging.c</in>
+            <in>pcontrol.c</in>
+            <in>pinfo.c</in>
+            <in>ploader.c</in>
+            <in>pscan.c</in>
+            <in>psymbol.c</in>
+            <in>serial.c</in>
+            <in>thread.h</in>
+            <in>thread_posix.c</in>
+            <in>thread_windows.c</in>
+            <in>util.c</in>
+            <in>util.h</in>
+          </df>
+          <df name="loader">
+            <in>loader.c</in>
+          </df>
+          <df name="m4">
+          </df>
+          <df name="po">
+          </df>
+          <df name="test">
+            <df name="expected">
+            </df>
+            <df name="pcollections">
+              <df name="collection1">
+                <df name="plugin1">
+                </df>
+              </df>
+              <df name="collection1v2">
+                <df name="plugin1">
+                </df>
+              </df>
+              <df name="collection1v3">
+                <df name="plugin1">
+                </df>
+              </df>
+              <df name="collection2">
+                <df name="plugin2a">
+                </df>
+                <df name="plugin2b">
+                </df>
+              </df>
+              <df name="dependencies">
+                <df name="chain1">
+                </df>
+                <df name="chain2">
+                </df>
+                <df name="chain3">
+                </df>
+                <df name="chainmissingdep">
+                </df>
+                <df name="loop1">
+                </df>
+                <df name="loop2">
+                </df>
+                <df name="loop3">
+                </df>
+                <df name="loop4">
+                </df>
+                <df name="loop5">
+                </df>
+                <df name="missingdep">
+                </df>
+                <df name="sloop1">
+                </df>
+                <df name="sloop2">
+                </df>
+              </df>
+            </df>
+            <df name="plugins">
+              <df name="maximal">
+              </df>
+              <df name="minimal">
+              </df>
+            </df>
+            <df name="plugins-source">
+              <df name="callbackcounter">
+                <in>callbackcounter.c</in>
+                <in>callbackcounter.h</in>
+              </df>
+              <df name="symprovider">
+                <in>symprovider.c</in>
+              </df>
+              <df name="symuser">
+                <in>symuser.c</in>
+              </df>
+            </df>
+            <in>collections.c</in>
+            <in>cpinfo.c</in>
+            <in>extcfg.c</in>
+            <in>fatalerror.c</in>
+            <in>initdestroy.c</in>
+            <in>loggers.c</in>
+            <in>pcallbacks.c</in>
+            <in>pdependencies.c</in>
+            <in>pinstallation.c</in>
+            <in>ploading.c</in>
+            <in>pscanning.c</in>
+            <in>psymbolusage.c</in>
+            <in>test.h</in>
+            <in>testmain.c</in>
+          </df>
+          <in>config.h</in>
+        </df>
+      </df>
+      <df name="database">
+        <df name="corpus">
+          <df name="_ham_">
+          </df>
+          <df name="_spam_">
+          </df>
+        </df>
+        <df name="corpus_prueba">
+        </df>
+        <df name="eml_corpus">
+          <df name="_ham_">
+          </df>
+          <df name="_spam_">
+          </df>
+        </df>
+        <df name="eml_test">
+        </df>
+        <df name="sha1-c">
+          <in>sha.c</in>
+          <in>sha1.c</in>
+          <in>sha1.h</in>
+          <in>shatest.c</in>
+        </df>
+        <df name="txt_corpus">
+        </df>
+        <in>axllearn.c</in>
+        <in>db_utils.c</in>
+        <in>db_utils.h</in>
+        <in>learn_axl.c</in>
+        <in>learn_axl.h</in>
+        <in>learn_bayes.c</in>
+        <in>learn_bayes.h</in>
+        <in>learn_bayes_utils.c</in>
+        <in>learn_bayes_utils.h</in>
+        <in>learn_cms_bayes.c</in>
+        <in>learn_cms_bayes.h</in>
+        <in>learn_cmshunting.c</in>
+        <in>learn_cmshunting.h</in>
+        <in>learn_spam_bayes.c</in>
+        <in>learn_spam_bayes.h</in>
+        <in>learn_spamhunting.c</in>
+        <in>learn_spamhunting.h</in>
+        <in>sha1.c</in>
+        <in>sha1.h</in>
+        <in>shlearn.c</in>
+        <in>tokenize.c</in>
+        <in>tokenize.h</in>
+        <in>wblearn.c</in>
+      </df>
+      <df name="debug">
+        <df name="wb4spam_filter">
+          <in>test_parsing.c</in>
+        </df>
+        <in>caca.c</in>
+        <in>cache.c</in>
+        <in>cache.h</in>
+        <in>common_dinamic_structures.h</in>
+        <in>core.c</in>
+        <in>core.h</in>
+        <in>dictionary.c</in>
+        <in>dictionary.h</in>
+        <in>dictionary_1.h</in>
+        <in>dns_pruebas.c</in>
+        <in>eml_parser.c</in>
+        <in>eml_parser.h</in>
+        <in>eml_structure_parser.c</in>
+        <in>fileutils.c</in>
+        <in>fileutils.h</in>
+        <in>hashmap.c</in>
+        <in>hashmap.h</in>
+        <in>header_parser.c</in>
+        <in>header_parser.h</in>
+        <in>hsmap_main.c</in>
+        <in>html.c</in>
+        <in>html.h</in>
+        <in>iniparser.c</in>
+        <in>iniparser.h</in>
+        <in>linked_list.c</in>
+        <in>linked_list.h</in>
+        <in>list.h</in>
+        <in>list_files.c</in>
+        <in>list_files.h</in>
+        <in>llist.h</in>
+        <in>logger.c</in>
+        <in>logger.h</in>
+        <in>main_parser.c</in>
+        <in>main_ruleset.c</in>
+        <in>meta.c</in>
+        <in>meta.h</in>
+        <in>parse_func_args.c</in>
+        <in>parse_func_args.h</in>
+        <in>parse_func_args_1.c</in>
+        <in>parse_func_args_1.h</in>
+        <in>parser_test.c</in>
+        <in>ruleset.c</in>
+        <in>ruleset.h</in>
+        <in>rxl_plugin.c</in>
+        <in>rxl_plugin.h</in>
+        <in>schedule.c</in>
+        <in>schedule.h</in>
+        <in>spf_plugin.c</in>
+        <in>spf_plugin.h</in>
+        <in>stack.c</in>
+        <in>stack.h</in>
+        <in>string_util.c</in>
+        <in>string_util.h</in>
+        <in>vector.c</in>
+        <in>vector.h</in>
+      </df>
+      <df name="filter_old">
+      </df>
+      <df name="plugins">
+        <df name="axl_plugin">
+          <in>axl_plugin.c</in>
+        </df>
+        <df name="bayes_plugin">
+          <in>bayes_plugin.c</in>
+          <in>bayes_util.c</in>
+          <in>bayes_util.h</in>
+          <in>combinechi.c</in>
+          <in>combinechi.h</in>
+          <in>probabilities.c</in>
+          <in>probabilities.h</in>
+        </df>
+        <df name="core">
+          <in>cache.c</in>
+          <in>cache.h</in>
+          <in>common_dinamic_structures.h</in>
+          <in>core.c</in>
+          <in>core.h</in>
+          <in>core_bak.c</in>
+          <in>dictionary.c</in>
+          <in>dictionary.h</in>
+          <in>eml_domain_parser.c</in>
+          <in>eml_domain_parser.h</in>
+          <in>hashmap.c</in>
+          <in>hashmap.h</in>
+          <in>iniparser.c</in>
+          <in>iniparser.h</in>
+          <in>linked_list.c</in>
+          <in>linked_list.h</in>
+          <in>linkedhashmap.c</in>
+          <in>linkedhashmap.h</in>
+          <in>list_files.c</in>
+          <in>list_files.h</in>
+          <in>logger.c</in>
+          <in>logger.h</in>
+          <in>meta.c</in>
+          <in>meta.h</in>
+          <in>parse_func_args.c</in>
+          <in>parse_func_args.h</in>
+          <in>ruleset.c</in>
+          <in>ruleset.h</in>
+          <in>schedule.c</in>
+          <in>schedule.h</in>
+          <in>stack.c</in>
+          <in>stack.h</in>
+          <in>string_util.c</in>
+          <in>string_util.h</in>
+          <in>vector.c</in>
+          <in>vector.h</in>
+          <in>wb_system.c</in>
+          <in>wb_system.h</in>
+        </df>
+        <df name="eml_structure_parser">
+          <in>eml_parser.c</in>
+          <in>eml_parser.h</in>
+          <in>eml_structure_parser.c</in>
+          <in>header_parser.c</in>
+          <in>header_parser.h</in>
+          <in>header_parser_1.c</in>
+          <in>html.c</in>
+          <in>html.h</in>
+          <in>list.h</in>
+        </df>
+        <df name="false_plugin">
+          <in>false_plugin.c</in>
+        </df>
+        <df name="pcre_regex_plugin">
+          <in>pcre_regex_plugin.c</in>
+          <in>pcre_regex_util.c</in>
+          <in>pcre_regex_util.h</in>
+          <in>pcredemo.c</in>
+          <in>test.c</in>
+        </df>
+        <df name="preschedule_plugin">
+          <in>preschedule_plugin.c</in>
+        </df>
+        <df name="regex_plugin">
+          <in>regex_plugin.c</in>
+          <in>regex_util.c</in>
+          <in>regex_util.h</in>
+          <in>test.c</in>
+        </df>
+        <df name="rxl_plugin">
+          <in>_rxl_plugin.c</in>
+          <in>_tadns.c</in>
+          <in>_tadns.h</in>
+          <in>rxl_plugin.c</in>
+        </df>
+        <df name="spam_hunting_plugin">
+          <in>sh_plugin.c</in>
+          <in>sh_utils.c</in>
+          <in>sh_utils.h</in>
+          <in>spam_hunting_plugin.c</in>
+        </df>
+        <df name="spf_plugin">
+          <in>llist.h</in>
+          <in>spf_plugin.c</in>
+        </df>
+        <df name="txt_bayes_plugin">
+          <in>bayes_plugin.c</in>
+          <in>bayes_util.c</in>
+          <in>bayes_util.h</in>
+          <in>combinechi.c</in>
+          <in>combinechi.h</in>
+          <in>probabilities.c</in>
+          <in>probabilities.h</in>
+        </df>
+        <df name="txt_pcre_regex_plugin">
+          <in>pcre_regex_plugin.c</in>
+          <in>pcre_regex_util.c</in>
+          <in>pcre_regex_util.h</in>
+          <in>pcredemo.c</in>
+          <in>test.c</in>
+        </df>
+        <df name="txt_regex_plugin">
+          <in>regex_plugin.c</in>
+          <in>regex_util.c</in>
+          <in>regex_util.h</in>
+          <in>test.c</in>
+        </df>
+        <df name="txt_structure_parser">
+          <in>txt_parser.c</in>
+          <in>txt_parser.h</in>
+          <in>txt_structure_parser.c</in>
+        </df>
+        <df name="url_parser">
+          <in>list.h</in>
+          <in>test_parser.c</in>
+          <in>trim.h</in>
+          <in>url_parser.c</in>
+        </df>
+      </df>
+      <df name="wb4cms_filter">
+      </df>
+      <df name="wb4spam_filter">
+      </df>
+      <in>csa.c</in>
+      <in>fileutils.c</in>
+      <in>fileutils.h</in>
+      <in>wb4spamd.c</in>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <codeAssistance>
+      </codeAssistance>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+      </makefileType>
+      <item path="cpluff/share/doc/cpluff/examples/cpfile/plugins/core/core.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff/share/doc/cpluff/examples/cpfile/plugins/core/core.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff/share/doc/cpluff/examples/cpfile/plugins/extension/extension.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff/share/doc/cpluff/examples/cpfile/plugins/special/special.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/config.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/console/cmdinput_basic.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/console/cmdinput_readline.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/console/console.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/console/console.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/core/core.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/core/core.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/extension/extension.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/examples/cpfile/plugins/special/special.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/kazlib/hash.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/kazlib/hash.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/kazlib/list.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/kazlib/list.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/context.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/cpluff.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/cpluff.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/cpluffdef.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/defines.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/internal.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/logging.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/pinfo.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/pscan.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/thread.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/thread_posix.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/thread_windows.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/util.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/libcpluff/util.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/loader/loader.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/collections.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/cpinfo.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/extcfg.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/fatalerror.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/initdestroy.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/loggers.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/pcallbacks.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/pdependencies.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/pinstallation.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/ploading.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/plugins-source/callbackcounter/callbackcounter.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/plugins-source/callbackcounter/callbackcounter.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/plugins-source/symprovider/symprovider.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/plugins-source/symuser/symuser.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/pscanning.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/psymbolusage.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/test.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="cpluff_source/cpluff-0.1.3/test/testmain.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="csa.c" ex="false" tool="0" flavor2="0">
+        <cTool>
+          <incDir>
+            <pElem>plugins/core</pElem>
+            <pElem>/usr/lib</pElem>
+            <pElem>/usr/lib/include</pElem>
+            <pElem>cpluff/include</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="database/db_utils.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="database/learn_axl.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="database/learn_spamhunting.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="database/sha1-c/sha.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="database/sha1-c/sha1.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="database/sha1-c/sha1.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="database/sha1-c/shatest.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="database/sha1.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="database/tokenize.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/cache.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/core.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/dictionary.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="debug/dictionary.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/dictionary_1.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/eml_parser.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/fileutils.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="debug/fileutils.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/hashmap.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/header_parser.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/html.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="debug/html.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/iniparser.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="debug/iniparser.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/list.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/meta.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/parse_func_args.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/ruleset.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="debug/stack.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/bayes_plugin/combinechi.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/core/cache.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/core/core.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/core/linkedhashmap.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/core/logger.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="plugins/core/meta.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/core/ruleset.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/core/stack.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="plugins/core/stack.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/core/wb_system.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="plugins/core/wb_system.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/eml_structure_parser/eml_parser.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/eml_structure_parser/header_parser.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/eml_structure_parser/html.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/eml_structure_parser/list.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/pcre_regex_plugin/pcre_regex_util.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/pcre_regex_plugin/pcredemo.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="plugins/pcre_regex_plugin/test.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="plugins/spam_hunting_plugin/sh_plugin.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="plugins/spam_hunting_plugin/sh_utils.c"
+            ex="true"
+            tool="0"
+            flavor2="0">
+      </item>
+      <item path="plugins/spam_hunting_plugin/sh_utils.h"
+            ex="true"
+            tool="3"
+            flavor2="0">
+      </item>
+      <item path="plugins/spf_plugin/llist.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/url_parser/list.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="plugins/url_parser/test_parser.c" ex="true" tool="0" flavor2="0">
+      </item>
+      <item path="plugins/url_parser/trim.h" ex="true" tool="3" flavor2="0">
+      </item>
+      <item path="wb4spamd.c" ex="false" tool="0" flavor2="0">
+        <cTool>
+          <incDir>
+            <pElem>plugins/core</pElem>
+            <pElem>/usr/lib</pElem>
+            <pElem>/usr/lib/include</pElem>
+            <pElem>cpluff/include</pElem>
+          </incDir>
+        </cTool>
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

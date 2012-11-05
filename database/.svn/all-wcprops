@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/324/database
+END
+learn_bayes_utils.o
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/321/database/learn_bayes_utils.o
+END
+learn_spam_bayes.o
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/321/database/learn_spam_bayes.o
+END
+learn_axl.o
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/321/database/learn_axl.o
+END
+learn_bayes.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/296/database/learn_bayes.c
+END
+learn_bayes.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/289/database/learn_bayes.h
+END
+wblearn.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/318/database/wblearn.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/81/database/sha1.c
+END
+shlearn.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/266/database/shlearn.c
+END
+learn_cmshunting.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/306/database/learn_cmshunting.c
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/81/database/sha1.h
+END
+learn_cmshunting.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/306/database/learn_cmshunting.h
+END
+db_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/305/database/db_utils.c
+END
+db_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/305/database/db_utils.h
+END
+learn_spamhunting.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/305/database/learn_spamhunting.c
+END
+learn_spamhunting.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/305/database/learn_spamhunting.h
+END
+wb4cms_bayes.db
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/308/database/wb4cms_bayes.db
+END
+learn_cms_bayes.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/306/database/learn_cms_bayes.c
+END
+tokenize.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/318/database/tokenize.c
+END
+learn_spamhunting.o
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/323/database/learn_spamhunting.o
+END
+learn_cms_bayes.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/306/database/learn_cms_bayes.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/318/database/Makefile
+END
+tokenize.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/220/database/tokenize.h
+END
+learn_cms_bayes.o
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/321/database/learn_cms_bayes.o
+END
+learn_bayes_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/318/database/learn_bayes_utils.c
+END
+learn_spam_bayes.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/318/database/learn_spam_bayes.c
+END
+learn_axl.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/296/database/learn_axl.c
+END
+axllearn.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/271/database/axllearn.c
+END
+learn_bayes_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/306/database/learn_bayes_utils.h
+END
+learn_spam_bayes.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/306/database/learn_spam_bayes.h
+END
+learn_axl.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/307/database/learn_axl.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/96/database/README
+END

@@ -1,0 +1,67 @@
+X-Account-Key: account2
+Return-path: <bounce@mailout2.vmware.com>
+Envelope-to: ftp@uvigo.es
+Delivery-date: Wed, 24 Mar 2010 14:00:52 +0100
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <bounce@mailout2.vmware.com>)
+	id 1NuQCa-0003kb-EF
+	for ftp@uvigo.es; Wed, 24 Mar 2010 14:00:52 +0100
+Received: from niscalo.uvigo.es (antispam2.uvigo.es [193.146.32.78])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o2OD0lmj020291
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <ftp@uvigo.es>; Wed, 24 Mar 2010 14:00:51 +0100
+Received: from vhosts2.upnaway.com ([202.71.161.235] helo=vhosts2)
+	by niscalo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <bounce@marcom.vmware.com>)
+	id 1NuQ0r-0002UL-Fj
+	for ftp@uvigo.es; Wed, 24 Mar 2010 13:48:47 +0100
+Received: from cbjpft (251.220.61.214)
+	by vhosts2; Wed, 24 Mar 2010 21:00:45 +0800
+Date: Wed, 24 Mar 2010 21:00:45 +0800
+From: <bounce@mailout2.vmware.com>
+X-Mailer: The Bat! (v2.01)
+X-Priority: 3 (Normal)
+Message-ID: <7726586149.20091212235856@marcom.vmware.com>
+To: <ftp@uvigo.es>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+ boundary="----------100B6378759F6"
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on niscalo.uvigo.es
+X-Spam-Status: No, score=4.8 required=5.0 tests=BAYES_60,HTML_MESSAGE,
+	HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,RCVD_IN_SORBS_WEB,SUBJECT_NEEDS_ENCODING,
+	SUBJ_ILLEGAL_CHARS,UNPARSEABLE_RELAY autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=4.8 required=5.0 tests=BAYES_60=1,
+	HTML_MESSAGE=0.001,HTML_MIME_NO_HTML_TAG=0.097,MIME_HTML_ONLY=1.457,
+	RCVD_IN_SORBS_WEB=0.619,SUBJECT_NEEDS_ENCODING=0.001,SUBJ_ILLEGAL_CHARS=1.586,
+	UNPARSEABLE_RELAY=0.001 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: ****
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Санкт-Петербург.Системы безопасности а также Ремонт квартир и офисов
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: bounce@mailout2.vmware.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+------------100B6378759F6
+Content-Type: text/html; charset=windows-1251
+Content-Transfer-Encoding: 8bit
+
+<TABLE WIDTH="89%" BORDER="2" ALIGN="CENTER" BGCOLOR="#660033"><TR><TD BGCOLOR="#FAEBD7"><TABLE BORDER="6" CELLPADDING="9" ALIGN="CENTER" BORDERCOLOR="#FFFF00" BGCOLOR="#330033" WIDTH="100%"><TR><TD><B><FONT COLOR="#FFFF00"><FONT FACE="Verdana, Arial, Helvetica, sans-serif">-&nbsp;Пожарная&nbsp;сигнализация</FONT></FONT></B></TD><TD><B><FONT COLOR="#FFFF00"><FONT FACE="Verdana, Arial, Helvetica, sans-serif">-&nbsp;Видеонаблюдение</FONT></FONT></B></TD><TD><B><FONT COLOR="#FFFF00"><FONT FACE="Verdana, Arial, Helvetica, sans-serif">-&nbsp;Системы&nbsp;контроля&nbsp;доступа</FONT></FONT></B></TD></TR></TABLE><H4 ALIGN="CENTER"><FONT FACE="Verdana, Arial, Helvetica, sans-serif" COLOR="#FF0066">в 
+Санкт-Петербурге</FONT></H4><H4 ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" COLOR="#006666">Монтаж 
+и техническое обслуживание систем безопасности</FONT></H4><H4 ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" COLOR="#003366">пожаротушение, 
+пожарно-охранная сигнализация, системы оповещения о пожаре, системы видеонаблюдения, 
+контроля доступа</FONT><FONT COLOR="#003366">. </FONT></H4><H4 ALIGN="CENTER"><FONT COLOR="#FF0000" FACE="Arial, Helvetica, sans-serif">ЦЕЛЫЙ 
+МЕСЯЦ техобслуживания систем безопасности<BR>БЕСПЛАТНО!<BR><I>-Акция проводится 
+в период с 22 марта 2010 по 10 апреля 2010 года.</I></FONT></H4><TABLE BORDER="6" CELLPADDING="9" ALIGN="CENTER" BORDERCOLOR="#FFFF00" BGCOLOR="#330033" WIDTH="100%"><TR><TD ALIGN="CENTER"><B><FONT COLOR="#FFFF00"><FONT FACE="Verdana, Arial, Helvetica, sans-serif">-&nbsp;Ремонт 
+квартир и офисов в Санкт-Петербурге</FONT></FONT></B></TD></TR></TABLE><H4 ALIGN="CENTER"><FONT COLOR="#FF0000" FACE="Arial, Helvetica, sans-serif">РЕМОНТ 
+каждого 8го метра площади помещения БЕСПЛАТНО!<BR><I>-Акция проводится в период 
+с 22 марта 2010 по 10 апреля 2010 года.</I></FONT></H4><TABLE BORDER="6" CELLPADDING="9" ALIGN="CENTER" BORDERCOLOR="#FFFF00" BGCOLOR="#330033" WIDTH="100%"><TR><TD BGCOLOR="#330000"><CENTER><H4><B><FONT COLOR="#FFFF00"><FONT FACE="Verdana, Arial, Helvetica, sans-serif">&nbsp;Заявки 
+на осмотр объектов принимаются по телефону: <BR>(812) 591-72-00, 8-911-161-16-08</FONT></FONT></B></H4></CENTER></TD></TR></TABLE></TD></TR><TR><TD ALIGN="CENTER" BGCOLOR="#330000"><H6><FONT FACE="Arial, Helvetica, sans-serif" COLOR="#9999CC">КОГНИТИВНАЯ ЛИНГВИСТИКА ПРИНЦИП ВЗАИМОДЕЙСТВИЯ ОСНОВНЫХ ВИДОВ РЕЧЕВОЙ ДЕЯТЕЛЬНОСТИ КЛИШЕ</FONT></H6></TD></TR></TABLE>
+------------100B6378759F6--
+
+
+

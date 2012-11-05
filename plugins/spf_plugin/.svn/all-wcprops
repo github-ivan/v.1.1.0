@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/318/plugins/spf_plugin
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/44/plugins/spf_plugin/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/318/plugins/spf_plugin/Makefile
+END
+llist.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/148/plugins/spf_plugin/llist.h
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/318/plugins/spf_plugin/plugin.xml
+END
+spf_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/318/plugins/spf_plugin/spf_plugin.c
+END

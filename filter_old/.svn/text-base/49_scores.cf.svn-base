@@ -1,0 +1,9 @@
+#Required score to classify a message as spam
+required_score	3
+
+#Stop when score is greater than this value
+#This is only used when during lazy evaluation
+#This value should be greater or equal than 
+#required_score. Otherwise makes no sense
+#stop_score  -7 7
+

@@ -1,0 +1,6 @@
+plugins/core
+plugins/false_plugin
+plugins/preschedule_plugin
+plugins/eml_structure_parser
+plugins/regex_plugin
+plugins/bayes_plugin

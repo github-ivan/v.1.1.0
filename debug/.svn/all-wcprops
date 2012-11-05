@@ -1,0 +1,263 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/324/debug
+END
+eml_structure_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/320/debug/eml_structure_parser.c
+END
+header_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/324/debug/header_parser.h
+END
+dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/294/debug/dictionary.h
+END
+hashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/318/debug/hashmap.c
+END
+rxl_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/318/debug/rxl_plugin.c
+END
+ruleset.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/318/debug/ruleset.c
+END
+meta.c
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/308/debug/meta.c
+END
+hashmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/318/debug/hashmap.h
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/308/debug/core.c
+END
+ruleset.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/310/debug/ruleset.h
+END
+meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/308/debug/meta.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/318/debug/Makefile
+END
+iniparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/294/debug/iniparser.c
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/308/debug/core.h
+END
+iniparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/294/debug/iniparser.h
+END
+linked_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/318/debug/linked_list.c
+END
+config.ini
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/318/debug/config.ini
+END
+html.c
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/324/debug/html.c
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/318/debug/stack.c
+END
+spf_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/318/debug/spf_plugin.c
+END
+linked_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/318/debug/linked_list.h
+END
+html.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/324/debug/html.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/308/debug/stack.h
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/318/debug/list.h
+END
+parse_func_args_1.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/318/debug/parse_func_args_1.c
+END
+common_dinamic_structures.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/308/debug/common_dinamic_structures.h
+END
+parse_func_args_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/318/debug/parse_func_args_1.h
+END
+eml_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/325/debug/eml_parser.c
+END
+dictionary_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/308/debug/dictionary_1.h
+END
+schedule.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/318/debug/schedule.c
+END
+llist.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/318/debug/llist.h
+END
+list_files.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/318/debug/list_files.c
+END
+eml_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/324/debug/eml_parser.h
+END
+fileutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/294/debug/fileutils.c
+END
+schedule.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/308/debug/schedule.h
+END
+parse_func_args.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/308/debug/parse_func_args.c
+END
+list_files.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/308/debug/list_files.h
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/318/debug/cache.c
+END
+header_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/324/debug/header_parser.c
+END
+dictionary.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/294/debug/dictionary.c
+END
+fileutils.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/294/debug/fileutils.h
+END
+parse_func_args.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/308/debug/parse_func_args.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/318/debug/cache.h
+END

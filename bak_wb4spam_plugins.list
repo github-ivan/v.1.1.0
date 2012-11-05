@@ -1,0 +1,10 @@
+plugins/core
+plugins/false_plugin
+plugins/eml_structure_parser
+plugins/preschedule_plugin
+plugins/pcre_regex_plugin
+plugins/regex_plugin
+plugins/spf_plugin
+plugins/rxl_plugin
+plugins/bayes_plugin
+plugins/axl_plugin

@@ -1,0 +1,301 @@
+X-Account-Key: account2
+Return-path: <errors-ms1@e.locafilm.com>
+Envelope-to: pablof@uvigo.es
+Delivery-date: Mon, 14 Jun 2010 09:29:05 +0200
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1OO46S-0002LK-Se
+	for pablof@uvigo.es; Mon, 14 Jun 2010 09:29:05 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5E7T0Kc027014
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@uvigo.es>; Mon, 14 Jun 2010 09:29:04 +0200
+Received: from smtp25.e.locafilm.com ([82.138.105.225])
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1OO46M-0007Ft-90
+	for pablof@uvigo.es; Mon, 14 Jun 2010 09:29:00 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=default;
+	d=e.locafilm.com;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:list-unsubscribe:content-type;
+	bh=IPC79DzXWX4UkWlbYwdAPE1T/qAQoofA277o5H8+jIQ=;
+	b=iNoU3aBoIvtjK27INkKgIbIIsxvQJ2rB5lQH08Pq/R3rSvSuTql/xuIf4nsPWr8uQ10gFfLcAYj6Ivtw6Bjc/N7/D4ysM92+UNHO4+uvbxLqbbSGElxpz/SMZ6p9I/g2i2gF19wAbzfsy+/JlpXo6rzJcoguqcYZaQofomqVHHE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=default;
+	d=e.locafilm.com;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:List-Unsubscribe:Content-Type;
+	b=LMshfw7r3mobpC6EbDyDrtAisXIn64qYQTrDuVM07IEX7NQL55WVAqGiEmVfXSVE0MnJluh52gkVoIIndUA+O9TryUDvo3exE5xfydfEu7m9tACOM7CwKl2cnexCR+1tsWbs2tnecbgXjamIMStsH5K+aEF5U4ziIzwUjxlUXOY=
+From: "IPS" <pedritoelfisgon@e.locafilm.com>
+Date: Mon, 14 Jun 2010 09:28:48 +0200
+To: <pablof@uvigo.es>
+Reply-To: =?windows-1252?Q?Ne_pas_R=E9pondre?= <pedritoelfisgon@e.locafilm.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 5.10.5642
+Message-ID: <NMID-104-291347638-21415702-AA==@ms1_locafilm>
+List-Unsubscribe: <http://w.e.locafilm.com/webApp/unsub?id=49L68dkVb4ObdroBToU
+	saQofoy1TPyLr%2FxJCVCACAA%3D%3D>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_280_1E8CC64A.1E8CC64A"
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=-2.4 required=5.0 tests=BAYES_00,HTML_IMAGE_RATIO_04,
+	HTML_MESSAGE,SPF_PASS autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=-2.4 required=5.0 tests=BAYES_00=-2.599,
+	HTML_IMAGE_RATIO_04=0.172,HTML_MESSAGE=0.001,SPF_PASS=-0.001 autolearn=no
+	version=3.2.5
+X-Spam-UVIGO-Level: 
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: =?windows-1252?Q?Con_tu_Diploma_en_Nutrici=F3n_y_Diet=E9tica_aprende_a_vivir_sanamente.?=
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: errors-ms1@e.locafilm.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_280_1E8CC64A.1E8CC64A
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: 8bit
+
+Si no puede leer este mensaje, consulte la versión en línea Gracias.  
+
+Para asegurarse de que recibe correctamente nuestros correos,
+añada la dirección pedritoelfisgon@e.locafilm.com en su agenda de direcciones. Gracias.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra,
+basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página.
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+Curso practico de nutricion y dieteticaObtén tu Diploma en Nutrición y Dietética avalado por la Sociedad Española de Dietética y Ciencias de la Alimentación.   - Desde casa y con tus propios horarios - Dedicándole 1 hora al día y en tan sólo 6 meses  - No son necesarios conocimientos previos  - Profesor-tutor que resolverá todas tus dudas     - Incluye un programa informático para la elaboración de Dietas    - Bolsa de Trabajo IPS exclusivaHaz clic aqui Solicita informacion sin compromisohttp://scripts.affiliatefuture.com/AFClick.asp?affiliateID=139211&merchantID=3130&programmeID=8129&mediaID=0&tracking=&url=
+
+De acuerdo con la ley sobre informática y libertades, puede darse de baja en cualquier momento.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra, basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página. 
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+------=_NextPart_280_1E8CC64A.1E8CC64A
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+</HEAD>
+<BODY>
+<P><FONT style=3D"FONT-SIZE: 12px; FONT-FAMILY: courier new" 
+color=3D#008080 neolane=3D"internalForJS"><center>
+  <table width=3D'600' align=3D"center">
+    <tr>
+    <td bgcolor=3D"#A6A6A6" height=3D'40'>
+        <center>
+        <FONT COLOR=3D'#FFFFFF' STYLE=3D'font-family: Verdana;font-size: 10=
+px;'>
+    <FONT COLOR=3D'#333333' STYLE=3D'font-family: Verdana;font-size: 11px; =
+'>Si no puede leer este mensaje, 
+       <a href=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3b7aa8c1,1bb37a78,1c1a=
+1782&p1=3Da559ce8f402cf2b581" _label=3D"Page miroir" _type=3D"mirrorPage" s=
+tyle=3D"color:#333;"><span style=3D"color:#333;">consulte la versi=F3n en l=
+=EDnea Gracias</span></a><br/></FONT><br/>Pedrito el Fisgon le propone desc=
+ubrir la oferta m=E1s abajo</b></font><br>
+    <font style=3D"font-family: Verdana; font-size: 11px;" color=3D"#d6346d=
+"><b> Aprende cursos practicos de nutricion y dietetica, </b><a href=3D"htt=
+p://t.e.locafilm.com/r/=3Fid=3Dh3b7aa8c1,1bb37a78,1c1a1783">Siga este lazo<=
+/a><br><div align=3Dcenter><FONT face=3DArial color=3D#000000 size=3D2>Si y=
+a no desea recibir ofertas comerciales de nuestra parte, por favor entre aq=
+u=ED,<BR/><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3b7aa8c1,1bb37a78,1=
+c1a1784&p1=3D49L68dkVb4ObdroBToUsaQofoy1TPyLr%2FxJCVCACAA%3D%3D" _type=3D"o=
+ptout" _label=3D"Lien de d=E9sinscription">Entre en esta p=E1gina.</A></FON=
+T></div>
+</font>
+    </center></td></tr></table>
+    </center></FONT></P>
+<P><div align=3D"center"><table border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0" width=3D"600">      <tr>      <td height=3D"240">      <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">                  =
+<tr>            <td valign=3D"bottom">            <table border=3D"0" cellp=
+adding=3D"0" cellspacing=3D"0" width=3D"1">                              <t=
+r>                  <td>                  <div align=3D"center">           =
+       <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"453=
+">                                          <tr>                        <td=
+>                        <div align=3D"left"><a style=3D"text-decoration: n=
+one; color: rgb(0, 0, 0);" href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3b7aa=
+8c1,1bb37a78,1c1a1783"><span style=3D"font-family: geneva,sans-serif; font-=
+size: 33px; color: rgb(104, 194, 3);">Curso Pr&aacute;ctico<strong><br />  =
+                       </strong></span><span style=3D"font-family: geneva,s=
+ans-serif; font-size: 43px; color: rgb(58, 108, 2);"><strong>Nutrici&oacute=
+;n y Diet&eacute;tica</strong></span><br />                         </a></d=
+iv>                        </td>                      </tr>                =
+                      </table>                  </div>                  </t=
+d>                </tr>                <tr>                  <td height=3D"=
+141" valign=3D"bottom"><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3b7aa8=
+c1,1bb37a78,1c1a1785"><img src=3D"http://img.potejack.com/ES/nutricion_AP/t=
+op2NUTESmail.jpg" alt=3D"imagen de frutas y verduras" border=3D"0" height=
+=3D"141" width=3D"474" /></a></td>                </tr>                    =
+      </table>            </td>            <td valign=3D"bottom"><a href=3D=
+"http://t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a1786"><img src=3D=
+"http://img.potejack.com/ES/nutricion_AP/top1NUTESmail.jpg" alt=3D"imagen d=
+e verduras" border=3D"0" height=3D"240" width=3D"126" /></a></td>          =
+</tr>              </table>      </td>    </tr>    <tr>      <td bgcolor=3D=
+"#daf4c6" height=3D"61">      <div align=3D"center">      <table border=3D"=
+0" cellpadding=3D"0" cellspacing=3D"0" width=3D"579">                <tr>  =
+          <td>            <div align=3D"justify"><a style=3D"text-decoratio=
+n: none; color: rgb(255, 255, 255);" href=3D"http://t.e.locafilm.com/r/=3Fi=
+d=3Do3b7aa8c1,1bb37a78,1c1a1787"><span style=3D"font-family: Geneva; font-s=
+ize: 19px; color: rgb(0, 0, 0);">Obt&eacute;n tu </span><span  style=3D"fon=
+t-family: Geneva; font-size: 22px; color: rgb(0, 0, 0);"><strong>Diploma en=
+ Nutrici&oacute;n y Diet&eacute;tica</strong></span>             <span styl=
+e=3D"font-family: Geneva; font-size: 19px; color: rgb(0, 0, 0);">avalado po=
+r la Sociedad Espa&ntilde;ola de Diet&eacute;tica y Ciencias de la Alimenta=
+ci&oacute;n</span></a>.</div>             </td>          </tr>             =
+ </table>      </div>      </td>    </tr>    <tr>      <td>      <table bor=
+der=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"600">               =
+   <tr>            <td width=3D"225"><a href=3D"http://t.e.locafilm.com/r/=
+=3Fid=3Do3b7aa8c1,1bb37a78,1c1a1788"><img src=3D"http://img.potejack.com/ES=
+/nutricion_AP/platNUTESmail.jpg" alt=3D"plato de verduras" border=3D"0" hei=
+ght=3D"399" width=3D"225" /></a></td>            <td valign=3D"bottom">    =
+        <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"37=
+5">                              <tr>                  <td height=3D"267"> =
+                 <div align=3D"left">                  <table border=3D"0" =
+cellpadding=3D"0" cellspacing=3D"0">                                       =
+   <tr>                        <td valign=3D"top" width=3D"25">            =
+            <div align=3D"center"><a href=3D"http://t.e.locafilm.com/r/=3Fi=
+d=3Do3b7aa8c1,1bb37a78,1c1a1789"><img src=3D"http://img.potejack.com/ES/nut=
+ricion_AP/bolaNUTESmail.gif" alt=3D"imagen de bolas uno" border=3D"0" heigh=
+t=3D"16" width=3D"16" /></a></div>                        </td>            =
+            <td>                        <div align=3D"left"><a style=3D"tex=
+t-decoration: none; color: rgb(255, 255, 255);" href=3D"http://t.e.locafilm=
+=2Ecom/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a178a"><span style=3D"font-family: =
+Geneva; font-size: 14px; color: rgb(58, 108, 2);"><strong>Desde casa y con =
+tus propios horarios </strong></span></a></div>                         </t=
+d>                      </tr>                                      </table>=
+                  <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0"> =
+                                         <tr>                        <td va=
+lign=3D"top">&nbsp;</td>                        <td>&nbsp;</td>            =
+          </tr>                      <tr>                        <td valign=
+=3D"top" width=3D"25">                        <div align=3D"center"><a href=
+=3D"http://t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a178b"><img src=
+=3D"http://img.potejack.com/ES/nutricion_AP/bolaNUTESmail.gif" alt=3D"image=
+n de bolas dos" border=3D"0" height=3D"16" width=3D"16" /></a></div>       =
+                 </td>                        <td>                        <=
+div align=3D"left"><a style=3D"text-decoration: none; color: rgb(255, 255, =
+255);" href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a178=
+c"><span style=3D"font-family: Geneva; font-size: 14px; color: rgb(0, 0, 0)=
+;">Dedic&aacute;ndole                          </span><span style=3D"font-f=
+amily: Geneva; font-size: 14px; color: rgb(58, 108, 2);"><strong>1 hora</st=
+rong></span> <span  style=3D"font-family: Geneva; font-size: 14px; color: r=
+gb(0, 0, 0);">al d&iacute;a y en tan s&oacute;lo</span><span  style=3D"font=
+-family: Geneva; font-size: 14px; color: rgb(58, 108, 2);"><strong> 6 meses=
+ </strong></span></a></div>                         </td>                  =
+    </tr>                                      </table>                  <t=
+able border=3D"0" cellpadding=3D"0" cellspacing=3D"0">                     =
+                     <tr>                        <td valign=3D"top">&nbsp;<=
+/td>                        <td>&nbsp;</td>                       </tr>    =
+                  <tr>                        <td valign=3D"top" width=3D"2=
+5">                        <div align=3D"center"><a href=3D"http://t.e.loca=
+film.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a178d"><img src=3D"http://img.pote=
+jack.com/ES/nutricion_AP/bolaNUTESmail.gif" alt=3D"imagen de bolas tres" bo=
+rder=3D"0" height=3D"16" width=3D"16" /></a></div>                        <=
+/td>                        <td>                        <div align=3D"left"=
+><a style=3D"text-decoration: none; color: rgb(255, 255, 255);" href=3D"htt=
+p://t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a178e"><span style=3D"=
+font-family: Geneva; font-size: 14px; color: rgb(58, 108, 2);"><strong>No <=
+/strong></span>                         <span style=3D"font-family: Geneva;=
+ font-size: 14px; color: rgb(0, 0, 0);">son necesarios</span><span   style=
+=3D"font-family: Geneva; font-size: 14px; color: rgb(58, 108, 2);"><strong>=
+ conocimientos previos</strong></span></a></div>                         </=
+td>                      </tr>                    </table>                 =
+ <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0">                  =
+                        <tr>                        <td valign=3D"top">&nbs=
+p;</td>                        <td>&nbsp;</td>                       </tr> =
+                     <tr>                        <td valign=3D"top" width=
+=3D"25">                        <div align=3D"center"><a href=3D"http://t.e=
+=2Elocafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a178f"><img src=3D"http://=
+img.potejack.com/ES/nutricion_AP/bolaNUTESmail.gif" alt=3D"imagen de bolas =
+cuatro" border=3D"0" height=3D"16" width=3D"16" /></a></div>               =
+         </td>                        <td>                        <div alig=
+n=3D"left"><a style=3D"text-decoration: none; color: rgb(255, 255, 255);" h=
+ref=3D"http://t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a1790"><span=
+ style=3D"font-family: Geneva; font-size: 14px; color: rgb(58, 108, 2);"><s=
+trong>Profesor-tutor</strong></span>                         <span style=3D=
+"font-family: Geneva; font-size: 14px; color: rgb(0, 0, 0);">que resolver&a=
+acute; todas tus dudas<br />                         </span></a></div>     =
+                   </td>                      </tr>                        =
+              </table>                  <table border=3D"0" cellpadding=3D"=
+0" cellspacing=3D"0" width=3D"298">                                        =
+  <tr>                        <td valign=3D"top">&nbsp;</td>               =
+         <td width=3D"273">&nbsp;</td>                      </tr>          =
+            <tr>                        <td valign=3D"top" width=3D"25">   =
+                     <div align=3D"center"><a href=3D"http://t.e.locafilm.c=
+om/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a1791"><img src=3D"http://img.potejack.c=
+om/ES/nutricion_AP/bolaNUTESmail.gif" alt=3D"imagen de bolas cinco" border=
+=3D"0" height=3D"16" width=3D"16" /></a></div>                        </td>=
+                        <td>                        <div align=3D"left"><a =
+style=3D"text-decoration: none; color: rgb(255, 255, 255);" href=3D"http://=
+t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c1a1792"><span style=3D"font=
+-family: Geneva; font-size: 14px; color: rgb(0, 0, 0);">Incluye un programa=
+ inform&aacute;tico para la elaboraci&oacute;n de Dietas </span></a></div> =
+                        </td>                      </tr>                   =
+            </table>                  <table border=3D"0" cellpadding=3D"0"=
+ cellspacing=3D"0">                                          <tr>          =
+              <td valign=3D"top">&nbsp;</td>                        <td>&nb=
+sp;</td>                       </tr>                      <tr>             =
+           <td valign=3D"top" width=3D"25">                        <div ali=
+gn=3D"center"><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a=
+78,1c1a1793"><img src=3D"http://img.potejack.com/ES/nutricion_AP/bolaNUTESm=
+ail.gif" alt=3D"imagen de bolas seis" border=3D"0" height=3D"16" width=3D"1=
+6" /></a></div>                        </td>                        <td>   =
+                     <div align=3D"left"><a style=3D"text-decoration: none;=
+ color: rgb(255, 255, 255);" href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3b7=
+aa8c1,1bb37a78,1c1a1794"><span style=3D"font-family: Geneva; font-size: 14p=
+x; color: rgb(58, 108, 2);"><strong>Bolsa de Trabajo IPS</strong></span> <s=
+pan  style=3D"font-family: Geneva; font-size: 14px; color: rgb(0, 0, 0);"> =
+exclusiva<br />                         </span></a></div>                  =
+      </td>                      </tr>                                     =
+ </table>                  </div>                  </td>                </t=
+r>                <tr>                  <td alt=3D"imagen de background" ba=
+ckground=3D"http://img.potejack.com/ES/nutricion_AP/butongaNUTESmail.jpg" b=
+gcolor=3D"#5f8731" height=3D"132">                  <div align=3D"left">   =
+               <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" widt=
+h=3D"304">                                          <tr>                   =
+     <td style=3D"margin: 0px; font-family: Geneva; font-size: 35px; color:=
+ rgb(255, 255, 255); text-align: center;" height=3D"86">                   =
+     <div align=3D"center"><span><a style=3D"text-decoration: none; color: =
+rgb(255, 255, 255);" href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1b=
+b37a78,1c1a1795"><strong>HAZ CLIC AQU&Iacute;</strong><br />               =
+          <span style=3D"font-family: Geneva; font-size: 13px; color: rgb(0=
+, 0, 0); text-align: center;"><strong>Solicita Informaci&oacute;n sin compr=
+omiso</strong></span></a></span></div>                         </td>       =
+              </tr>                                 </table>               =
+   </div>                  </td>                </tr>                      =
+   </table>            </td>         </tr>         </table>      </td>    <=
+/tr>  </table></div></P>
+<P><FONT face=3D"Courier New" color=3D#008080 size=3D2><br/><DIV align=3Dce=
+nter><FONT face=3DArial color=3D#000000 size=3D2>De acuerdo con nuestros da=
+tos, usted registr=F3 la direcci=F3n &nbsp;<FONT face=3D"Courier New" color=
+=3D#008080 size=3D2>pablof@uvigo.es</FONT> cuando se dio de alta en nuestro=
+ sitio web.</FONT><BR/><br/><FONT face=3D"Courier New" color=3D#008080 size=
+=3D2><div align=3Dcenter><FONT face=3DArial color=3D#000000 size=3D2>Si ya =
+no desea recibir ofertas comerciales de nuestra parte, por favor entre aqu=
+=ED,<BR/><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1c=
+1a1797&p1=3D49L68dkVb4ObdroBToUsaQofoy1TPyLr%2FxJCVCACAA%3D%3D" _type=3D"op=
+tout" _label=3D"Lien de d=E9sinscription">Entre en esta p=E1gina.</A></FONT=
+></div>
+</FONT></DIV></FONT></P><img height=3D'0' width=3D'0' alt=3D'' src=3D'http:=
+//t.e.locafilm.com/r/=3Fid=3Do3b7aa8c1,1bb37a78,1'/></BODY></HTML>
+
+------=_NextPart_280_1E8CC64A.1E8CC64A--
+
+

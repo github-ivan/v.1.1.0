@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 24
+/svn/!svn/ver/298/filter
+END
+12_meta.cf
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/258/filter/12_meta.cf
+END
+49_scores.cf
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/259/filter/49_scores.cf
+END
+25_spf.cf
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/256/filter/25_spf.cf
+END
+51_domains.cf
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/240/filter/51_domains.cf
+END
+15_spamhunting.cf
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/293/filter/15_spamhunting.cf
+END
+50_scores.cf
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/270/filter/50_scores.cf
+END
+10_bayes.cf
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/298/filter/10_bayes.cf
+END
+11_axl.cf
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/273/filter/11_axl.cf
+END
+20_drugs.cf
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/259/filter/20_drugs.cf
+END
+30_rwl.cf
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/244/filter/30_rwl.cf
+END

@@ -1,0 +1,7 @@
+plugins/core
+plugins/preschedule_plugin
+plugins/false_plugin
+plugins/txt_structure_parser
+plugins/txt_pcre_regex_plugin
+plugins/txt_regex_plugin
+plugins/txt_bayes_plugin

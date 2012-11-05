@@ -1,0 +1,5 @@
+header SPF_PASS spf_pass()
+describe SPF_PASS If message pass the spf
+
+header SPF_PASS_3 spf_pass(3)
+describre SPF_PASS_3 If third header of email pass the spf

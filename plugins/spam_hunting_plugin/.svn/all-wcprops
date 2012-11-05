@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/318/plugins/spam_hunting_plugin
+END
+sh_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/292/plugins/spam_hunting_plugin/sh_utils.c
+END
+spam_hunting_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/303/plugins/spam_hunting_plugin/spam_hunting_plugin.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/271/plugins/spam_hunting_plugin/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/318/plugins/spam_hunting_plugin/plugin.xml
+END
+sh_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/292/plugins/spam_hunting_plugin/sh_utils.h
+END
+sh_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/231/plugins/spam_hunting_plugin/sh_plugin.c
+END

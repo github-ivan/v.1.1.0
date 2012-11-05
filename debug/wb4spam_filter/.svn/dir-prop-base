@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 255
+.20_drugs.cf.swp
+.bayes.cf.swp
+.50_scores.cf.swp
+.spf.cf.swp
+.rxl.cf.swp
+.30_rwl.cf.swp
+.51_domains.cf.swp
+.15_spamhunting.cf.swp
+.11_awl.cf.swp
+.10_bayes.cf.swp
+.12_meta.cf.swp
+.25_spf.cf.swp
+.49_scores.cf.swp
+.11_axl.cf.swp
+.test_filter.cf.swp
+.tes.swp
+
+K 13
+svn:mergeinfo
+V 0
+
+END

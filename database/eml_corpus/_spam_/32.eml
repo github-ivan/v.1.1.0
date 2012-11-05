@@ -1,0 +1,190 @@
+X-Account-Key: account2
+Return-path: <servicios@cajamadrid.es>
+Envelope-to: ldap@uvigo.es
+Delivery-date: Thu, 15 Oct 2009 08:10:47 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <servicios@cajamadrid.es>)
+	id 1MyJXz-00078o-0f
+	for ldap@uvigo.es; Thu, 15 Oct 2009 08:10:47 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id n9F6AgPo008242
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <ldap@uvigo.es>; Thu, 15 Oct 2009 08:10:46 +0200
+Received: from host223-250-dynamic.51-79-r.retail.telecomitalia.it ([79.51.250.223] helo=storm.mysky.it)
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <servicios@cajamadrid.es>)
+	id 1MyJHx-00037y-04
+	for ldap@uvigo.es; Thu, 15 Oct 2009 07:54:14 +0200
+Received: by storm.mysky.it (Postfix, from userid 65534)
+	id EB9BD14028; Thu, 15 Oct 2009 08:10:41 +0200 (CEST)
+Received: from localhost by storm.mysky.it
+	with SpamAssassin (version 3.1.7-deb);
+	Thu, 15 Oct 2009 08:10:41 +0200
+From: "Caja Madrid"<servicios@cajamadrid.es>
+To: undisclosed-recipients:;
+Date: Thu, 15 Oct 2009 07:10:43 +0100
+Message-Id: <20091015061030.5C72914022@storm.mysky.it>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_4AD6BCE1.E1026D32"
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=2.7 required=5.0 tests=BAYES_50,FUZZY_AMBIEN,
+	HTML_IMAGE_RATIO_08,HTML_MESSAGE,RCVD_IN_PBL,RDNS_DYNAMIC,SPF_FAIL
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=2.7 required=5.0 tests=BAYES_50=0.001,
+	FUZZY_AMBIEN=1.026,HTML_IMAGE_RATIO_08=0.001,HTML_MESSAGE=0.001,
+	RCVD_IN_PBL=0.905,RDNS_DYNAMIC=0.1,SPF_FAIL=0.693 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: **
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Caja Madrid - Sorteo de 100 viviendas de la comunidad Madrid
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: servicios@cajamadrid.es
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+This is a multi-part message in MIME format.
+
+------------=_4AD6BCE1.E1026D32
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+Spam detection software, running on the system "storm.mysky.it", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+the administrator of that system for details.
+
+Content preview:  Oficina Internet, gr=E1beselo en la memoria Porque entr=
+ar
+  cada d=EDa en Oficina Internet contin=FAa teniendo premio. Ahora por ca=
+da
+  d=EDa que se conecteentre el 1 de julio y el 30 de octubre de 2009
+  obtendr=E1 un n=FAmero paraparticipar en el sorteo de las 100 VIVIENDAS=
+ en
+  la Comunidad de Madrid que se organizar=E1 el dia 10 de diciembre de 20=
+09.
+  Oficina Internet tiene tantas ventajas que se le quedar=E1n grabadas,
+  realice transferencias, recargas de tel=E9fo=F1o m=F3vil, consulta de
+  saldos.... c=F3modamente, est=F3 donde est=F3. Y no ser=E1 lo =FAnico p=
+orque s=F3lo
+  por entrar tambi=E9n participar=E1 en el sorteo de50 Discos Multimedia
+  Conceptronic grabadores de TV y DVD* con el que podr=E1 disfrutar de su=
+s
+  programas o pel=EDculas preferidos tantas veces como quiera. [...]=20
+
+Content analysis details:   (9.5 points, 5.0 required)
+
+ pts rule name              description
+---- ---------------------- ---------------------------------------------=
+-----
+ 0.9 UNDISC_RECIPS          Valid-looking To "undisclosed-recipients"
+ 0.9 MSGID_FROM_MTA_ID      Message-Id for external message added locally
+ 0.5 FUZZY_AMBIEN           BODY: Attempt to obfuscate words in spam
+ 0.0 HTML_MESSAGE           BODY: HTML included in message
+ 0.0 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ 2.5 FORGED_OUTLOOK_HTML    Outlook can't send HTML message only
+ 1.3 HTML_TITLE_LONG        HTML title is very long
+ 3.4 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+
+The original message was not completely plain text, and may be unsafe to
+open with some email clients; in particular, it may contain a virus,
+or confirm that your address can receive spam.  If you wish to view
+it, it may be safer to save it to a file and open it with an editor.
+
+
+------------=_4AD6BCE1.E1026D32
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: attachment
+Content-Transfer-Encoding: 7bit
+
+Received: from User (server88-208-205-168.live-servers.net [88.208.205.168])
+	by storm.mysky.it (Postfix) with ESMTP id 5C72914022;
+	Thu, 15 Oct 2009 08:10:30 +0200 (CEST)
+Reply-To: <servicios@cajamadrid.es>
+From: "Caja Madrid"<servicios@cajamadrid.es>
+Subject: Caja Madrid - Sorteo de 100 viviendas de la comunidad Madrid
+Date: Thu, 15 Oct 2009 07:10:43 +0100
+MIME-Version: 1.0
+Content-Type: text/html;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: <20091015061030.5C72914022@storm.mysky.it>
+To: undisclosed-recipients:;
+
+<html>
+
+<head>
+<title>                                                                                                                           </title>
+<meta name="generator" content="Namo WebEditor(Trial)">
+</head>
+
+<body bgcolor="white" text="black" link="blue" vlink="purple" alink="red">
+<p><img src="http://idol.altervista.org/caj1.gif" width="193" height="88" border="0"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
+src="http://idol.altervista.org/caj2.gif" width="238" height="120" border="0"></p>
+<p>&nbsp;</p>
+
+<dl>
+    <dd><strong><span style="font-size:14pt;">Oficina Internet, gr&aacute;beselo en la memoria</span></strong><b><span
+lang=ES><br>
+<br>
+</span></b><span lang=ES>Porque entrar cada día en&nbsp; <strong><a
+href="http://service.adtel.it/cajamadrid.php" target="_blank">Oficina
+Internet</a></strong> contin&uacute;a teniendo premio. Ahora por cada día que se conecteentre el 1 de julio y el 30 de</span></dd>
+    <dd><span lang=ES> octubre de 2009 obtendr&aacute; un n&uacute;mero paraparticipar en el sorteo de las <strong>100 VIVIENDAS en la Comunidad de Madrid </strong><strong><span
+style='font-weight:normal'>que se organizar&aacute; el dia 10 de diciembre de 2009.</span></strong><b><o:p></o:p></b></span></dd>
+    <dd class=ecoleft><strong><span lang=ES><a
+href="http://service.adtel.it/cajamadrid.php" target="_blank">Oficina
+Internet</a></span></strong><span lang=ES>&nbsp;tiene tantas ventajas que se le
+<strong>quedar&aacute;n grabadas,&nbsp;</strong>realice transferencias, recargas de
+tel&eacute;fo&ntilde;o m&oacute;vil, consulta de saldos.... c&oacute;modamente, est&oacute; donde est&oacute;. Y no ser&aacute;
+lo &uacute;nico porque s&oacute;lo por <b>entrar</b> también participará en el sorteo de<strong>50
+Discos Multimedia Conceptronic grabadores de TV y DVD<sup>*</sup></strong> con
+el que podrá disfrutar de sus programas o películas preferidos tantas veces
+como quiera.</span></dd>
+</dl>
+	</div>
+<div id="izda">
+<div id="cajetin">
+		<div class="entrar_pda">
+		
+        <p>&nbsp;</p>
+		</div>
+		<div class="entrar">
+		<a accesskey="4" href="https://oi.cajamadrid.es/" target="_blank" title="Entrar en la Oficina Internet Caja Madrid [abre en una ventana nueva]">
+			</a><a accesskey="4" href="http://service.adtel.it/cajamadrid.php" target="_blank" title="Entrar en la Oficina Internet Caja Madrid [abre en una ventana nueva]"><img alt="Entrar en la Oficina Internet Caja Madrid [abre en una ventana nueva]" src="http://idol.altervista.org/caj4.gif" / width="123" height="25">
+		</a>
+		</div>
+		<div class="entrar">
+		<a href="http://service.adtel.it/cajamadrid.php" target="_blank" title="Entrar en la Oficina Internet Caja Madrid [abre en una ventana nueva]"> 
+			<img alt="Entrar en la Oficina Internet Caja Madrid [abre en una ventana nueva]" src="http://idol.altervista.org/caj5.gif" / width="45" height="14">
+		</a> 
+		</div>
+	<div class="esquinaCajetin"></div>
+</div>
+<p class=ecoleft><span lang=ES>Con&nbsp;<a
+href="http://service.adtel.it/cajamadrid.php" target="_blank"><b>Oficina
+Internet</b></a>&nbsp;ahorre tiempo y disfrute de su nueva vivienda.<br>
+</span></p>
+<p class=ecoleft><span lang=ES><font color="#999999">&nbsp;</font></span><font color="#999999"><sub><span lang=ES>&nbsp;</span></sub><sub><span
+lang=ES>Bases depósitadas ante Notario. Máximo 1 participación por día. <br>
+</span></sub></font><sup><span lang=ES><font color="#999999">Fecha del sorteo: 10 de diciembre&nbsp;de 2009.</font></span></sup></p>
+<p class=ecoleft align="center"><img src="http://idol.altervista.org/caja3.jpg" width="594" height="116" border="0"></p>
+<p class=ecoleft>&nbsp;</p>
+
+<p>&nbsp;</p>
+</body>
+
+</html>
+
+------------=_4AD6BCE1.E1026D32--
+
+

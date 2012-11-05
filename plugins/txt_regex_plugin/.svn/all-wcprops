@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/318/plugins/txt_regex_plugin
+END
+regex_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/312/plugins/txt_regex_plugin/regex_util.c
+END
+regex_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/312/plugins/txt_regex_plugin/regex_plugin.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/312/plugins/txt_regex_plugin/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/318/plugins/txt_regex_plugin/plugin.xml
+END
+regex_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/312/plugins/txt_regex_plugin/regex_util.h
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/312/plugins/txt_regex_plugin/test.c
+END

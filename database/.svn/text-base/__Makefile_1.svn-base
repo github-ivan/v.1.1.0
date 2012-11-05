@@ -1,0 +1,63 @@
+#	LICENSING
+#
+#       This file is part of WireBrush for Spam project (WB4Spam).
+#
+#       WB4Spam: An ANSI C is an open source, highly extensible, high performance and 
+#       multithread spam filtering platform. It takes concepts from SpamAssassin project
+#       improving distinct issues.
+#
+#       Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+#
+#       Wirebrush for Spam is free software; you can redistribute it and/or
+#       modify it under the terms of the GNU Lesser General Public License as
+#       published by the Free Software Foundation; either version 3 of the
+#       License, or (at your option) any later version.
+#
+#       Wirebrush for Spam is distributed in the hope that it will be useful,
+#       but WITHOUT ANY WARRANTY; without even the implied warranty of
+#       MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+#       General Public License for more details.
+#
+#       You should have received a copy of the GNU Lesser General Public License
+#       along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+CC=gcc -g -O3 -fPIC 
+CFLAGS=-c -Wall
+OPTS=-Wall -Icpluff/include -I/usr/lib -I/usr/lib/include -Lcpluff/lib -L/usr/lib -L/lib -Iplugins/core -Lplugins/core
+LIBS=-lcpluff -lexpat -lpthread -ldl -lutils
+all : libfileutils.a wb4spamd wb4spam
+
+wb4spam : wb4spam.o fileutils.o
+	$(CC) $(OPTS) fileutils.o wb4spam.o -o wb4spam $(LIBS) 
+	cp wb4spam wb4cms
+
+wb4spam.o : 
+	$(CC) $(OPTS) $(LIBS) -c csa.c -o wb4spam.o
+
+#wb4spamd2 : wb4spamd2.o fileutils.o
+#	$(CC) $(OPTS) fileutils.o wb4spamd2.o -o wb4spam2 $(LIBS)
+	
+#wb4spamd2.o:
+#	$(CC) $(OPTS) $(LIBS) $(CFLAGS) wb4spamd.c -o wb4spamd.o
+	
+wb4spamd : wb4spamd.o fileutils.o
+	$(CC) $(OPTS) $(LIBS)  fileutils.o wb4spamd.o -o wb4spamd $(LIBS)
+	bash -c "cp wb4spamd wb4cmsd"
+
+wb4spamd.o : 
+	$(CC) $(OPTS) $(LIBS) $(CFLAGS) wb4spamd.c -o wb4spamd.o
+
+clean: 
+	rm *.o *.a wb4spamd wb4cmsd wb4spam wb4cms
+
+libfileutils.a: fileutils.o
+	ar rcs libfileutils.a fileutils.o
+
+fileutils.o:
+	$(CC) $(CFLAGS) fileutils.c -o fileutils.o
+
+updateldcache: 
+	if test "$(cat /etc/ld.so.conf.d/* | grep "cpluff")" = "" ; then \
+	  echo "`pwd`/cpluff/lib" > /etc/ld.so.conf.d/cpluff.conf ;\
+	fi
+	ldconfig

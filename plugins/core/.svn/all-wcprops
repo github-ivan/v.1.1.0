@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/324/plugins/core
+END
+schedule.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/318/plugins/core/schedule.c
+END
+iniparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/318/plugins/core/iniparser.c
+END
+list_files.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/318/plugins/core/list_files.c
+END
+schedule.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/259/plugins/core/schedule.h
+END
+iniparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/206/plugins/core/iniparser.h
+END
+linked_list.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/318/plugins/core/linked_list.c
+END
+list_files.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/56/plugins/core/list_files.h
+END
+string_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/323/plugins/core/string_util.c
+END
+dictionary.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/294/plugins/core/dictionary.c
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/281/plugins/core/stack.c
+END
+linked_list.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/256/plugins/core/linked_list.h
+END
+string_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/323/plugins/core/string_util.h
+END
+stack.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/217/plugins/core/stack.h
+END
+dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/211/plugins/core/dictionary.h
+END
+wb_system.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/226/plugins/core/wb_system.c
+END
+eventhandlers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/301/plugins/core/eventhandlers.xsd
+END
+logger.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/295/plugins/core/logger.c
+END
+wb_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/226/plugins/core/wb_system.h
+END
+common_dinamic_structures.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/256/plugins/core/common_dinamic_structures.h
+END
+functions.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/35/plugins/core/functions.xsd
+END
+logger.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/55/plugins/core/logger.h
+END
+meta.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/310/plugins/core/meta.c
+END
+core.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/324/plugins/core/core.c
+END
+parsers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/317/plugins/core/parsers.xsd
+END
+meta.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/308/plugins/core/meta.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/318/plugins/core/Makefile
+END
+core.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/318/plugins/core/core.h
+END
+parse_func_args.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/195/plugins/core/parse_func_args.c
+END
+vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/313/plugins/core/vector.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/318/plugins/core/cache.c
+END
+core_bak.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/319/plugins/core/core_bak.c
+END
+parse_func_args.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/195/plugins/core/parse_func_args.h
+END
+vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/313/plugins/core/vector.h
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/318/plugins/core/cache.h
+END
+linkedhashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/238/plugins/core/linkedhashmap.c
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/318/plugins/core/plugin.xml
+END
+linkedhashmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/238/plugins/core/linkedhashmap.h
+END
+eml_domain_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/303/plugins/core/eml_domain_parser.c
+END
+hashmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/318/plugins/core/hashmap.c
+END
+ruleset.c
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/319/plugins/core/ruleset.c
+END
+preschedulers.xsd
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/301/plugins/core/preschedulers.xsd
+END
+eml_domain_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/303/plugins/core/eml_domain_parser.h
+END
+hashmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/318/plugins/core/hashmap.h
+END
+ruleset.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/318/plugins/core/ruleset.h
+END

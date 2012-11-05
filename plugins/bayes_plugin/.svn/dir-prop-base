@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 79
+libbayes_plugin.so
+.Makefile.swp
+libbayes.a
+libbayes_utils.a
+libbayes_plugin.a
+
+END

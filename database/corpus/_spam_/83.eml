@@ -1,0 +1,30 @@
+X-Account-Key: account2
+Return-path: <root@champi.uvigo.es>
+Envelope-to: pablof@uvigo.es
+Delivery-date: Thu, 15 Oct 2009 06:25:06 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <root@champi.uvigo.es>)
+	id 1MyHti-0008TI-H5
+	for pablof@uvigo.es; Thu, 15 Oct 2009 06:25:06 +0200
+Received: from champi.uvigo.es (antispam3.uvigo.es [193.146.32.89])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id n9F4P2nH027553
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@uvigo.es>; Thu, 15 Oct 2009 06:25:05 +0200
+Received: from root by champi.uvigo.es with local (Exim 4.63)
+	(envelope-from <root@champi.uvigo.es>)
+	id 1MyHte-0000yJ-2K
+	for root@champi.uvigo.es; Thu, 15 Oct 2009 06:25:02 +0200
+Subject: exim paniclog on champi.uvigo.es has non-zero size
+To: root@champi.uvigo.es
+Message-Id: <E1MyHte-0000yJ-2K@champi.uvigo.es>
+From: root <root@champi.uvigo.es>
+Date: Thu, 15 Oct 2009 06:25:02 +0200
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: root@champi.uvigo.es
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+exim paniclog /var/log/exim4/paniclog on champi.uvigo.es has non-zero size, mail system might be broken
+

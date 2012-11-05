@@ -1,0 +1,74 @@
+###########################################################################
+#     POSIX REGULAR EXPRESIONS                                            #
+###########################################################################
+#     SPAM REGULAR EXPRESIONS        #
+######################################
+
+txt HAS_VIAGRA_ON_BODY		eval("[vV][iI?1!][aA][gG][rR][aA]")
+describe HAS_VIAGRA_ON_BODY     Contains references to viagra in content
+score HAS_VIAGRA_ON_BODY        2
+
+txt HAS_CIALLIS_ON_BODY         eval("[cC][iI?1!][aA][Ll]+[iI?1!][Ss5]")
+describe HAS_CIALLIS_ON_BODY    Contains references to ciallis in content
+score HAS_CIALLIS_ON_BODY       2
+
+txt HAS_LEVITRA_ON_BODY        eval("[lL][eE][vV][iI?1!][tT][rR][aA]")
+describe HAS_LEVITRA_ON_BODY    Contains references to levitra in content
+score HAS_LEVITRA_ON_BODY       2
+
+
+###########################################################################
+#     BAYES                                                               #
+###########################################################################
+
+txt BAYES_00 check_bayes(0.00, 0.01)
+describe BAYES_00 Bayes between 0 and 0.01
+score BAYES_00 -2
+
+txt BAYES_05 check_bayes(0.01, 0.05)
+describe BAYES_05 Bayes between 0.01 and 0.05
+score BAYES_05 -1
+
+txt BAYES_20 check_bayes(0.05, 0.20)
+describe BAYES_20 Bayes between 0.05 and 0.20
+score BAYES_20 -0.5
+
+txt BAYES_40 check_bayes(0.20, 0.40)
+describe BAYES_40 Bayes between 0.20 and 0.40
+score BAYES_40 -0.25
+
+txt BAYES_50 check_bayes(0.40, 0.60)
+describe BAYES_50 Bayes between 0.40 and 0.60
+score BAYES_50 0
+
+txt BAYES_60 check_bayes(0.60, 0.80)
+describe BAYES_60 Bayes between 0.60 and 0.80
+score BAYES_60 0.25
+
+txt BAYES_80 check_bayes(0.80, 0.95)
+describe BAYES_80 Bayes between 0.80 and 0.95
+score BAYES_80 1
+
+txt BAYES_95 check_bayes(0.95, 0.99)
+describe BAYES_95 Bayes between 0.95 and 0.99
+score BAYES_95 2
+
+txt BAYES_99 check_bayes(0.99, 1.00)
+describe BAYES_99 Bayes between 0.99 and 1.00
+score BAYES_99 3
+
+###########################################################################
+#     METAEXPRESIONS                                                      #
+###########################################################################
+
+#meta META_DRUGS_ON_BODY ( (HAS_VIAGRA_ON_BODY + HAS_CIALLIS_ON_BODY + HAS_LEVITRA_ON_BODY + HAS_DRUGS_ON_BODY) > 1 )
+#describe META_DRUGS_ON_BODY Meta rule for containing some kind of DRUGS in message content
+
+#meta META_DRUGS_ON_SUBJECT ( (HAS_VIAGRA_ON_SUBJECT + HAS_CIALLIS_ON_SUBJECT + HAS_LEVITRA_ON_SUBJECT + HAS_DRUGS_ON_SUBJECT) > 1 )
+#describe META_DRUGS_ON_SUBJECT Meta rule for containing some kind of DRUGS in message subject
+
+###########################################################################
+#     required score                                                      #
+###########################################################################
+
+required_score	3

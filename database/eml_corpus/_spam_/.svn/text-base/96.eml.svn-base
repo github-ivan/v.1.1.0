@@ -1,0 +1,57 @@
+X-Account-Key: account2
+Return-path: <hollielehmanse@uvigo.es>
+Envelope-to: hostmaster@uvigo.es
+Delivery-date: Tue, 06 Apr 2010 11:57:08 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <hollielehmanse@uvigo.es>)
+	id 1Nz5Wt-0004KD-Rb
+	for hostmaster@uvigo.es; Tue, 06 Apr 2010 11:57:07 +0200
+Received: from niscalo.uvigo.es (antispam2.uvigo.es [193.146.32.78])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o369v2X4015841
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <hostmaster@uvigo.es>; Tue, 6 Apr 2010 11:57:06 +0200
+Date: Tue, 6 Apr 2010 11:57:06 +0200
+Message-Id: <201004060957.o369v2X4015841@grelo.uvigo.es>
+Received: from [92.81.158.83] (helo=andreas-buehl.de)
+	by niscalo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <hollielehmanse@uvigo.es>)
+	id 1Nz5KY-0006Oa-SV
+	for hostmaster@uvigo.es; Tue, 06 Apr 2010 11:44:29 +0200
+To: <hostmaster@uvigo.es>
+From: <hostmaster@uvigo.es>
+MIME-Version: 1.0
+Importance: High
+Content-Type: text/html
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on niscalo.uvigo.es
+X-Spam-Status: No, score=4.8 required=5.0 tests=BAYES_60,HTML_MESSAGE,
+	MIME_HTML_ONLY,MISSING_DATE,MISSING_MID,RCVD_IN_PBL,RCVD_IN_SORBS_WEB,
+	RDNS_NONE,SPF_FAIL autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=4.8 required=5.0 tests=BAYES_60=1,
+	HTML_MESSAGE=0.001,MIME_HTML_ONLY=1.457,MISSING_DATE=0.001,MISSING_MID=0.001,
+	RCVD_IN_PBL=0.905,RCVD_IN_SORBS_WEB=0.619,RDNS_NONE=0.1,SPF_FAIL=0.693
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: ****
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Gana con nosotros!
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: hollielehmanse@uvigo.es
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=us-ascii">
+</HEAD>
+<BODY>Estoy tratando de encontrar a los residentes de Espana que quisieran ocupar el cargo de mi ayudante.<br>
+Ganancias seran de 2,000 euros por mes!<br>
+<br>
+<b>Si tenga interes en este trabajo, se nos envie via correo electronico <br>
+<a href="mailto:Adam@europen-un.com">Adam@europen-un.com</a> los siguientes datos:</b> <br>
+nombre, edad, domicilio y telefono de contacto.
+<br>
+Al recibir este mensaje por un error, disculpenos.</BODY></HTML>
+

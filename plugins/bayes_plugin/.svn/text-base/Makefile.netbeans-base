@@ -1,0 +1,58 @@
+#	LICENSING
+#
+#       This file is part of WireBrush for Spam project (WB4Spam).
+#
+#       WB4Spam: An ANSI C is an open source, highly extensible, high performance and
+#       multithread spam filtering platform. It takes concepts from SpamAssassin project
+#       improving distinct issues.
+#
+#       Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+#
+#       Wirebrush for Spam is free software; you can redistribute it and/or
+#       modify it under the terms of the GNU Lesser General Public License as
+#       published by the Free Software Foundation; either version 3 of the
+#       License, or (at your option) any later version.
+#
+#       Wirebrush for Spam is distributed in the hope that it will be useful,
+#       but WITHOUT ANY WARRANTY; without even the implied warranty of
+#       MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+#       General Public License for more details.
+#
+#       You should have received a copy of the GNU Lesser General Public License
+#       along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+CC=cc
+CFLAGS=-Wall -O3 -g -fPIC 
+OPTSLIB=-I/usr/include -I../../cpluff/include -I../../database -I../core -I../eml_structure_parser -I../..
+LIBS=-L../../cpluff/lib -L/usr/lib -L/lib -L../core -L../../database -L../.. -L../eml_structure_parser -llearn_bayes_utils -lm -ldb -lfileutils -lpthread
+
+all: bayes libbayes_utils.a
+
+bayes: probabilities.o combinechi.o bayes_util.o bayes_plugin.o
+	$(CC) $(CFLAGS) -shared -W1,-soname,libbayes_plugin.so.0 probabilities.o combinechi.o bayes_util.o bayes_plugin.o -o libbayes_plugin.so.0 $(OPTSLIB) $(LIBS)
+	ln -sf libbayes_plugin.so.0 libbayes_plugin.so
+	ln -sf libbayes_plugin.so.0 libbayes_plugin.so.1
+#cp probabilities.o ../txt_bayes_plugin/probabilities.o
+#cp bayes_util.o ../txt_bayes_plugin/bayes_util.o
+#cp combinechi.o ../txt_bayes_plugin/combinechi.o
+
+libbayes_utils.a: probabilities.o combinechi.o bayes_util.o
+	ar rcs libbayes_utils.a probabilities.o combinechi.o bayes_util.o
+#cp -sf libbayes_utils.a ../txt_bayes_plugin/libbayes.a
+
+bayes_util.o: probabilities.o combinechi.o
+	$(CC) $(CFLAGS) -c probabilities.o combinechi.o bayes_util.c $(OPTSLIB) $(LIBS) -o bayes_util.o
+
+bayes_plugin.o:
+	$(CC) $(CFLAGS) -c bayes_plugin.c $(OPTSLIB) $(LIBS) -o bayes_plugin.o
+
+probabilities.o:
+	$(CC) $(CFLAGS) -c probabilities.c $(OPTSLIB) $(LIBS) -o probabilities.o
+#ln -sf probabilities.o ../txt_bayes_plugin/probabilities.o
+
+combinechi.o:
+	$(CC) $(CFLAGS) -c combinechi.c $(OPTSLIB) $(LIBS) -o combinechi.o
+#ln -sf combinechi.o ../txt_bayes_plugin/combinechi.o
+
+clean :
+	rm *.a *.o *.so *.so.?

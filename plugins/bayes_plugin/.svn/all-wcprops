@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/321/plugins/bayes_plugin
+END
+combinechi.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/303/plugins/bayes_plugin/combinechi.h
+END
+bayes_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/305/plugins/bayes_plugin/bayes_util.h
+END
+probabilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/247/plugins/bayes_plugin/probabilities.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/318/plugins/bayes_plugin/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/318/plugins/bayes_plugin/plugin.xml
+END
+probabilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/305/plugins/bayes_plugin/probabilities.h
+END
+combinechi.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/137/plugins/bayes_plugin/combinechi.c
+END
+bayes_util.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/318/plugins/bayes_plugin/bayes_util.c
+END
+bayes_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/321/plugins/bayes_plugin/bayes_plugin.c
+END

@@ -1,0 +1,60 @@
+X-Account-Key: account2
+Return-path: <mail@amagua.com>
+Envelope-to: majordomo@uvigo.es
+Delivery-date: Sun, 27 Jun 2010 09:46:19 +0200
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <mail@amagua.com>)
+	id 1OSmZH-0000SF-5c
+	for majordomo@uvigo.es; Sun, 27 Jun 2010 09:46:19 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5R7kE5g011872
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <majordomo@uvigo.es>; Sun, 27 Jun 2010 09:46:18 +0200
+Date: Sun, 27 Jun 2010 09:46:18 +0200
+Message-Id: <201006270746.o5R7kE5g011872@acelga.uvigo.es>
+Received: from [95.58.58.135] (helo=akzonobel.com)
+	by cogumelo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <mail@amagua.com>)
+	id 1OSmZB-00078R-Pc
+	for majordomo@uvigo.es; Sun, 27 Jun 2010 09:46:14 +0200
+To: <majordomo@uvigo.es>
+From: <majordomo@uvigo.es>
+MIME-Version: 1.0
+Importance: High
+Content-Type: text/html
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=2.5 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	MIME_HTML_ONLY,MISSING_DATE,MISSING_MID,RCVD_IN_PBL,RDNS_NONE,SPF_HELO_FAIL
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=2.5 required=5.0 tests=BAYES_50=0.001,
+	HTML_MESSAGE=0.001,MIME_HTML_ONLY=1.457,MISSING_DATE=0.001,MISSING_MID=0.001,
+	RCVD_IN_PBL=0.905,RDNS_NONE=0.1,SPF_HELO_FAIL=0.001 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: **
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: iHola!
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: mail@amagua.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY><b>Le saludo!</b><br><br>
+Nuestra compania admite los colaboradores autonomos con un sueldo de 1016-2040 EUR por semana.<br>
+Los requisitos de los aspirantes son: edad de 18 a 55 anos, hombres y mujeres, residentes en <b>Espana y Portugal</b> o en los paises vecinos, el acceso a Internet y correo electronico.<br>
+<br>
+<b>Para mayor informacion complete, por favor, los datos siguientes, y invielos al correo electronico, expuesto mas abajo.</b><br>
+1. Apellido, nombre.<br>
+2. Edad.<br>
+3. Pais de residencia.
+4. Movil.<br><br>
+Envie los datos a la direccion <b>Crisipo@westconsl.com</b></a><br><br>
+Dentro de 1-3 jornadas laborales recibira una descripcion detallada. Nuestra propuesta es valida hasta 05/07/2010<br>
+Por favor, envie a la direccion indicada solo la informacion necesaria, y nada mas.<br><br>Saludos</BODY></HTML>
+

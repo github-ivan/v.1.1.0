@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 241
+liblearn_spamhunting.a
+liblearn_bayes.a
+.Makefile.swp
+.logger.c.swp
+.compile_script.sh.swp
+.salida.dat.swp
+.compile.sh.swp
+.wb4spam_filter.swp
+.salida_ruleset.txt.swp
+.salida_sort.swp
+.salida.swp
+.config.ini.swp
+.compile_dns_resolver.sh.swp
+
+END

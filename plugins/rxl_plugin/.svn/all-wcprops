@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/318/plugins/rxl_plugin
+END
+_Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/318/plugins/rxl_plugin/_Makefile
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/318/plugins/rxl_plugin/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/318/plugins/rxl_plugin/plugin.xml
+END
+_tadns.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/318/plugins/rxl_plugin/_tadns.h
+END
+_rxl_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/318/plugins/rxl_plugin/_rxl_plugin.c
+END
+rxl_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/318/plugins/rxl_plugin/rxl_plugin.c
+END
+_tadns.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/318/plugins/rxl_plugin/_tadns.c
+END

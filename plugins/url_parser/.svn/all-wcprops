@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/318/plugins/url_parser
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/plugins/url_parser/README.txt
+END
+test_parser
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/303/plugins/url_parser/test_parser
+END
+test_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/49/plugins/url_parser/test_parser.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/68/plugins/url_parser/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/49/plugins/url_parser/plugin.xml
+END
+a.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/49/plugins/url_parser/a.txt
+END
+url.flex
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/49/plugins/url_parser/url.flex
+END
+url_parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/96/plugins/url_parser/url_parser.c
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/49/plugins/url_parser/list.h
+END
+trim.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/49/plugins/url_parser/trim.h
+END

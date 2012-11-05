@@ -1,0 +1,161 @@
+X-Account-Key: account2
+Return-path: <errors-ms1@e.locafilm.com>
+Envelope-to: pablof@uvigo.es
+Delivery-date: Sun, 27 Jun 2010 07:21:34 +0200
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1OSkJC-0002z1-Kd
+	for pablof@uvigo.es; Sun, 27 Jun 2010 07:21:34 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5R5LUSa028441
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@uvigo.es>; Sun, 27 Jun 2010 07:21:34 +0200
+Received: from smtp22.e.locafilm.com ([82.138.105.222])
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1OSkJ7-0006zg-Ka
+	for pablof@uvigo.es; Sun, 27 Jun 2010 07:21:30 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=default;
+	d=e.locafilm.com;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:list-unsubscribe:content-type;
+	bh=7je6lAHlWpStAOlXLDETTUjYZXxbcZRovY9phu9oGm0=;
+	b=wuNOm2Kg4dRtFKLWSWgYixlA4lrfKZZXnxfJ6mfH6QGU2mowOpg2xMHkeXP0UtdurpSnF4gDw1p0F+3APSOgzSJXZDSE7NtJ7ZAY01a2KGHqXMsSJS5vpEp3bWiZfPFYMB6b4A/hF5s6jITW81Vt4PJt7f4xmMiqeum0ieuAdwk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=default;
+	d=e.locafilm.com;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:List-Unsubscribe:Content-Type;
+	b=oIXPyIp6rXIV2xuCadvZNHXNZeHgIFgJPrJtk1NXMP+nXef5CO9gFjH+LOV1LUpAgjOsbI0sNIBINNO8LY0EelwlsfHOl5g4EU71rhQiO0M9p5KIIqTJ+6a/1YV8GkxYDql8nnJNbfSXR/o8owi5HoXtITpJd+ujjlxIaZFHrV8=
+From: "Primerasca.com" <pedritoelfisgon@e.locafilm.com>
+Date: Sun, 27 Jun 2010 07:21:21 +0200
+To: <pablof@uvigo.es>
+Reply-To: =?windows-1252?Q?Ne_pas_R=E9pondre?= <pedritoelfisgon@e.locafilm.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 5.10.5642
+Message-ID: <NMID-104-309276982-22237485-AA==@ms1_locafilm>
+List-Unsubscribe: <http://w.e.locafilm.com/webApp/locUnsub?id=z0jClselvzfRFqCC
+	8FWBfa2gt0WoEnoImRJCVCACAA%3D%3D&lang=es>, <mailto:feedback@e.locafilm.com>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_620_533E535A.533E535A"
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=-2.6 required=5.0 tests=BAYES_00,HTML_MESSAGE,
+	SPF_PASS autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=-2.6 required=5.0 tests=BAYES_00=-2.599,
+	HTML_MESSAGE=0.001,SPF_PASS=-0.001 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: 
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Empieza a jugar y podras ganar fabulosos premios
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: errors-ms1@e.locafilm.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_620_533E535A.533E535A
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: 8bit
+
+Si no puede leer este mensaje, consulte la versión en línea Gracias.  
+
+Para asegurarse de que recibe correctamente nuestros correos,
+añada la dirección pedritoelfisgon@e.locafilm.com en su agenda de direcciones. Gracias.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra,
+basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página.
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+Primerasca.comCada tres targetas una es ganadora...El pozo acumulado de 200.000 euros esta mas cerca de lo que tu te imaginas.¡Comienza a jugar ahora con 5 euros gratis que te da la casa Haz click aqui¿Cómo obtenerlos?. Haga click en "jugar por dinero real"  (sin necesidad de depósito). Regístrese y automáticamente recibirá 5€ Gratis.Con sus 5€, puede ganar hasta 200.000€!¡Regístrese en Prime Rasca hoy y haga sus sueños del mañana, realidad!http://nodes.reactivpub.fr/r/clic-1083-10178-20085-url-aHR0cHM6Ly9zZWN1cmUubmVvZ2FtZXMtdGVjaC5jb20vU2NyYXRjaENhcmRzL2xvYmJ5LmFzcHg_Y3NpPTMmTE5HPX5TUEEmQ1VSPUVVUiZBUj0xMzM0ODY?rgroup=p_4000&trackaff=&group=
+
+De acuerdo con la ley sobre informática y libertades, puede darse de baja en cualquier momento.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra, basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página. 
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+------=_NextPart_620_533E535A.533E535A
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+</HEAD>
+<BODY>
+<P><FONT style=3D"FONT-SIZE: 12px; FONT-FAMILY: courier new" 
+color=3D#008080 neolane=3D"internalForJS"><center>
+  <table width=3D'600' align=3D"center">
+    <tr>
+    <td bgcolor=3D"#A6A6A6" height=3D'40'>
+        <center>
+        <FONT COLOR=3D'#FFFFFF' STYLE=3D'font-family: Verdana;font-size: 10=
+px;'>
+    <FONT COLOR=3D'#333333' STYLE=3D'font-family: Verdana;font-size: 11px; =
+'>Si no puede leer este mensaje, 
+       <a href=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3dc64466,1c6bd98b,1cde=
+51f2&p1=3D24e4eabed4f17f82b2" _label=3D"Page miroir" _type=3D"mirrorPage" s=
+tyle=3D"color:#333;"><span style=3D"color:#333;">consulte la versi=F3n en l=
+=EDnea Gracias</span></a><br/></FONT><br/>Pedrito el Fisgon le propone desc=
+ubrir la oferta m=E1s abajo</b></font><br>
+    <font style=3D"font-family: Verdana; font-size: 11px;" color=3D"#d6346d=
+"><b> Cada tres targetas una es ganadera, </b><a href=3D"http://t.e.locafil=
+m.com/r/=3Fid=3Dh3dc64466,1c6bd98b,1cde51f3">Siga este lazo</a><br><div ali=
+gn=3Dcenter><FONT face=3DArial color=3D#000000 size=3D2>Si ya no desea reci=
+bir ofertas comerciales de nuestra parte, por favor entre aqu=ED,<BR/><a hr=
+ef=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3dc64466,1c6bd98b,1cde51f4&p1=3Dz0=
+jClselvzfRFqCC8FWBfa2gt0WoEnoImRJCVCACAA%3D%3D" _type=3D"optout" _label=3D"=
+Lien de d=E9sinscription">Entre en esta p=E1gina.</A></FONT></div>
+</font>
+    </center></td></tr></table>
+    </center></FONT></P>
+<P><center><table border=3D"3" bordercolor=3D"#480001" cellpadding=3D"0" ce=
+llspacing=3D"0" width=3D"550">      <tr>      <td><a href=3D"http://t.e.loc=
+afilm.com/r/=3Fid=3Do3dc64466,1c6bd98b,1cde51f3"><img src=3D"http://img.pot=
+ejack.com/ES/primerasca/full_bubbles_ES.jpg" alt=3D"prime scratch cards" bo=
+rder=3D"0"></a></td>    </tr>    <tr>      <td align=3D"left"><font color=
+=3D"#480001" face=3D"Verdana" size=3D"2"><br>      <blockquote>Cada tres ta=
+rjetas, una es ganadora.<br> El pozo acumulado de 200.000&euro; est&aacute;=
+ m&aacute;s cerca de lo usted se imaginas <br>         <br>&iexcl;Comienze =
+a jugar ahora con 5&euro; gratis que le da la casa!<br>         <a href=3D"=
+http://t.e.locafilm.com/r/=3Fid=3Do3dc64466,1c6bd98b,1cde51f5">HagaClick Aq=
+u&iacute;</a>. <br>         <br>&iquest;C&oacute;mo obtenerlos=3F. <a href=
+=3D"http://t.e.locafilm.com/r/=3Fid=3Do3dc64466,1c6bd98b,1cde51f6">Hagaclic=
+k en "jugar por dinero real" </a> (sin necesidad de dep&oacute;sito). Reg&i=
+acute;strese y <b>autom&aacute;ticamente recibir&aacute; 5&euro; Gratis</b>=
+=2E <br>         <br>Con sus 5&euro;, puede ganar hasta 200.000&euro;! <br=
+>         <br>        <span class=3D"color" style=3D"color: red; font-famil=
+y: Arial,sans-serif; font-size: 10pt; font-weight: bold;">&iexcl;Reg&iacute=
+;strese en Prime Rasca hoy y haga sus sue&ntilde;os del ma&ntilde;ana, real=
+idad!</span>         <p>&nbsp;</p>         <br>      </blockquote>      <br=
+>      <br>      </font></td>    </tr>  </table></center><img alt=3D"imagen=
+ de tracking" src=3D"http://nodes.reactivpub.fr/mailing-1083-10178-20085=3F=
+rgroup=3Dp_4000&group=3D" border=3D"0" height=3D"1" width=3D"1"></P>
+<P><FONT face=3D"Courier New" color=3D#008080 size=3D2><br/><DIV align=3Dce=
+nter><FONT face=3DArial color=3D#000000 size=3D2>De acuerdo con nuestros da=
+tos, usted registr=F3 la direcci=F3n &nbsp;<FONT face=3D"Courier New" color=
+=3D#008080 size=3D2>pablof@uvigo.es</FONT> cuando se dio de alta en nuestro=
+ sitio web.</FONT><BR/><br/><FONT face=3D"Courier New" color=3D#008080 size=
+=3D2><div align=3Dcenter><FONT face=3DArial color=3D#000000 size=3D2>Si ya =
+no desea recibir ofertas comerciales de nuestra parte, por favor entre aqu=
+=ED,<BR/><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3dc64466,1c6bd98b,1c=
+de51f8&p1=3Dz0jClselvzfRFqCC8FWBfa2gt0WoEnoImRJCVCACAA%3D%3D" _type=3D"opto=
+ut" _label=3D"Lien de d=E9sinscription">Entre en esta p=E1gina.</A></FONT><=
+/div>
+</FONT></DIV></FONT></P><img height=3D'0' width=3D'0' alt=3D'' src=3D'http:=
+//t.e.locafilm.com/r/=3Fid=3Do3dc64466,1c6bd98b,1'/></BODY></HTML>
+
+------=_NextPart_620_533E535A.533E535A--
+
+

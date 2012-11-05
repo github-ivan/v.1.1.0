@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/318/plugins/axl_plugin
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/271/plugins/axl_plugin/Makefile
+END
+plugin.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/318/plugins/axl_plugin/plugin.xml
+END
+axl_plugin.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/318/plugins/axl_plugin/axl_plugin.c
+END

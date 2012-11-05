@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/docsrc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/docsrc/Makefile
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/docsrc/Makefile.in
+END
+doxygen.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/docsrc/doxygen.css
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/docsrc/Makefile.am
+END
+doxygen.footer
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/docsrc/doxygen.footer
+END

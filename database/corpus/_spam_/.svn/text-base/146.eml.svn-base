@@ -1,0 +1,610 @@
+X-Account-Key: account2
+Return-path: <infoq-bounces@inforambiental.com>
+Envelope-to: hostmaster@uvigo.es
+Delivery-date: Fri, 07 May 2010 00:40:01 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <infoq-bounces@inforambiental.com>)
+	id 1OA9jd-0001bV-PR
+	for hostmaster@uvigo.es; Fri, 07 May 2010 00:40:01 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o46Mdv2A004031
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <hostmaster@uvigo.es>; Fri, 7 May 2010 00:40:01 +0200
+Received: from ambientum.centrodedatos.com ([86.109.111.216])
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <infoq-bounces@inforambiental.com>)
+	id 1OA9jY-0002UH-PQ
+	for hostmaster@uvigo.es; Fri, 07 May 2010 00:39:57 +0200
+Received: (qmail 15384 invoked from network); 6 May 2010 11:12:37 +0200
+Received: from localhost (HELO ambientum.centrodedatos.com) (127.0.0.1)
+  by localhost with SMTP; 6 May 2010 11:12:37 +0200
+Delivered-To: 2-infoq@inforambiental.com
+Received: (qmail 31236 invoked from network); 6 May 2010 10:47:49 +0200
+Received: from llsa736-a03.servidoresdns.net (82.223.190.27)
+	by ambientum.centrodedatos.com with SMTP; 6 May 2010 10:47:49 +0200
+Received: from MWXC337.arsys.lan (mwxc337.servidoresdns.net [82.223.154.231])
+	by smtp-03.servidoresdns.net (Postfix) with ESMTP id AF46924E199
+	for <infoq@inforambiental.com>; Thu,  6 May 2010 10:47:49 +0200 (CEST)
+From: "=?ISO-8859-1?B?Q3Vyc29zIG9ubGluZQ==?=" <info@ambientum.com>
+To: infoq@inforambiental.com
+Date: Thu, 06 May 2010 10:47:49 +0200
+Message-ID: <20100506-10474970-1900@MWXC337.arsys.lan>
+MIME-Version: 1.0
+Content-Type: text/html
+X-Mailman-Approved-At: Thu, 06 May 2010 11:12:30 +0200
+X-BeenThere: infoq@inforambiental.com
+X-Mailman-Version: 2.1.9
+Precedence: list
+Reply-To: Sin-respuesta <sinservicio@ambientum.com>
+List-Id: <infoq.inforambiental.com>
+List-Unsubscribe: <http://lists.inforambiental.com/mailman/listinfo/infoq>,
+	<mailto:infoq-request@inforambiental.com?subject=unsubscribe>
+List-Archive: <http://lists.inforambiental.com/mailman/private/infoq>
+List-Post: <mailto:infoq@inforambiental.com>
+List-Help: <mailto:infoq-request@inforambiental.com?subject=help>
+List-Subscribe: <http://lists.inforambiental.com/mailman/listinfo/infoq>,
+	<mailto:infoq-request@inforambiental.com?subject=subscribe>
+Sender: infoq-bounces@inforambiental.com
+Errors-To: infoq-bounces@inforambiental.com
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=2.6 required=5.0 tests=BAYES_00,FROM_EXCESS_BASE64,
+	FUZZY_AMBIEN,FUZZY_CREDIT,HTML_MESSAGE,MIME_HTML_ONLY autolearn=no
+	version=3.2.5
+X-Spam-UVIGO-Status: No, score=2.6 required=5.0 tests=BAYES_00=-2.599,
+	FROM_EXCESS_BASE64=1.456,FUZZY_AMBIEN=1.026,FUZZY_CREDIT=1.238,
+	HTML_MESSAGE=0.001,MIME_HTML_ONLY=1.457 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: **
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: =?ISO-8859-1?B?TGEgbWVqb3IgZm9ybWFjafNu?=
+	=?ISO-8859-1?B?IHN1YnZlbmNpb25hZGF=?=
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: infoq-bounces@inforambiental.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+<!DOCTYPE html PUBLIC  -//W3C//DTD XHTML 1.0 Transitional//EN   http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd >
+<html xmlns= http://www.w3.org/1999/xhtml >
+<head>
+<meta http-equiv= Content-Type  content= text/html; charset=iso-8859-1  />
+<title>Formacion medioambiental para trabajadores</title>
+<style type= text/css >
+<!--
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #666666;
+}
+h2 a:link {
+	font-size: 13px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: bold;
+}
+h2 a:visited {
+	font-size: 13px;
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+table#medioam {
+	color: #666666;
+	text-align: left;
+}
+ul {
+	margin-left: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: left;
+}
+h2 {
+	margin: 0px;
+}
+a:link {
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+}
+a:visited {
+	font-weight: normal;
+	color: #666666;
+	text-decoration: none;
+}
+a:hover {
+	color: #006599;
+	font-weight: normal;
+	text-decoration: underline;
+}
+.enlace{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#666666;
+}
+.precio{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#666666;
+	font-weight: bold;
+}
+.enlace:visited{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#666666;
+}
+.enlace:hover{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#666666;
+	text-decoration:underline;	
+}
+h3 {
+	color: #666666;
+	margin-left: 15px;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: left;
+}
+h3 a:link {
+	color: #666666;
+	text-decoration: none;
+	font-weight: bold;
+}
+h3 a:visited {
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+h3 a:hover {
+	font-weight: bold;
+	color: #666666;
+	text-decoration: none;
+}
+.style3 {
+	font-size: 18px;
+	color: #666666;
+	font-weight: bold;
+}
+.style4 {
+	color: #666666
+}
+.style6 {
+	font-size: 23px;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #CD2525;
+}
+.style8 {
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FF0000;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.style10 {
+	font-size: 25px;
+	color: #CD2525;
+	font-weight: normal;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.style11 {color: #666666}
+.style14 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #666666;
+	font-size: 10px;
+	text-align: left;
+}
+.borde {
+	border: 1px solid #FF6600;
+}
+.style16 {font-size: 24px; font-family: Arial, Helvetica, sans-serif; color: #f60; font-weight: bold; text-transform: uppercase; }
+.style17 {
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #ff9601;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+-->
+</style>
+</head>
+
+<body>
+
+<table width= 550  align= center  cellpadding= 0  cellspacing= 0 >
+  
+  <tr>
+    <td width= 550  height= 70 ><div align= center  class= mail >Ambientum.com le mantiene informado sobre la actualidad medioambiental: formaci&oacute;n online, 
+      legislaci&oacute;n, 
+      noticias, subvenciones... La direcci&oacute;n que envia este mensaje no admite recepci&oacute;n de email, por favor, no responda. Si usted no desea recibir este tipo de informaci&oacute;n 
+      <br>
+      pulse <a href= http://www.ambientum.com/alta_baja_boletin.asp  target= _blank  class= enlace ><strong>aqu&iacute; para tramitar su baja</strong></a>  
+    o llame al tel&eacute;fono 91 630 80 73 </div></td>
+  </tr>
+<tr><td><table width= 100%   cellspacing= 0  cellpadding= 0 >
+      <tr>
+        <td width= 50%  class= mail >Publicidad</td>
+        <td width= 50% ><div align= right  class= mail >Si no visualiza bien este correo pulse <a href= http://www.ambientum.com/mailing/formacion/2010/mayo/06/  target= _blank  class= enlace ><strong>aqu&iacute;</strong></a> </div></td>
+      </tr>
+    </table></td></tr>
+ <tr>
+    <td bgcolor= #666666  height= 1 ></td>
+  </tr>
+ 
+  <TR><td height= 70 ><div align= right ><a href= http://www.ambientum.com/formacion/  target= _blank ><img src= http://www.ambientum.com/mailing/formacion/2009/marzo/10/logo2.gif  alt= FormacionOnline  width= 250  height= 53  border= 0 ></a></div></td></TR>
+  <TR>
+    <td>&nbsp;</td>
+  </TR>
+  <tr>
+    <td align= right >
+	
+   
+      <table width= 550  border= 0  cellspacing= 0  cellpadding= 0 >
+
+         <tr>
+           <td height= 10  align= right >&nbsp;</td>
+           <td width= 22%  rowspan= 3  valign= bottom ><img src= http://www.ambientum.com/mailing/formacion/2009/marzo/10/ftrip.gif  alt= Fundacion Tripartita  width= 120  height= 85 ></td>
+         </tr>
+         <tr>
+           <td height= 45  align= right ><span class= style11 ></span><span class= style3 >FORMACI&Oacute;N ONLINE  <br>
+             Subvencionada </span><span class= style8 >hasta el 100%</span><span class= style3 > por la Fundaci&oacute;n Tripartita</span></td>
+        </tr>
+        
+         <tr>
+           <td height= 22  align= right  valign= middle ><span class= style4 >Te tramitamos la bonificaci&oacute;n de forma gratuita</span></td>
+        </tr>
+      
+    
+</table>
+
+	  
+	 
+      </div>
+	<table width= 100%   border= 0  class= tablanomargen, clear >
+       
+         
+        <TR>
+    <td><a href= http://www.ambientum.com/formacion/ ><img src= http://www.ambientum.com/mailing/formacion/2010/mayo/06/img/cursosMedioambiente.jpg  width= 550  height= 400  border= 0  /></a></td>
+        </tr>
+         
+         <tr>
+           <td colspan= 3 ><a href= http://www.ambientum.com/formacion/ ><img src= http://www.ambientum.com/mailing/formacion/2010/mayo/06/img/antiguos.jpg  alt= antiguos alumnos  width= 550  height= 107  border= 0  /></a></td>
+         </tr>
+         <tr>
+           <td colspan= 3 >&nbsp;</td>
+         </tr>
+         <tr>
+           <td colspan= 3 ><div align= left  class= style14 >*Todas las empresas privadas &uacute;nicamente por cotizar a la Seguridad Social en concepto de formaci&oacute;n profesional pueden bonificarse de forma directa en la formaci&oacute;n que reciben sus empleados. <strong>Preg&uacute;ntenos y le informaremos del cr&eacute;dito que tiene para realizar nuestros cursos, para que no le supongan nig&uacute;n coste, ni al trabajador ni a la empresa.</strong><br />
+               <br />
+              **Ofertas no acumulables entre s&iacute;.<br>
+             <br>
+             Este cr&eacute;dito es anual, por lo que en enero de 2010 su empresa dispone del m&aacute;ximo para financiar su formaci&oacute;n.</div></td>
+         </tr>
+      
+         <tr>
+           <td height= 50  colspan= 3  valign= middle  class= style10 ><div align= center >Inf&oacute;rmate <a href= http://www.ambientum.com/formacion/informacion/index.asp ><strong>aqu&iacute;</strong></a> o llama al 91 630 80 73</div></td>
+        </tr>
+         <tr>
+           <td colspan= 3  bgcolor= #CD2525 ><div align= center  class= style6 >Cat&aacute;logo de cursos</div></td>
+        </tr>
+       
+         <tr>
+           <td colspan= 3  height= 8 ></td>
+         </tr>
+       </table>
+	<!-- tabla de todos los cursos -->
+	
+	   
+	  <table width= 100%  border= 0  align= left   cellpadding= 0  cellspacing= 0  id= medioam >
+        <tr>
+          <td class= destacado ></td>
+        </tr>
+       
+     
+        <tr>
+          <td colspan= 2 ><h2><A href= http://www.ambientum.com/formacion/cursos/eficiencia-energetica/eficiencia-energetica-gestor-energetico.asp >Eficiencia energ&eacute;tica</A></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/eficiencia-energetica/eficiencia-energetica-gestor-energetico.asp >C&aacute;tedra Creara Ambientum Gestor energ&eacute;tico y eficiencia energ&eacute;tica </a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/espacios-verdes/gestion_ordenacion_espacios_verdes_urbanos.asp  target= _blank >Espacios Verdes</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/espacios-verdes/gestion_ordenacion_espacios_verdes_urbanos.asp  class= texto >Gesti&oacute;n y ordenaci&oacute;n de espacios verdes urbanos</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/Espacios_Naturales/Gestion_espacios_Naturales_protegidos.asp  target= _blank >Espacios Naturales</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/Espacios_Naturales/Gestion_espacios_Naturales_protegidos.asp  class= texto >Gesti&oacute;n de espacios naturales protegidos </a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/gestion/legislacion_ambiental_aplicada_a_la_empresa.asp  target= _blank  class= Verdana12pxBold_Naranja >Gesti&oacute;n Ambiental</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+       
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/gestion/gestion_ambiental_empresa_emasII.asp  class= texto >Gesti&oacute;n ambiental en la empresa conforme a EMASII</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/gestion/SGA_nueva_ISO_140012004.asp  class= texto >SGA La nueva ISO 14001:2004</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/gestion/elaboracion_memorias_sostenibilidad.asp  class= texto >Responsabilidad Social Corporativa: elaboraci&oacute;n de memorias de sostenibilidad</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/gestion/elaboracion_implantacion_gestion_agendas_21.asp  class= texto >Elaboraci&oacute;n, implantaci&oacute;n y gesti&oacute;n de Agendas 21</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/gestion/gestion_ambiental_obra_civil.asp  class= texto >Gesti&oacute;n ambiental en Obra Civil</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/gestion/fondos_europeos_buenas_practicas_gestion_proyectos.asp  class= texto >Fondos Europeos y buenas pr&aacute;cticas en Gest. Proy </a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/gestion/sistemas_gestion_integrados.asp  class= texto >Sistemas de Gesti&oacute;n Integrados</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/gestion/auditorias_sistemas_gestion_ISO_190112002.asp  class= texto >Auditor&iacute;as de Sistemas de gesti&oacute;n (ISO 19011:2002)</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/gestion/control_sustancias_quimicas_aplicacion_REACH_empresa.asp  class= texto >Control de sustancias qu&iacute;micas. Aplicaci&oacute;n del REACH en la empresa</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/suelosaguas/tecnologias_recuperacion_suelos_contaminados.asp  target= _blank  class= Verdana12pxBold_Naranja >Suelos y Aguas</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/suelosaguas/tecnologias_recuperacion_suelos_contaminados.asp  class= texto >Tecnolog&iacute;as para recuperaci&oacute;n de suelos contaminados</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/suelosaguas/tratamiento_suelos_aguas_hidrocarburadas.asp  class= texto >Tratamiento de suelos y aguas hidrocarburadas</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/suelosaguas/sistemas_depuracion_aguas_residuales.asp  class= texto >Sistemas de Depuraci&oacute;n de Aguas Residuales</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2  class= texto ><a href= http://www.ambientum.com/formacion/cursos/suelosaguas/aplicaciones_membranas_acondicionamiento_depuracion_agua_industrial.asp  class= texto >Aplic. Memb. Acondicionamiento y Depuraci&oacute;n de Agua Ind.</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/residuos/gestion_residuos_urbanos.asp  target= _blank  class= Verdana12pxBold_Naranja >Residuos</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/residuos/gestion_residuos_urbanos.asp  class= texto >Gesti&oacute;n de residuos Urbanos</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/residuos/gestion_residuos_industriales_peligrosos.asp  class= texto >Gesti&oacute;n de Residuos Industriales y Peligrosos</a> </td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+          <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/atmosfera/modelacion_contaminantes_atmosfericos.asp  target= _blank  class= Verdana12pxBold_Naranja >Atm&oacute;sfera y Ruidos</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+     
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/atmosfera/modelacion_contaminantes_atmosfericos.asp  class= texto >Modelaci&oacute;n de contaminantes atmosf&eacute;ricos</a> </td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/atmosfera/acustica_ambiental.asp  class= texto >Ac&uacute;stica Ambiental</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/infgeografica/aplicacion_SIG_gestion_ambiental_territorial.asp  target= _blank  class= Verdana12pxBold_Naranja >Sistemas de informaci&oacute;n geogr&aacute;fica, SIG</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><A href= http://www.ambientum.com/formacion/cursos/infgeografica/aplicacion_SIG_gestion_ambiental_territorial.asp  class= texto >ArcGis SIG B&aacute;sico</A></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/infgeografica/autocad_aplicacion_ambito_GIS.asp  class= texto >Autocad y su aplicaci&oacute;n en el &aacute;mbito de los GIS</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= /formacion/cursos/infgeografica/ARCGIS92_sistemas_informacion_geografica_avanzado.asp  class= cursos >ArcGis 9.2 SIG Avanzado</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/sanitaria/gestion_control_legionella.asp  target= _blank  class= Verdana12pxBold_Naranja >Sanitaria</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+       <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/sanitaria/gestion_control_legionella.asp  class= texto >Gesti&oacute;n y control de legionella</a> </td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/infgeografica/autocad_aplicacion_ambito_GIS.asp  class= texto >Autocad y su aplicac&oacute;n en el &aacute;mbito de los GIS</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+       
+        <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/evaluacion/restauracion-zonas-degradadas.asp  target= _blank  class= Verdana12pxBold_Naranja >Evaluaci&oacute;n de impacto medioambiental</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+         <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/evaluacion/restauracion-zonas-degradadas.asp  class= texto >Restauraci&oacute;n de Zonas Degradadas </a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/evaluacion/evaluacion_impacto_ambiental_aplicada_parques_eolicos.asp  class= texto >EIA aplicada a Parques E&oacute;licos</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/evaluacion/elaboracion_estudios_impacto_ambiental_infraestructuras_energeticas.asp  class= texto >EsIAs de infraestructuras Energ&eacute;ticas y de Comunicaci&oacute;n</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><p class= margeninf ><a href= http://www.ambientum.com/formacion/cursos/evaluacion/proyectos_medidas_correctoras_impacto_ambiental_obras_publicas.asp  class= texto >Proy. Medidas Correctoras del IA en Obras P&uacute;blicas</a><br>
+            </p>            </td>
+        </tr>
+         <tr>
+           <td colspan= 2  height= 5 >&nbsp;</td>
+         </tr>
+         <tr>
+          <td colspan= 2  height= 5 ><h2><a href= http://www.ambientum.com/formacion/cursos/mk/index.asp  target= _blank  class= Verdana12pxBold_Naranja >Marketing y comercial</a></h2></td>
+  </tr>
+        <tr bgcolor= #666666 >
+          <td height= 1  colspan= 2 ></td>
+  </tr>
+       <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/mk/marketing_ecologico.asp  class= curso >Marketing ecol&oacute;gico</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/mk/Desarrollo-gestion-equipos-comerciales.asp  class= curso >Desarrollo y Gesti&oacute;n de Equipos comerciales</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/mk/Experto-gestion-comercial-tecnicas-venta.asp  class= curso >Experto en Gesti&oacute;n Comercial y T&eacute;cnicas de venta</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/mk/Experto-Gestion-Comercial-Marketing.asp  class= curso >Experto en Gesti&oacute;n Comercial y Marketing</a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/mk/Planificacion-estrategica-marketing-empresarial.asp  class= curso >Planificaci&oacute;n estrat&eacute;gica de marketing empresarial</a></td>
+        </tr>
+        
+ 
+    <tr>
+      <td colspan= 2  height= 5 >&nbsp;</td>
+    </tr>
+    <tr>
+          <td colspan= 2  height= 5 ><h2><a href= http://www.ambientum.com/formacion/cursos/office/  target= _blank  class= Verdana12pxBold_Naranja >Microsoft Office 2007</a></h2></td>
+  </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+       <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+  <tr>
+    <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/office/excel.asp  class= curso >Excel</a></td>
+  </tr>
+  <tr>
+    <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/office/powerpoint.asp  class= curso >Power Point</a></td>
+  </tr>
+  <tr>
+    <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/office/access.asp  class= curso >Access</a></td>
+  </tr>
+   <tr>
+      <td colspan= 2  height= 5 >&nbsp;</td>
+    </tr>
+   <tr>
+          <td colspan= 2 ><h2><a href= http://www.ambientum.com/formacion/cursos/diseno/  target= _blank  class= Verdana12pxBold_Naranja >Dise&ntilde;o Gr&aacute;fico y web 
+</a></h2></td>
+        </tr>
+        <tr bgcolor= #666666 >
+          <td colspan= 2  height= 1 ></td>
+        </tr>
+        <tr>
+          <td colspan= 2 >&nbsp;</td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/diseno/photoshop.asp  class= curso >Photoshop CS4 </a></td>
+        </tr>
+        <tr>
+          <td colspan= 2 ><a href= http://www.ambientum.com/formacion/cursos/diseno/dreamweaver.asp  class= curso >Dreamweaver CS4. Creaci&oacute;n y mantenimiento de p&aacute;ginas web </a></td>
+        </tr>
+        <tr>
+           <td height= 50  colspan= 3  valign= middle  class= style10 ><div align= center >Inf&oacute;rmate <a href= http://www.ambientum.com/formacion/informacion/index.asp ><strong>aqu&iacute;</strong></a> o llama al 91 630 80 73</div></td>
+        </tr>
+      </table>
+	</div>	</td>
+  </tr>
+</table>
+<table width= 550  align= center >
+  
+  <tr>
+    <td height= 1px  bgcolor= #666666 ></td>
+  </tr>
+  <tr>
+    <td width= 593  height= 20  >
+      <div align= center ><a href= http://www.ambientum.com/  target= _blank  class= enlace >www.ambientum.com</a> | <a href= mailto:publicidad@ambientum.com  target= _blank  class= enlace >An&uacute;nciate en ambientum</a> | <a href= http://www.ambientum.com/contacto.asp  target= _blank  class= enlace >Contacta con nosotros en el 91 630 80 73 </a></div></td>
+  </tr>
+</table>
+
+
+
+
+
+</body>
+</html>
+<table width=600 border=0 align=center cellpadding=0 cellspacing=0 class=textonegro>
+    <td><br>
+</table>
+
+

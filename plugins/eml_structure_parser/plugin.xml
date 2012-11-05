@@ -1,0 +1,64 @@
+<!--
+==========================================================================                        
+
+   File    : plugins/eml_structure_parser/plugin.xml
+   Purpose : Defines the structure of the eml_structure_parser plugin
+   Author  : David Ruano, Noemi Perez, Jose Ramon Mendez
+ 
+ 
+   Date    : October  20, 2010
+
+==========================================================================
+   LICENSING
+
+ WB4Spam: An ANSI C is an open source, highly extensible, high performance and 
+ multithread spam filtering platform. It takes concepts from SpamAssassin project
+ improving distinct issues.
+ 
+ Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+
+ This file is part of WireBrush for Spam project.
+
+ Wirebrush for Spam is free software; you can redistribute it and/or
+ modify it under the terms of the GNU Lesser General Public License as
+ published by the Free Software Foundation; either version 3 of the
+ License, or (at your option) any later version.
+
+ Wirebrush for Spam is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+ General Public License for more details.
+
+ You should have received a copy of the GNU Lesser General Public License
+ along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<plugin
+  id="es.uvigo.ei.eml_structure_parser"
+  version="0.1"
+  name="Eml Structure Parser Plugin"
+  provider-name="Jose Ramon Mendez Reboredo">
+  <requires>
+    <c-pluff version="0.1"/>
+    <import plugin="es.uvigo.ei.core" version="0.1"/>
+  </requires>
+  <runtime library="libeml_structure_parser" funcs="eml_structure_parser_runtime_functions"/>
+  <extension
+     point="es.uvigo.ei.core.parsers"
+     name="header"
+     cfg=""
+     parser="es_uvigo_ei_header"
+   />
+  <extension
+     point="es.uvigo.ei.core.parsers"
+     name="body"
+     cfg=""
+     parser="es_uvigo_ei_body"
+  />
+  <extension
+     point="es.uvigo.ei.core.parsers"
+     name="full"
+     cfg=""
+     parser="es_uvigo_ei_full"
+  />
+</plugin>

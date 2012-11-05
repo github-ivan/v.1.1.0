@@ -1,0 +1,189 @@
+X-Account-Key: account2
+Return-path: <errors-ms1@e.locafilm.com>
+Envelope-to: pablof@uvigo.es
+Delivery-date: Thu, 01 Jul 2010 08:14:23 +0200
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1OUD2V-0004HV-Jh
+	for pablof@uvigo.es; Thu, 01 Jul 2010 08:14:23 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o616EJoU020154
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@uvigo.es>; Thu, 1 Jul 2010 08:14:23 +0200
+Received: from smtp20.e.locafilm.com ([82.138.105.220])
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <errors-ms1@e.locafilm.com>)
+	id 1OUD2Q-0001NR-8w
+	for pablof@uvigo.es; Thu, 01 Jul 2010 08:14:19 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	s=default;
+	d=e.locafilm.com;
+	h=domainkey-signature:from:date:subject:to:reply-to:mime-version:x-mailer:message-id:list-unsubscribe:content-type;
+	bh=JEX9wmQq8yHDDInu7hpZoFvH8QNq4ka+/+Z8FpWjVi8=;
+	b=JEOZgafTF9YPM7MYNOD/r22RP+R3VIPAuHkMmBfF7B73E3hPeR6O/gjVfnhTYrZ8kLpb/NilcKpGU9t4lW8X8URLLRuqWbDZ1bhD7A+JiCsOlCtHayscgcinQJUprs8a9JA/dfIf7ZWk+5BbOr0YQo38HJpQYzP7EA+nmEuqG+Y=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns;
+	s=default;
+	d=e.locafilm.com;
+	h=From:Date:Subject:To:Reply-To:MIME-Version:X-mailer:Message-ID:List-Unsubscribe:Content-Type;
+	b=ADtarK4Q8M51Z0pDebxZxE1+Da8AkvaaiR8aAXq/j/7Ranjh5Pb0ZoSU4PemPmArmyNVwE4lvAoo7EFov8mBzkKYG7QwkuPzYAAc0won2OOTLWkmquKWe9n7A+bEREUMKQrHc6d3pkVOBaIYKHd/P94vE2crotjQ0o4IPKzcpak=
+From: "CEU-IFM" <pedritoelfisgon@e.locafilm.com>
+Date: Thu, 01 Jul 2010 08:14:10 +0200
+To: <pablof@uvigo.es>
+Reply-To: =?windows-1252?Q?Ne_pas_R=E9pondre?= <pedritoelfisgon@e.locafilm.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 5.10.5642
+Message-ID: <NMID-104-315335105-22528255-AA==@ms1_locafilm>
+List-Unsubscribe: <http://w.e.locafilm.com/webApp/locUnsub?id=osp4BlrV38c7EzjA
+	UkaNcYidJI04OGYEThJCVCACAA%3D%3D&lang=es>, <mailto:feedback@e.locafilm.com>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_349_B90DF0D6.B90DF0D6"
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=-2.2 required=5.0 tests=BAYES_00,HTML_IMAGE_RATIO_02,
+	HTML_MESSAGE,SPF_PASS autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=-2.2 required=5.0 tests=BAYES_00=-2.599,
+	HTML_IMAGE_RATIO_02=0.383,HTML_MESSAGE=0.001,SPF_PASS=-0.001 autolearn=no
+	version=3.2.5
+X-Spam-UVIGO-Level: 
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Estudia un Master en energias renovables y preparate para el futuro
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: errors-ms1@e.locafilm.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_349_B90DF0D6.B90DF0D6
+Content-Type: text/plain;
+	charset="windows-1252"
+Content-Transfer-Encoding: 8bit
+
+Si no puede leer este mensaje, consulte la versión en línea Gracias.  
+
+Para asegurarse de que recibe correctamente nuestros correos,
+añada la dirección pedritoelfisgon@e.locafilm.com en su agenda de direcciones. Gracias.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra,
+basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página.
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+CEU Universidad San PabloIMF FormacionPreparate, estudia una profesion con futuroMaster Universitario oficial en:Energias Renovables (60 ects) para titulados universitarios Tu título Universitario oficial del Máster en Energías Renovables te permitirá optar a nuevas oportunidades empresariales y profesionales.Solicita Informacion sin compromisohttp://nodes.reactivpub.fr/r/clic-1402-10178-24924-url-aHR0cDovL3Qyb21lZGlhLnNvbHV0aW9uLndlYm9yYW1hLmZyL2ZjZ2ktYmluL3BlcmZvcm1hbmNlLmZjZ2k_SUQ9NDEzOTgwJkE9MSZMPTM2Mjk5NCZDPTEzNTE5JlA9MjE5MzQmVD1FJlVSTA?rgroup=p_4001&trackaff=&group=
+
+De acuerdo con la ley sobre informática y libertades, puede darse de baja en cualquier momento.
+
+Si ya no desea recibir ofertas comerciales de parte nuestra, basta con que acceda a la página y cambie sus preferencias de notificación por correo electrónico.
+O entre en esta página. 
+
+Copyright © 2008 Locafilm.
+Todos los derechos reservados. Las marcas y marcas comerciales mencionadas pertenecen a sus respectivos propietarios.
+
+
+------=_NextPart_349_B90DF0D6.B90DF0D6
+Content-Type: text/html;
+	charset="windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+</HEAD>
+<BODY>
+  <center>
+  <table width=3D'600' align=3D"center">
+    <tr>
+    <td bgcolor=3D"#A6A6A6" height=3D'40'>
+        <center>
+        <FONT COLOR=3D'#FFFFFF' STYLE=3D'font-family: Verdana;font-size: 10=
+px;'>
+    <FONT COLOR=3D'#5A5A5A' STYLE=3D'font-family: Verdana;font-size: 11px; =
+'>Si no puede leer este mensaje, 
+       <a href=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3e94cf79,1d1246f0,1d18=
+d272&p1=3D1522b8f491247bcbe8" _label=3D"Page miroir" _type=3D"mirrorPage" s=
+tyle=3D"color:#333;"><span style=3D"color:#333;">consulte la versi=F3n en l=
+=EDnea Gracias</span></a><br/></FONT><br/>Pedrito el Fisgon le propone desc=
+ubrir la oferta m=E1s abajo</b></font><br>
+    <font style=3D"font-family: Verdana; font-size: 11px;" color=3D"#d6346d=
+"><b> Toma el rumbo de tu vida y estudia un master en energias revobables, =
+</b><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Dh3e94cf79,1d1246f0,1d18d27=
+3">sigue este enlace</a><br><div align=3Dcenter><FONT face=3DArial color=3D=
+#000000 size=3D2>Si ya no desea recibir ofertas comerciales de nuestra part=
+e, por favor entre aqu=ED,<BR/><a href=3D"http://t.e.locafilm.com/r/=3Fid=
+=3Dh3e94cf79,1d1246f0,1d18d274&p1=3Dosp4BlrV38c7EzjAUkaNcYidJI04OGYEThJCVCA=
+CAA%3D%3D" _type=3D"optout" _label=3D"Lien de d=E9sinscription">Entre en es=
+ta p=E1gina.</A></FONT></div>
+</font>
+    </center></td></tr></table>
+    </center>
+
+
+
+
+
+<P><table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0"=
+ width=3D"550">      <tr>      <td>      <table border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"550">                  <tr>            <td><=
+a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3e94cf79,1d1246f0,1d18d273"><i=
+mg alt=3D"estudia una profesion con futuro" src=3D"http://img.potejack.com/=
+ES/cursosyformacion_CEUIFM/01-1.jpg" border=3D"0" height=3D"243" width=3D"2=
+75"></a></td>            <td><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do=
+3e94cf79,1d1246f0,1d18d275"><img alt=3D"master universitario en energias re=
+novables" src=3D"http://img.potejack.com/ES/cursosyformacion_CEUIFM/01-2.jp=
+g" border=3D"0" height=3D"243" width=3D"275"></a></td>          </tr>      =
+        </table>      </td>    </tr>    <tr>      <td>      <table border=
+=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">                  =
+<tr>            <td width=3D"21"><img src=3D"http://img.potejack.com/ES/cur=
+sosyformacion_CEUIFM/02.jpg" alt=3D"barra numero uno" height=3D"58" width=
+=3D"21"></td>            <td style=3D"font-family: Arial,Helvetica,sans-ser=
+if; font-size: 12px; color: rgb(0, 62, 111);" alt=3D"barra numero dos" back=
+ground=3D"http://img.potejack.com/ES/cursosyformacion_CEUIFM/03.jpg" valign=
+=3D"top" width=3D"298">Tut&iacute;tulo Universitario oficial del M&aacute;s=
+ter enEnerg&iacute;as Renovables te permitir&aacute; optar a nuevasoportuni=
+dades empresariales y profesionales.</td>            <td width=3D"231"><a h=
+ref=3D"http://t.e.locafilm.com/r/=3Fid=3Do3e94cf79,1d1246f0,1d18d276"><img =
+src=3D"http://img.potejack.com/ES/cursosyformacion_CEUIFM/04.jpg" alt=3D"im=
+agen de publicidad uno" border=3D"0" height=3D"58" width=3D"231"></a></td> =
+         </tr>              </table>      </td>    </tr>    <tr>      <td> =
+     <table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"550">=
+                  <tr>            <td><a href=3D"http://t.e.locafilm.com/r/=
+=3Fid=3Do3e94cf79,1d1246f0,1d18d277"><img alt=3D"solicita informacion sin c=
+ompromiso" src=3D"http://img.potejack.com/ES/cursosyformacion_CEUIFM/05.gif=
+" border=3D"0" height=3D"75" width=3D"319"></a></td>            <td><a href=
+=3D"http://t.e.locafilm.com/r/=3Fid=3Do3e94cf79,1d1246f0,1d18d278"><img src=
+=3D"http://img.potejack.com/ES/cursosyformacion_CEUIFM/06.jpg" alt=3D"image=
+n de publicidad dos" border=3D"0" height=3D"75" width=3D"231"></a></td>    =
+      </tr>              </table>      <table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"550">                  <tr>            <td><a =
+href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3e94cf79,1d1246f0,1d18d279"><img=
+ src=3D"http://img.potejack.com/ES/cursosyformacion_CEUIFM/07.jpg" alt=3D"i=
+magen de publicidad tres" border=3D"0" height=3D"214" width=3D"319"></a></t=
+d>            <td><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3e94cf79,1d=
+1246f0,1d18d27a"><img src=3D"http://img.potejack.com/ES/cursosyformacion_CE=
+UIFM/08.jpg" alt=3D"imagen de publidad cuatro" border=3D"0" height=3D"214" =
+width=3D"231"></a></td>          </tr>              </table>      </td>    =
+</tr>  </table><img src=3D"http://nodes.reactivpub.fr/mailing-1402-10178-24=
+924=3Frgroup=3Dp_4001&group=3D" alt=3D"imagen de tracking" border=3D"0" hei=
+ght=3D"1" width=3D"1"></P>
+<P><FONT face=3D"Courier New" color=3D#008080 size=3D2><br/><DIV align=3Dce=
+nter><FONT face=3DArial color=3D#000000 size=3D2>De acuerdo con nuestros da=
+tos, usted registr=F3 la direcci=F3n &nbsp;<FONT face=3D"Courier New" color=
+=3D#008080 size=3D2>pablof@uvigo.es</FONT> cuando se dio de alta en nuestro=
+ sitio web.</FONT><BR/><br/><FONT face=3D"Courier New" color=3D#008080 size=
+=3D2><div align=3Dcenter><FONT face=3DArial color=3D#000000 size=3D2>Si ya =
+no desea recibir ofertas comerciales de nuestra parte, por favor entre aqu=
+=ED,<BR/><a href=3D"http://t.e.locafilm.com/r/=3Fid=3Do3e94cf79,1d1246f0,1d=
+18d27c&p1=3Dosp4BlrV38c7EzjAUkaNcYidJI04OGYEThJCVCACAA%3D%3D" _type=3D"opto=
+ut" _label=3D"Lien de d=E9sinscription">Entre en esta p=E1gina.</A></FONT><=
+/div>
+</FONT></DIV></FONT></P><img height=3D'0' width=3D'0' alt=3D'' src=3D'http:=
+//t.e.locafilm.com/r/=3Fid=3Do3e94cf79,1d1246f0,1'/></BODY></HTML>
+
+------=_NextPart_349_B90DF0D6.B90DF0D6--
+
+

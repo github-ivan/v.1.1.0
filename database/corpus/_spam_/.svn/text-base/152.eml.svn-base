@@ -1,0 +1,58 @@
+X-Account-Key: account2
+Return-path: <hkla1l4a08hb3fg@uvigo.es>
+Envelope-to: hostmaster@uvigo.es
+Delivery-date: Tue, 06 Apr 2010 13:09:46 +0200
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <hkla1l4a08hb3fg@uvigo.es>)
+	id 1Nz6fC-0005ZZ-Bc
+	for hostmaster@uvigo.es; Tue, 06 Apr 2010 13:09:46 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o36B9fau003239
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <hostmaster@uvigo.es>; Tue, 6 Apr 2010 13:09:45 +0200
+Date: Tue, 6 Apr 2010 13:09:45 +0200
+Message-Id: <201004061109.o36B9fau003239@acelga.uvigo.es>
+Received: from [95.78.137.69] (helo=altrans.fr)
+	by cogumelo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <hkla1l4a08hb3fg@uvigo.es>)
+	id 1Nz6f6-0008Vl-UP
+	for hostmaster@uvigo.es; Tue, 06 Apr 2010 13:09:41 +0200
+To: <hostmaster@uvigo.es>
+From: <hostmaster@uvigo.es>
+MIME-Version: 1.0
+Importance: High
+Content-Type: text/html
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=3.2 required=5.0 tests=BAYES_50,HTML_MESSAGE,
+	MIME_HTML_ONLY,MISSING_DATE,MISSING_MID,RCVD_IN_PBL,RDNS_NONE,SPF_FAIL
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=3.2 required=5.0 tests=BAYES_50=0.001,
+	HTML_MESSAGE=0.001,MIME_HTML_ONLY=1.457,MISSING_DATE=0.001,MISSING_MID=0.001,
+	RCVD_IN_PBL=0.905,RDNS_NONE=0.1,SPF_FAIL=0.693 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: ***
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Lo interesante de ingresos para usted.
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: hkla1l4a08hb3fg@uvigo.es
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-2">
+</HEAD>
+<BODY>Estoy tratando de encontrar a los residentes de Espana que quisieran ocupar el cargo de mi ayudante.<br>
+Ganancias seran de 2,000 euros por mes!<br>
+<br>
+<b>Si tenga interes en este trabajo, se nos envie via correo electronico <br>
+<a href="mailto:Brigitte@europen-un.com">Brigitte@europen-un.com</a> los siguientes datos:</b> <br>
+nombre, edad, domicilio y telefono de contacto.
+<br>
+Al recibir este mensaje por un error, disculpenos.</BODY></HTML>
+
+bir este mensaje por un error, disculpenos.</BODY></HTML>
+

@@ -1,0 +1,2 @@
+body SPAM_HUNTING hunt_spam();
+describe SPAM_HUNTING Checks if email pass the SpamHunting

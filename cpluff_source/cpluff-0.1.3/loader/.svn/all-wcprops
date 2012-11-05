@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/loader
+END
+loader.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/loader/loader.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/loader/Makefile.am
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/318/cpluff_source/cpluff-0.1.3/loader/Makefile
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/cpluff_source/cpluff-0.1.3/loader/Makefile.in
+END

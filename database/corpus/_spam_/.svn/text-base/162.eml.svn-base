@@ -1,0 +1,71 @@
+X-Account-Key: account2
+Return-path: <g.saliuka06@btinternet.com>
+Envelope-to: pablof@correo.uvigo.es
+Delivery-date: Tue, 01 Jun 2010 16:25:17 +0200
+Received: from dns.uvigo.es ([193.146.32.86] helo=acelga.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <g.saliuka06@btinternet.com>)
+	id 1OJSP7-00069B-7x
+	for pablof@correo.uvigo.es; Tue, 01 Jun 2010 16:25:17 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o51EPC3Q027318
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <pablof@correo.uvigo.es>; Tue, 1 Jun 2010 16:25:16 +0200
+Received: from smtp819.mail.ird.yahoo.com ([77.238.189.19])
+	by cogumelo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <g.saliuka06@btinternet.com>)
+	id 1OJSP2-00028R-AO
+	for pablof@correo.uvigo.es; Tue, 01 Jun 2010 16:25:12 +0200
+Received: (qmail 7728 invoked from network); 1 Jun 2010 14:25:06 -0000
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024; d=btinternet.com;
+  h=DKIM-Signature:Message-ID:Date:Received:X-Yahoo-SMTP:X-YMail-OSG:X-Yahoo-Newman-Property:From:To:Subject;
+  b=OYf3yQMwJVomdkeLVhTCFInK2Mu/VQRG5ECx0RY5xE6Bte/+fUYBqDZweS8MZki2aBsdMM3UzVzfhrn9Eee2qh70NjRAh4q16FLEAQzmvaj3uPJK8Ee6HOiNtVRaRYyRLq6RDLqgIO5NnJYain2+pKvnJBJjUIyIBPjH44OSy40=  ;
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=btinternet.com; s=s1024; t=1275402306; bh=B9iNtjs40zJo/aQx5acPwHj4nkgVfYjiZUEEjeCVtuA=; h=Message-ID:Date:Received:X-Yahoo-SMTP:X-YMail-OSG:X-Yahoo-Newman-Property:From:To:Subject; b=Yqi8M00AHmjmdEsTSIMxOJ2BgzW0WnZNSxXOVzms4+uqmsU3+dxsaKJJoO3Jke91y0yc7L1OZSooZ7LMNWwIT2cNPOTe2O6n1sgVTxMO3olPfUQCv4jKKAj3SIoJlig2wv/agNmZ/dPymy3JRnYU6m9QERf2DYRELD2Ixoo0Od8=
+Message-ID: <542557.7160.qm@smtp819.mail.ird.yahoo.com>
+Date: Tue, 1 Jun 2010 14:25:06 +0000 (GMT)
+Received: from localhost (g.saliuka06@195.93.250.91 with login)
+        by smtp819.mail.ird.yahoo.com with SMTP; 01 Jun 2010 14:25:06 +0000 GMT
+X-Yahoo-SMTP: p3u3dqOswBDm7KBIGH4ImmrGojtUBoG9b5uKlZWFPCeBtcZEvBYs
+X-YMail-OSG: 28vt8eUVM1lRWLOUf5I0FNsRGywSbcFWVbw2MkrVj5XqPhdEmOjinxb1konYdqdEFK5NAL2Xmq.VPfDcQQKr6Pr5y6scrgmwDWiQHViyka8lp10qPoSLEvItRmM8cQfcSrKp2KJ1aa_mdfpsvV88d1XOyKJ0sMggU244E0FILdjmtIK90c.UWJUfA0BHnHW6JjB_FqXFrMhXAo.MCgzoYRLtGSpbml7Uy6xT42LXIcRCk6gv9tPcYvc.G5mkAw--
+X-Yahoo-Newman-Property: ymail-3
+From: g.saliuka06@btinternet.com
+To: pablof@correo.uvigo.es
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=-2.6 required=5.0 tests=BAYES_00,UNPARSEABLE_RELAY
+	autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=-2.6 required=5.0 tests=BAYES_00=-2.599,
+	UNPARSEABLE_RELAY=0.001 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: 
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: Necesidad de mano de obra
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.86
+X-SA-Exim-Mail-From: g.saliuka06@btinternet.com
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+Buenos Dias!
+Nos alegra informarle que empezamos la seleccion de empleados para el puesto del Agente financiero en Espana. Nuestro papel consiste en encontrar los mejores candidatos que satisfagan las necesidades de nuestros clientes. La cantidad de puestos para dicho cargo es limitado, por eso contratamos seg.n los resultados del concurso, seleccionamos a los mejores empleados y es posible que Usted sea la persona que buscamos. Usted tiene que corresponder a todos los reherimientos de nuestra compania:
+Sociabilidad
+Conocimiento del ingles hablado
+Manejar el ordenador a nivel usuario.
+Responsabilidad en el trabajo
+Salario de 2500 euros.
+
+Para recibir la informacion mas detallada dirigirse al e-mail: info@globalltdco.com
+
+
+Dear Employer!
+We are glad to inform you of beginning staff recruitment for the position of the Financial Agent in Spain. We are looking for the best candidates meeting the demands of our clients.  The number of vacancies for this position is limited, that's why the recruitment takes place on a competition basis. We select the best employees and, probably, you are the one whom we are looking for!  You should clearly conform to the requirements of our Company:
+Interpersonal skills
+Conversational  English knowledge
+PC user.
+Responsible approach to work
+Salary - from EUR 2500
+
+If you need more detailed information please send an email to the address: info@globalltdco.com
+
+

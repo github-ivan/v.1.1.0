@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/81/database/sha1-c
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/81/database/sha1-c/license.txt
+END
+sha1.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/81/database/sha1-c/sha1.h
+END
+sha
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/81/database/sha1-c/sha
+END
+sha.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/81/database/sha1-c/sha.c
+END
+shatest.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/81/database/sha1-c/shatest.c
+END
+sha1.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/81/database/sha1-c/sha1.c
+END

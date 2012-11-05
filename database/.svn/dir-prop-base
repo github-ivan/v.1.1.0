@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 248
+liblearn_utils.a
+liblearn_bayes.a
+liblearn_spamhunting.a
+.texto.txt.swp
+.learn_bayes.c.swp
+.learn_bayes.h.swp
+.Makefile.swp
+.ficherito.dat.swp
+liblearn_awl.a
+.fichero.txt.swp
+liblearn_axl.a
+.awl_registry.txt.swp
+.axl_registry.txt.swp
+.Makefile.swo
+
+END

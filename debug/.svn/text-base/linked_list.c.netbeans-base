@@ -1,0 +1,453 @@
+/****************************************************************
+*
+*   File    : linked_list.c
+*   Purpose : Implements a linked list for storing data.
+*
+*
+*   Author  : David Ruano Ordás
+*
+*
+*   Date    : November  03, 2011
+*
+*****************************************************************************
+*   LICENSING
+*****************************************************************************
+*
+* WB4Spam: An ANSI C is an open source, highly extensible, high performance and
+* multithread spam filtering platform. It takes concepts from SpamAssassin project
+* improving distinct issues.
+*
+* Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+*
+* This file is part of WireBrush for Spam project.
+*
+* Wirebrush for Spam is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public License as
+* published by the Free Software Foundation; either version 3 of the
+* License, or (at your option) any later version.
+*
+* Wirebrush for Spam is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+* General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public License
+* along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*
+***********************************************************************/
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include "logger.h"
+#include "linked_list.h"
+#include "common_dinamic_structures.h"
+
+/*
+ * Struct which stores the pointers to the beginning and end of the linkedlist.
+ * Also stores the lenght of the linkedlist.
+ */
+
+struct linkedlist{
+    node *header;
+    node *tail;
+    int lenght;
+};
+
+/**
+ * Inicializes the struct of the linkedlist.
+ * @return the linked-list initialized.
+ */
+
+linklist *newlinkedlist(){
+
+    linklist *newlist = (linklist *) malloc(sizeof(linklist));
+    if(newlist==NULL){
+        wblprintf(LOG_CRITICAL,"LINKED_LIST","Not enought memory");
+        exit(1);
+    }
+    newlist->header=NULL;
+    newlist->lenght=0;
+    newlist->tail=NULL;
+    
+    return newlist;
+}
+
+/**
+ * Adds a new node at the beginning of the linked-list.
+ * @param list the linked-list to insert at.
+ * @param token the data to be store in the linked-list
+ */
+void addbeginlist(linklist *list, element token) {
+
+    node *new;
+
+    //Reservamos memoria para esta estructura
+
+    if ((new = (node *) malloc(sizeof(node)))) {
+        
+        list->lenght++;
+
+        // Leemos el nombre y lo guardamos
+        new->value= token; 
+
+        if (list->header == NULL){
+            //List is Empty
+            new->next=NULL;
+            
+            list->header=new;
+            list->tail=new;
+        }
+        else{
+            new->next=list->header;
+            list->header=new;
+        }
+
+    } else {
+        wblprintf(LOG_CRITICAL,"LINKED_LIST","Not enought memory");
+        exit(1);
+    }
+}
+/**
+ * Adds the node to the linkedlist using descendant sort.
+ * @param list the linked-list to insert at.
+ * @param token the data to be store in the linked-list (must be a sorted type)
+ */
+void addorder(linklist *list, element token,PFunction f){
+	
+	node *new;
+	
+	if ((new = (node *) malloc(sizeof(node)))) {
+        
+        list->lenght++;
+        new->value= token; 
+		//SI LA LISTA ESTA VACIA
+        if (list->header == NULL){
+            new->next=NULL;
+            list->header=new;
+            list->tail=new;
+        }
+        else{
+            //SI HEADER ES < QUE EL NUEVO -> INSERTO AL PRINCIPIO
+            //f = -1 a<b
+            //f = 0 a=b
+            //f = 1 a>b
+
+            if(f(list->header->value, token) < 0){ //
+                    new->next=list->header;
+                    list->header=new;
+            }
+            else{
+                    node *ant=list->header;
+                    node *pos=list->header;
+
+                    while (pos->next!=NULL && f(pos->value, token) > 0){
+                            ant=pos;
+                            pos=pos->next;
+                    }
+                    //INSERTO EL ULTIMO
+                    if(f(pos->value, token) > 0){
+                            pos->next=new;
+                            new->next=NULL;
+                            list->tail=new;
+                    }
+                    //INSERTO EN EL MEDIO
+                    else{
+                            new->next=ant->next;
+                            ant->next=new;
+                    }
+            }
+        }
+        
+    } else {
+        wblprintf(LOG_CRITICAL,"LINKED_LIST","Not enought memory");
+        exit(1);
+    }
+}
+
+/**
+ * Gets the lenght of the linked-list
+ * @param list the linked-list which wants to know the lenght
+ * @return the length of the linked-list
+ */
+int getlengthlist(linklist *list){
+    return list->lenght;
+}
+
+/**
+ * Adds a new node at the end of the list.
+ * @param list the linked-list to insert at.
+ * @param token the data to be store in the linked-list
+ */
+void addendlist(linklist *list, element token){
+
+    node *new;//, *new2;
+
+    // Reservamos memoria para esta estructura
+
+    new = (node *) malloc(sizeof(node));
+    list->lenght++;
+
+    // Leemos el nombre y lo guardamos
+
+    new->value= token;
+    new->next=NULL;
+	   
+	   
+    if(list->header == NULL){
+       // If List is empty we create First Node.
+       list->header=new;
+       list->tail=new;
+    }
+    else{
+       list->tail->next=new;
+       list->tail=new;
+    }
+}
+
+/**
+ * Returns the content of the first element of the list.
+ * @param list the linked-list to insert at.
+ * @return returns the result obtained by applying the function
+ */
+int getfirst(linklist *list, element *elem){
+    if(list->lenght==0){
+        *elem=NULL;
+        return NODE_MISSING;
+    }
+
+    *elem=list->header->value;
+    return NODE_OK;
+}
+
+/**
+ * Returns the content of the tail node.
+ * @param list the linked-list to insert at.
+ * @return the result obtained by applying the function
+ */
+int getlast(linklist *list, element *elem){
+    if(list->lenght==0){
+        *elem=NULL;
+        return NODE_MISSING;
+    }
+
+    *elem=list->tail->value;
+    return NODE_OK;
+}
+
+/**
+ * Gets and removes the element at the first position.
+ * @param list the linked-list where deletes the node.
+ * @param elem the element at the first position
+ * @return the result obtained by applying the function
+ */
+int removefirst(linklist *list, element *elem){
+
+    if(list->lenght==0){
+        *elem=NULL;
+        return LIST_EMPTY;
+    }
+
+    node *first=list->header;
+
+    if(list->lenght==1){
+        *elem=first->value;
+        list->header=NULL;
+        list->tail=NULL;
+
+    }
+    else{
+        list->header=first->next;
+        *elem=first->value;
+    }
+    free(first);
+    list->lenght--;
+    return NODE_OK;
+}
+
+/**
+ * Gets and removes the element at the last position.
+ * @param list the linked-list where deletes the node.
+ * @param elem the element at the last position
+ * @return the result obtained by applying the function
+ */
+int removelast(linklist *list, element *elem){
+
+    if(list->lenght==0){
+        *elem=NULL;
+        return LIST_EMPTY;
+    }
+
+    node *aux=list->header;
+
+    if(list->lenght==1){
+        *elem=aux->value;
+        list->header=NULL;
+        list->tail=NULL;
+    }
+    else{
+        while(aux->next!=list->tail){
+            aux=aux->next;
+        }
+        list->tail=aux;
+        aux=aux->next;
+        *elem=aux->value;
+    }
+    free(aux);
+    list->lenght--;
+    return NODE_OK;
+}
+
+/**
+ * Get element content at a determined position
+ * @param list the linked-list to insert at.
+ * @param the position of the token
+ * @return the result obtained by applying the function
+ */
+int getatlist(linklist *list,int position, element *elem){
+    int i;
+    node *pointer=list->header;
+    
+    if(list==NULL || list->lenght==0) {
+        *elem=NULL;
+        return LIST_EMPTY;
+    }
+    
+    if(position<=list->lenght){
+        for(i=0;i<position;i++){
+            pointer=pointer->next;
+        }
+        *elem=pointer->value;
+        return NODE_OK;
+    }
+    else{
+        *elem=NULL;
+        return NODE_MISSING;
+    }
+
+}
+
+/**
+ * Deletes all the linked-list.
+ * @param list the linked-list to be deleted.
+ */
+void freelist(linklist *list, PFree f){
+    int i=0;
+    node *aux=list->header;
+    node *temp;
+    
+    for(;i<list->lenght;i++){
+        if(aux!=NULL){
+            void *data=(void *)(aux->value);
+            if(data!=NULL) f(data);
+            
+            if(aux->next!=NULL){
+                temp=aux;
+                aux=aux->next;
+                free(temp);
+            } else free(aux);
+        }
+    }
+    free(list);
+    list=NULL;
+    //list->header=NULL;
+    //list->tail=NULL;
+    //list->lenght=0;
+}
+
+/*
+ * Iteratively call f with argument (item, data) for
+ * each element data in the list. The function must
+ * return a list status code. If it returns anything other
+ * than NODE_OK the traversal is terminated. f must
+ * not reenter any linklist functions, or deadlock may arise.
+ */
+int linklist_iterate_data(linklist *list, PFunction f, element item){
+
+	/* Cast the hashmap */
+	node *aux=list->header;
+	int i;
+	/* On empty hashmap, return immediately */
+	if (list->lenght <= 0)
+		return NODE_MISSING;	
+
+	/* Linear probing */
+	
+	for(i=0;i<list->lenght;i++){
+		void *data = (void *)(aux->value);
+		int status = f(item, data);
+		if (status != NODE_OK) {
+                   return status;
+		}
+		if(aux->next!=NULL)
+			aux=aux->next;
+	}
+        return NODE_OK;
+}
+
+/*
+int free_node(element data){
+    printf("Elimino %d\n",*(int *)data);
+    free((int *)data);
+}
+
+
+
+//COMPARE ELEMENTS
+int compare_element(element a, element b){
+	int *a1=(int *)a;
+	int *b1=(int *)b;
+	
+	if(*a1<*b1)
+		return -1;
+	else 
+		if(*a1>*b1)
+			return 1;
+		else
+			return 0;
+		
+}
+
+int main(){
+
+    linklist *list;
+    list = newlinkedlist();
+    //node *first;
+    int i;
+    int *first;
+    int *last;
+	for(i=0;i<10;i++){
+		int *a=malloc(sizeof(int));
+		*a=i;
+		printf("elemento a insertar %d\n",*a);
+		addorder(list,a,&compare_element);
+		printf("[%d elementos] - Lista: ",getlengthlist(list));
+		printf("------------\n");
+                getfirst(list,(element *)&first);
+                getlast(list,(element *)&last);
+		printf("header(%d)\n",*(int *)first);
+		printf("tail (%d)\n",*(int *)last);
+	}
+
+        while(removelast(list,(element *)&last)!=LIST_EMPTY){
+            printf("\nElimino del final\n");
+            printf("DATA: %d\n",*(int *)last);
+            free(last);
+            if(getfirst(list,(element *)&first)==NODE_OK)
+                printf("header: (%d)\n",*(int *)first);
+            else
+                printf("header: NULL\n");
+            if(getlast(list,(element *)&last)==NODE_OK)
+                printf("tail (%d)\n",*(int *)last);
+            else
+                printf("tail: NULL\n");
+        }
+        
+	printf("\nElimino \n");
+        freelist(list,&free_node);
+	return 1;
+
+ }
+*/
+
+

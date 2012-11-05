@@ -1,0 +1,253 @@
+/****************************************************************
+*
+*   File    : cache.c
+*   Purpose : Implements a dinamic cache using hashmap and linkedlist.
+*
+*
+*   Author  : David Ruano Ordás
+*
+*
+*   Date    : March  14, 2011
+*
+*****************************************************************************
+*   LICENSING
+*****************************************************************************
+*
+* WB4Spam: An ANSI C is an open source, highly extensible, high performance and
+* multithread spam filtering platform. It takes concepts from SpamAssassin project
+* improving distinct issues.
+*
+* Copyright (C) 2010, by Sing Research Group (http://sing.ei.uvigo.es)
+*
+* This file is part of WireBrush for Spam project.
+*
+* Wirebrush for Spam is free software; you can redistribute it and/or
+* modify it under the terms of the GNU Lesser General Public License as
+* published by the Free Software Foundation; either version 3 of the
+* License, or (at your option) any later version.
+*
+* Wirebrush for Spam is distributed in the hope that it will be useful,
+* but WITHOUT ANY WARRANTY; without even the implied warranty of
+* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser
+* General Public License for more details.
+*
+* You should have received a copy of the GNU Lesser General Public License
+* along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*
+***********************************************************************/
+
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include "logger.h"
+#include "hashmap.h"
+#include "linked_list.h"
+#include "cache.h"
+
+struct cache_data{
+    linklist *list;
+    map_t hashmap;
+    int max_size;
+};
+
+cache_data *newcache(int max_size){
+
+    cache_data *newcache = (cache_data *) malloc(sizeof(cache_data));
+    
+    if(newcache==NULL){
+        wblprintf(LOG_CRITICAL,"CACHE","Not enought memory");
+        exit(1);
+    }
+
+    if((newcache->hashmap=hashmap_new())==NULL){
+        wblprintf(LOG_CRITICAL,"CACHE","Not enought memory to allocate hashmap");
+        exit(1);
+    }
+
+    if((newcache->list=newlinkedlist())==NULL){
+        wblprintf(LOG_CRITICAL,"CACHE","Not enought memory to allocate linklist");
+        exit(1);
+    }
+
+    newcache->max_size=max_size;
+
+    return newcache;
+}
+
+c_element newdata(char *key, element elem){
+    
+    c_element new;
+    if((new=(c_element)malloc(sizeof(cache_element)))==NULL){
+        wblprintf(LOG_CRITICAL,"CACHE","Not enought memory to allocate cache element\n");
+        return NULL;
+    }
+
+    new->key=key;
+    new->data=elem;
+
+    return new;
+}
+
+int push_cache(cache_data *_cache, char *key,PFKey f, element elem){
+
+
+    c_element new_elem;
+    
+    if(_cache->max_size==0) return CACHE_UNDEF;
+    
+    if(hashmap_get(_cache->hashmap,key,(any_t *)&new_elem)==MAP_OK)
+        return CACHE_ELEM_EXIST;
+    
+    if(getlengthlist(_cache->list)>=_cache->max_size){
+        c_element remove;
+        removelast(_cache->list,(element *)&remove);
+        hashmap_remove(_cache->hashmap,((c_element)remove)->key);
+        f(remove->data);
+        free(remove->key);
+        free(remove);
+    }
+    
+    new_elem= newdata(key,elem);
+
+    if(new_elem!=NULL){
+        addbeginlist(_cache->list,new_elem);
+        hashmap_put(_cache->hashmap,key,new_elem->data);
+        return CACHE_OK;
+    }
+    else return CACHE_FAIL;
+
+}
+
+int peek_cache(cache_data *_cache, char *key, element *elem){
+
+    element result;
+    if(_cache->max_size==0 || hashmap_get(_cache->hashmap,key,(any_t *)&result)!=MAP_OK){        
+        *elem=NULL;
+        return CACHE_ELEM_MISSING;        
+    }
+    else{
+        *elem=result;
+        return CACHE_ELEM_FOUND;
+    }
+
+}
+
+void set_cache_size(cache_data *_cache,int size){
+    _cache->max_size=size;
+}
+
+int get_cache_size(cache_data *_cache){
+    return _cache->max_size;
+}
+
+void free_cache(cache_data *cache,PFree f){
+    freelist(cache->list,f);
+    hashmap_free(cache->hashmap);
+    free(cache);
+}
+/*
+int free_elem(element item){
+    printf("INSERCION---FULL\n");
+    printf("BORRADO\n");
+    printf("DATA %s\n",(char* )item);
+    free(item);
+    return CACHE_OK;
+}
+
+
+int free_item(element item){
+    c_element _item=(c_element)item;
+    printf("INFO ELEMENTO A ELIMINAR \n");
+    printf("KEY: %s\n",(char *)_item->key);
+    printf("DATA: %d\n",*(int *)_item->data);
+    free(_item->key);
+    free(_item->data);
+    free(_item);
+    return CACHE_OK;
+}
+int print_info_list(element item, element data){
+    c_element aux=(c_element)data;
+    printf("-KEY: %s\n",aux->key);
+    printf("-DATA: %d\n",*(int *)aux->data);
+    return NODE_OK;
+}
+
+int print_info_map(any_t item, any_t data, any_t key){    
+    printf("KEY: %s\n",(char *)key);
+    printf("DATA: %d\n",*(int *)data);
+    return MAP_OK;
+}
+
+int main(){
+    cache_data *cache;
+    cache=newcache(3);
+    int *a, *b, *c, *d;
+    char *uno, *dos, *tres,*cuatro;
+
+    uno=malloc(sizeof(char)*4);
+    strcpy(uno,"uno");
+
+    dos=malloc(sizeof(char)*4);
+    strcpy(dos,"dos");
+
+    tres=malloc(sizeof(char)*5);
+    strcpy(tres,"tres");
+
+    cuatro=malloc(sizeof(char)*7);
+    strcpy(cuatro,"cuatro");
+
+    a=malloc(sizeof(int));
+    b=malloc(sizeof(int));
+    c=malloc(sizeof(int));
+    d=malloc(sizeof(int));
+    
+    *a=1;
+    *b=2;
+    *c=3;
+    *d=4;
+
+    printf("==INSERTAR==\n");
+    printf("KEY: %s\n",uno);
+    printf("DATA: %d\n",*a);
+    printf("Result push %d\n",push_cache(cache,uno,&free_elem,a));
+
+    printf("KEY: %s\n",dos);
+    printf("DATA: %d\n",*b);
+    printf("Result push +%d\n",push_cache(cache,dos,&free_elem,b));
+
+    printf("KEY: %s\n",tres);
+    printf("DATA: %d\n",*c);
+    printf("Result push %d\n",push_cache(cache,tres,&free_elem,c));
+    printf("============\n");
+
+    printf("============\n");
+    printf("ITERADOR LISTA\n");
+    linklist_iterate_data(cache->list,&print_info_list,NULL);
+    printf("============\n");
+
+    printf("==INSERTAR==\n");
+    printf("KEY: %s\n",cuatro);
+    printf("DATA: %d\n",*d);
+    printf("Result push %d\n",push_cache(cache,cuatro,&free_elem,d));
+    printf("============\n");
+
+    int *res;
+    printf("==PEEK==\n");
+    printf("KEY: %s\n",dos);
+    printf("Result peek %d\n",peek_cache(cache,dos,(element *)&res));
+    //printf("DATA: %d\n",*(int *)res);
+
+    printf("ITERADOR LISTA\n");
+    linklist_iterate_data(cache->list,&print_info_list,NULL);
+    printf("============\n");
+
+    printf("============\n");
+    printf("ITERADOR HASHMAP\n");
+    hashmap_iterate_elements(cache->hashmap,&print_info_map,NULL);
+    printf("============\n");
+
+    printf("====LIBERANDO===\n");
+    free_cache(cache,&free_item);
+    printf("================\n");
+}
+*/

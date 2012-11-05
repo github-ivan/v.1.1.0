@@ -1,0 +1,108 @@
+10
+
+dir
+324
+http://svn.wirebrush4spam.atopa.me/svn/plugins
+http://svn.wirebrush4spam.atopa.me/svn
+
+
+
+2012-10-30T15:22:00.326917Z
+324
+drordas
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+cf692837-bdf8-421a-9107-db783862b592
+
+rxl_plugin
+dir
+
+
+
+delete
+
+txt_regex_plugin
+dir
+
+core
+dir
+
+regex_plugin
+dir
+
+
+
+delete
+
+txt_pcre_regex_plugin
+dir
+
+pcre_regex_plugin
+dir
+
+
+
+delete
+
+axl_plugin
+dir
+
+
+
+delete
+
+spf_plugin
+dir
+
+
+
+delete
+
+false_plugin
+dir
+
+eml_structure_parser
+dir
+
+
+
+delete
+
+spam_hunting_plugin
+dir
+
+
+
+delete
+
+txt_structure_parser
+dir
+
+url_parser
+dir
+
+
+
+delete
+
+txt_bayes_plugin
+dir
+
+preschedule_plugin
+dir
+
+bayes_plugin
+dir
+

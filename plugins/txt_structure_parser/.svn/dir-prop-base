@@ -1,0 +1,7 @@
+K 10
+svn:ignore
+V 49
+libtxt_parser_utils.a
+libtxt_structure_parser.so
+
+END

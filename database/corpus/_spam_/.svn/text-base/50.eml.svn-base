@@ -1,0 +1,79 @@
+X-Account-Key: account2
+Return-path: <hkidddh@uvigo.es>
+Envelope-to: hostmaster@uvigo.es
+Delivery-date: Wed, 07 Apr 2010 14:12:17 +0200
+Received: from mail.uvigo.es ([193.146.32.69] helo=grelo.uvigo.es)
+	by cacahuete.uvigo.es with esmtps (TLS1.0:DHE_RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69)
+	(envelope-from <hkidddh@uvigo.es>)
+	id 1NzU7E-0004iz-T6
+	for hostmaster@uvigo.es; Wed, 07 Apr 2010 14:12:16 +0200
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by grelo.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o37CCCM3007786
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <hostmaster@uvigo.es>; Wed, 7 Apr 2010 14:12:16 +0200
+Date: Wed, 7 Apr 2010 14:12:16 +0200
+Message-Id: <201004071212.o37CCCM3007786@grelo.uvigo.es>
+Received: from adsl-62-167-218-102.adslplus.ch ([62.167.218.102])
+	by cogumelo.uvigo.es with smtp (Exim 4.69)
+	(envelope-from <hkidddh@uvigo.es>)
+	id 1NzU79-00063T-Pm
+	for hostmaster@uvigo.es; Wed, 07 Apr 2010 14:12:12 +0200
+To: <hostmaster@uvigo.es>
+From: <hostmaster@uvigo.es>
+MIME-Version: 1.0
+Importance: High
+Content-Type: text/html
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=4.6 required=5.0 tests=BAYES_50,FH_HELO_EQ_D_D_D_D,
+	HELO_DYNAMIC_DHCP,HTML_MESSAGE,MIME_HTML_ONLY,MISSING_DATE,MISSING_MID,
+	RCVD_IN_PBL,RDNS_DYNAMIC,SPF_FAIL autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=4.6 required=5.0 tests=BAYES_50=0.001,
+	FH_HELO_EQ_D_D_D_D=0.001,HELO_DYNAMIC_DHCP=1.398,HTML_MESSAGE=0.001,
+	MIME_HTML_ONLY=1.457,MISSING_DATE=0.001,MISSING_MID=0.001,RCVD_IN_PBL=0.905,
+	RDNS_DYNAMIC=0.1,SPF_FAIL=0.693 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: ****
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: cooperacion con una compania internacional
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+X-SA-Exim-Connect-IP: 193.146.32.69
+X-SA-Exim-Mail-From: hkidddh@uvigo.es
+X-SA-Exim-Scanned: No (on cacahuete.uvigo.es); SAEximRunCond expanded to false
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+</HEAD>
+<BODY><b>Oferta de colaboracion para los espanoles.</b><br>
+<br>
+<b>Demandas:</b><br>
+La compania mundial que perfecciona la logistica y avanza el negocio internacional invita a la colaboracion al representante de servicio regional.<br>
+ <br>
+<b>Demandas:</b><br>
+- Ensenanza (secundaria, tecnica, superior tecnica)<br>
+- Habitos de trabajo en PC: usuario de Windows (2000, XP, Vista), MS Office (Word. Excel, Access, Internet). MS SQL es deseable. <br>
+- Experiencia: trabajo colectivo, proyectos de larga duracion, giro bancario, publicidad.<br>
+<br>
+<b>Obligaciones:</b><br>
+- Recogida de informaci?n en lo que se refiere a la necesidad de bienes y servicios que se otorgan por nuestros clientes<br>
+- Publicidad de los productos de los clientes <br>
+- Elaboracion de los encargos de los clientes a proposito de la apertura de las cuentas bancarias y de elaboracion de pagos. <br>
+- Otros servicios de negocio que son necesarios para los clientes (a discutir separadamente). <br>
+<br>
+<b>Condiciones:</b> <br>
+- Salario - 2500 euros<br>
+- Peroodo de prueba - 1 mes. <br>
+- Jornada laboral sin norma. <br>
+- Comisiones de servicio a las regiones proximas son posibles. <br>
+- Pago de comunicaciones moviles y de materiales combustibles y lubricantes.<br>
+<br>
+<b>Si tiene el interes a esta oferta, Vd. puede mandar la forma siguiente al correo electronico <a href="mailto:Dustin@best-union-web.com">Dustin@best-union-web.com</a></b> <br>
+Nombre completo:<br>
+Edad:<br>
+Ciudad de residencia:<br>
+Telefono:<br>
+<br>
+Tambien es muy deseable adjuntar su curriculo a la carta. </BODY></HTML>
+

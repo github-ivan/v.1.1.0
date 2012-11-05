@@ -1,0 +1,47 @@
+Return-Path: <leisha_verena_ma@alldata.net>
+Received: from correo.ei.uvigo.es ([unix socket])
+	by correo (Cyrus v2.1.16-IPv6-Debian-2.1.16-8) with LMTP; Tue, 29 Jun 2010 23:07:05 +0200
+X-Sieve: CMU Sieve 2.2
+Received: from acelga.uvigo.es (dns.uvigo.es [193.146.32.86])
+	by correo.ei.uvigo.es (Postfix) with ESMTP id E48082692E2
+	for <mbvidal@correo.ei.uvigo.es>; Tue, 29 Jun 2010 23:07:05 +0200 (CEST)
+Received: from cogumelo.uvigo.es (antispam1.uvigo.es [193.146.32.120])
+	by acelga.uvigo.es (8.13.8/8.13.8/Debian-3) with ESMTP id o5TKxfFb020264
+	(version=TLSv1/SSLv3 cipher=AES256-SHA bits=256 verify=NOT)
+	for <mbvidal@correo.ei.uvigo.es>; Tue, 29 Jun 2010 22:59:45 +0200
+Received: from [217.114.162.180]
+	by cogumelo.uvigo.es with esmtp (Exim 4.69)
+	(envelope-from <leisha_verena_ma@alldata.net>)
+	id 1OThu5-0003Ri-VS
+	for mbvidal@correo.ei.uvigo.es; Tue, 29 Jun 2010 22:59:41 +0200
+Received: from no.name.available by [217.114.162.180]
+          via smtpd (for antispam1.uvigo.es [193.146.32.120]) with ESMTP; Tue, 29 Jun 2010 21:59:48 +0100
+Message-ID: <4C2A7335.59D3A892@alldata.net>
+Date: Tue, 29 Jun 2010 15:27:01 -0700
+X-Sender: <leisha_verena_ma@alldata.net>
+Reply-To: "Leisha Verena" <leisha_verena_ma@alldata.net>
+Sender: <leisha_verena_ma@alldata.net>
+To: <mbvidal@correo.ei.uvigo.es>
+In-Reply-To: <0fb201cb15ae$2480a76a$8f3e332e@epnn7r3>
+From: "Leisha Verena" <leisha_verena_ma@alldata.net>
+Content-Type: text/plain; charset=iso-8859-2
+Content-Transfer-Encoding: 8bit
+X-SA-Exim-Connect-IP: 217.114.162.180
+X-SA-Exim-Rcpt-To: mbvidal@correo.ei.uvigo.es
+X-SA-Exim-Mail-From: leisha_verena_ma@alldata.net
+X-Spam-Flag: No
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on cogumelo.uvigo.es
+X-Spam-Status: No, score=2.6 required=5.0 tests=BAYES_50,
+	RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_SORBS_WEB autolearn=no version=3.2.5
+X-Spam-UVIGO-Status: No, score=2.6 required=5.0 tests=BAYES_50=0.001,
+	RCVD_IN_BL_SPAMCOP_NET=1.96,RCVD_IN_SORBS_WEB=0.619 autolearn=no version=3.2.5
+X-Spam-UVIGO-Level: **
+X-Spam-UVIGO: No
+X-Spam-UVIGO-Score: _SCOREINT_
+Subject: juztf ma
+X-SA-Exim-Version: 4.2.1 (built Wed, 25 Jun 2008 17:14:11 +0000)
+X-SA-Exim-Scanned: Yes (on cogumelo.uvigo.es)
+X-Mail-Scanned: Criba + Clamd smtp.uvigo.es
+
+zrp
+
