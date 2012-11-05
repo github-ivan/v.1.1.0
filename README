@@ -1,0 +1,30 @@
+In order to compile the application some steps must be followed:
+
+I - Third party library installation (install as root)
+ -> Expat Library: libexpat1-dev
+ -> PCRE Regex Library: libpcre3-dev
+ -> Berkeley DB: libdb-dev
+
+II - C-pluff compilation (from the / proyect directory)
+ 1 -> ./cpluff_compilation (if not executing perm: chmod +x cpluff_compilation)
+ 2 -> make updateldcache (run as root). Include cpluff library in the 
+      system ld-path.
+ 3 -> make clean (to remove any previously compiled data).
+ 4 -> make
+ 
+For executing the apllication (in the / proyect directory)
+ -> The application must be runned in to ways:
+    I - The Wirebrush4SPAM filtering client and server:
+        ./wb4spamd [-p <listening_port>] [--learn=<auto|ham|spam|none>] # SERVER
+        spamc -p <listening_port> > email.eml # CLIENT spamc the client of SpaAssassin filtering platform.
+
+   II - The Wirebrush4SPAM filtering aplication 
+        ./wb4spam [--learn=<auto|ham|spam|none>] email.eml 
+
+ -> Also, some plugins must previously learn email corpuses in order to clasificate new emails. For executing learning application:
+    - Inside database directory type:
+	./wb4spaml --<plugin> --<email_type> [--<directory>]
+
+	For more info, see ./wb4spaml --help.
+	
+ 
